@@ -4,7 +4,9 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "scrape": "node --env-file=.env scrape.js",
+    "scrape-full": "node --env-file=.env scrape_full.js",
+    "makePDF": "node makePDF"
   },
   "type": "module",
   "keywords": [],

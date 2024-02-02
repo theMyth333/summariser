@@ -2,8 +2,8 @@ import * as fs from 'fs'
 import * as path from 'path'
 import markdownpdf from 'markdown-pdf'
 
-const inputFolderPath = './summarised-september';
-const outputFile = 'september.pdf';
+const inputFolderPath = './summarised-november';
+const outputFile = 'november.pdf';
 
 
 
@@ -21,6 +21,8 @@ const concatenateMarkdownFiles = (folderPath) => {
   const files = fs.readdirSync(folderPath);
   let combinedMarkdown = '';
   files.sort(compareFn)
+
+  console.log(files);
 
   files.forEach((file) => {
     const filePath = path.join(folderPath, file);

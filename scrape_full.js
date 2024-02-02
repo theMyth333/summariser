@@ -19,7 +19,7 @@ async function summarise(content) {
       },
       { role: 'user', content },
     ],
-    model: 'gpt-3.5-turbo',
+    model: 'gpt-3.5-turbo-0613',
     // max_tokens: 4097
   })
   return await completion.choices[0].message.content
@@ -31,45 +31,25 @@ function fetchData(localDate) {
     .get(`https://www.bankersadda.com/current-affairs-${localDate}/`)
     .then((response) => {
       const $ = cheerio.load(response.data)
-      let ulContent1 = [
+      let ulContent = [
         'summarise the following content under each headers with atleast 3 bullet points, without leaving key indicators like numbers, in markdown format:',
         `${os.EOL}`,
         `${os.EOL}`,
       ]
-      let ulContent2 = [
-        'summarise the following content under each headers with atleast 3 bullet points, without leaving key indicators like numbers, in markdown format:',
-        `${os.EOL}`,
-        `${os.EOL}`,
-      ]
-      let counter = 0
+
       $('p').each((index, element) => {
         if ($(element).next('ul').text()) {
-          counter = counter + 1
-          if (counter <= 10) {
-            ulContent1.push($(element).prev().text())
-            ulContent1.push($(element).next('ul').text())
-          } else {
-            ulContent2.push($(element).prev().text())
-            ulContent2.push($(element).next('ul').text())
-          }
+            ulContent.push($(element).prev().text())
+            ulContent.push($(element).next('ul').text())
         }
       })
-      const content1 = ulContent1.join(os.EOL)
-      const content2 = ulContent2.join(os.EOL)
+      const content = ulContent.join(os.EOL)
       
-      fs.writeFileSync(`temp/original-${localDate}.md`, `${content1}${os.EOL}${content2}`, 'utf-8')
+      fs.writeFileSync(`temp/original-${localDate}.md`, content, 'utf-8')
 
-      // first half
-      summarise(content1)
+      summarise(content)
         .then((data) => {
-            fs.writeFileSync(`summarised/${localDate}-1.md`, `## ${localDate}${os.EOL}${data}`, 'utf-8')
-        })
-        .catch((error) => console.log(error.message))
-      
-      // second half
-      summarise(content2)
-        .then((data) => {
-            fs.writeFileSync(`summarised/${localDate}-2.md`, `## ${localDate}${os.EOL}${data}`, 'utf-8')
+            fs.writeFileSync(`summarised/${localDate}.md`, `## ${localDate}${os.EOL}${data}`, 'utf-8')
         })
         .catch((error) => console.log(error.message))
 
@@ -107,10 +87,10 @@ function dateRangeLoop(startDate, endDate) {
         'Interval stopped after reaching the maximum number of iterations.'
       )
     }
-  }, 61000)
+  }, 21000)
 }
 
-const startDate = '2023-11-01'
-const endDate = '30-november-2023'
+const startDate = '2023-10-3'
+const endDate = '4-october-2023'
 
 dateRangeLoop(startDate, endDate)

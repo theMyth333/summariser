@@ -1,2216 +1,2969 @@
-## 1-september-2023
-# Russia Launches Islamic Banking Pilot Program: Exploring Shariah-based Finance
+## 1-november-2023
+## 1. NMC to launch "one nation, one registration platform" for doctors
 
-- Russia launches its first Islamic banking pilot program on September 1.
-- The move aims to tap into the potential of Islamic finance, which has already had a presence but lacked official recognition.
-- Islamic banking operates on the principles of Shariah, which prohibits usurious transactions and interest charges.
+- National Medical Commission (NMC) to assign a unique identification number to every doctor in the country by 2024.
+- Creation of the National Medical Register (NMR) as a centralized repository for doctors practicing in India.
+- NMR will replace the existing Indian Medical Register (IMR) and provide comprehensive information about registered doctors.
 
-# Gabon Military Seizes Power Following Disputed Election: A Series of Coups in West and Central Africa
+## 2. President Murmu's maiden two-day visit to Ladakh
 
-- Gabon experiences a coup led by military officers after a disputed election.
-- This marks the eighth coup in West and Central Africa since 2020, reflecting a trend of democratic setbacks.
-- President Ali Bongo is placed under house arrest, and General Brice Oligui Nguema is appointed as the new leader.
+- President Droupadi Murmu participated in the 5th Union Territory Foundation Day ceremony at Sindu Sanskriti Kendra.
+- She interacted with members of self-help groups and local tribals, emphasizing empowerment and community development.
+- The visit celebrated the spirit of Ladakh and highlighted the commitment of its troops.
 
-# India’s Largest Home-Built Nuclear Plant Starts Operations
+## 3. 37% increase in women's workforce participation in India
 
-- India's 700 MW nuclear power plant in Kakrapar, Gujarat, commences operations at maximum capacity.
-- The plant had initially operated at 90 percent capacity but now achieves full operational potential.
-- The new unit strengthens India's nuclear power generation capacity alongside its existing power plants in Kakrapar.
+- Women's workforce participation increased to 37% during the 2022-23 fiscal year, compared to 23% in 2017-18.
+- The government's efforts to empower women in the workplace have contributed to this significant upsurge.
+- The unemployment rate in the country decreased to 3.7% in 2022-23 from 6% in 2017-18.
 
-# Union Minister Piyush Goyal Unveils Statue of First Finance Minister Of Independent India
+## 4. Kozhikode named India's first 'City of Literature' by UNESCO
 
-- Union Minister Piyush Goyal inaugurates a statue of RK Shanmugam Chetty, India's first Finance Minister.
-- The statue now resides in the South Indian Panchayat Sangha complex in Coimbatore.
-- RK Shanmugam Chetty was a prominent lawyer, economist, and politician who presented India's first budget in 1947.
+- Kozhikode becomes the first city in India to be recognized as the 'City of Literature' by UNESCO.
+- The UNESCO Creative Cities Network now has 350 creative cities in over 100 countries.
+- Kozhikode's new title marks a significant milestone in its cultural and literary achievements.
 
-# Cabinet okays PRIP scheme to boost research and innovation
+## 5. Celebrating Karnataka Rajyotsava: 50 years of Karnataka's formation
 
-- The Union Health Ministry introduces the Promotion of Research & Innovation in Pharma-MedTech sector (PRIP) scheme.
-- The scheme aims to boost research and innovation in the pharmaceutical and medtech sectors.
-- The plan includes investing ₹700 crore in creating Centers of Excellence at National Institutes of Pharmaceutical, Education & Research (NIPER).
+- November 1, 2023, marks the 50th anniversary of Karnataka's formation and is celebrated as Karnataka Rajyotsava.
+- Karnataka was officially renamed from Mysore on November 1, 1973.
+- Several other states and territories also commemorate their formation day on November 1.
 
-# Nagaland Becomes First State In North Eastern Region To Initiate Aadhaar Linked Birth Registration
+## 6. Indian Air Force phases out Mig-21 Bison Squadron
 
-- Nagaland launches the Aadhaar-Linked Birth Registration (ALBR) system for children aged 0 to 5 years.
-- The initiative simplifies birth registration and Aadhaar enrolment processes.
-- ALBR confers a unique identity upon infants for tracking essential services such as immunization and education.
+- The Indian Air Force conducted a ceremony at Uttarlai Air Force Station to phase out a squadron of Mig-21 Bison fighter aircraft.
+- The Mig-21 was the first supersonic fighter aircraft to be inducted into the Indian Air Force in 1963.
+- The Indian Air Force aims to phase out all Mig-21 Bison squadrons by 2025.
 
-# Viacom 18 Secures BCCI TV and Digital Media Rights in a 5-Year Deal Worth Rs 5,963 Crore
+## 7. 8.1% growth rate in 8 key infrastructure sectors in September 2023
 
-- Viacom 18 wins the media rights auction for India's domestic matches and BCCI-hosted domestic tournaments.
-- The deal includes digital and TV broadcasting rights for 88 matches scheduled from 2023 to 2028.
-- Viacom 18 secures the digital rights for approximately Rs 3,101 crore and TV rights for approximately Rs 2,862 crore.
+- The growth rate of eight key infrastructure sectors in India slowed down to 8.1% in September 2023.
+- Refinery products, fertilizers, cement, and electricity production witnessed a decrease in growth rate.
+- Crude oil production showed a negative growth of -0.4% in September.
 
-# PNB Launches App To Enable MSMEs Access Instant Loans Using GST Invoices
+## 8. India's fiscal deficit reaches 39.3% of FY24 target in the first half of the year
 
-- Punjab National Bank (PNB) launches a dedicated mobile application for the GST Sahay scheme.
-- The app streamlines the loan application process based on GST invoices for Micro, Small, and Medium Enterprises (MSMEs).
-- Sanctioned loans are directly deposited into the borrower's current account maintained with PNB.
+- India's fiscal deficit rose to 39.3% of the annual target in the first half of the 2023-24 financial year.
+- The Union Budget aims to limit the fiscal deficit to 5.9% of the GDP for the fiscal year.
+- The deficit amounted to Rs 7.02 lakh crore by the end of September 2023.
 
-# YES Bank goes live with UPI interoperability on CBDC
+## 9. PFRDA makes 'penny drop' verification mandatory for NPS fund withdrawal
 
-- YES Bank launches UPI interoperability on the RBI's Central Bank Digital Currency (CBDC) app.
-- Users can seamlessly scan any UPI QR code through the YES Bank Digital Rupee app for simplified transactions.
-- The integration strengthens the e-rupee and expands its platform by connecting it with the widely-adopted UPI system.
+- The PFRDA introduces new National Pension System (NPS) withdrawal rule changes.
+- 'Penny drop' verification is mandatory for all NPS fund withdrawals to ensure accurate and secure transfers.
+- Successful verification is required for processing exit/withdrawal requests and modifying bank account details.
 
-# Centre’s Fiscal Deficit for April-July Reaches 33.9% of FY24 Target
+## 10. RBI to directly regulate entities facilitating cross-border payment transactions
 
-- India's fiscal deficit for the April-July period exceeds one-third of the full-year target.
-- The fiscal deficit in absolute terms stands at Rs 6.06 lakh crore at the end of July.
-- This represents a significant increase compared to the same period in the previous financial year.
+- RBI announces direct regulation for entities facilitating cross-border payment transactions.
+- Introduction of Payment Aggregator-Cross Border (PA-CB) category to ensure transparency and adherence to regulations.
+- Entities applying for authorization as PA-CBs must meet minimum net worth criteria and demonstrate financial stability.
 
-# India’s GDP growth accelerates to 7.8% in April-June quarter
+## 1-november-2023
+## RBI Prescribe Norms For Closure Of DCCB Branches
+- DCCBs can close un-remunerative branches without prior permission from RBI
+- Approval from Registrar of Cooperative Societies of the respective state required
+- Closure decision should be made by the Board of the bank based on evaluation and properly recorded
 
-- India's GDP grows by 7.8% in the first quarter of the fiscal year 2023-2024.
-- The growth rate aligns closely with projections made by financial experts.
-- The strong Q1 figures suggest the economy may outperform expectations.
+## SBI Card Partners With Reliance Retail To Introduce ‘Reliance SBI Card’
+- Introducing co-branded Reliance SBI Card for enhanced shopping experience
+- Two variants: Reliance SBI Card and Reliance SBI Card PRIME
+- Different rewards and perks offered, renewal fees based on variant and spending milestones
 
-# Committee Formed to Explore Feasibility of 'One Nation, One Election' in India
+## World Vegan Day 2023
+- Celebrated annually on November 1, promotes vegan lifestyle
+- Showcases ethical, environmental, and health benefits of veganism
+- Part of Vegan Month, allows for comprehensive exploration of veganism
 
-- The Indian government forms a committee to explore the feasibility of 'One Nation, One Election.'
-- The concept aims to synchronize elections for the Lok Sabha and state assemblies.
-- The proposal has strong support from Prime Minister Narendra Modi.
+## Halloween Day 2023
+- Celebrated on October 31, embraces spooky and supernatural themes
+- Originates from ancient Celtic festival of Samhain
+- Marks beginning of Allhallowtide, with blurred boundary between living and dead
 
-# Jaya Verma Sinha 1st Woman Chairperson to Head the Railway Board
+## Akhaura- Agartala rail link to be inaugurated virtually by PM Modi, Sheikh Hasina
+- Cross-border rail link to strengthen business ties and provide direct access
+- Reduces rail journey time and distance between Kolkata and Agartala
+- Project initiated in 2010, construction began in 2018
 
-- Jaya Verma Sinha is appointed as the first woman Chairperson of the Railway Board.
-- She is the first-ever woman to lead the Board in its 118-year history.
-- Her tenure will be until August 31, 2024.
+## UK to host the AI Safety Summit 2023 on November 1
+- Summit hosted by UK PM Rishi Sunak at Bletchley Park, Buckinghamshire
+- Discusses risks associated with advanced AI technologies
+- Aims for international collaboration on Frontier AI safety and establishing frameworks
 
-# Anand Mahindra welcomes MS Dhoni as Brand ambassador of Swaraj Tractors
+## Nokia Partners with TATA Play Fiber to Launch India’s First WiFi6-Ready Broadband Network
+- Collaboration to introduce WiFi6-ready broadband network in India
+- Nokia provides fiber-to-the-home (FTTH) and Wi-Fi equipment
+- Enables low-latency applications, enhances network security
 
-- Industrialist Anand Mahindra welcomes Mahindra Singh Dhoni as the brand ambassador of Swaraj Tractors.
-- Swaraj Tractors is an Indian tractor manufacturing company and a subsidiary of Mahindra & Mahindra.
-- Dhoni's association with Swaraj Tractors strengthens the brand's market presence.
+## 10-Year-Old Bangalore Kid Wins ‘Wildlife Photographer Of The Year’ Award
+- Vihaan Talya Vikas wins top prize in '10 years and under' category
+- Wildlife Photographer of the Year competition organized by the Natural History Museum
+- Winning photograph captures spider alongside Lord Krishna sculpture
 
-# 65th Ramon Magsaysay Awards 2023 Winners List
+## Social worker Deenanath Rajput from Bastar wins Rohini Nayyar Prize
+- Deenanath Rajput awarded for outstanding contribution to rural development
+- Focused on empowering tribal women in Bastar region
+- Established Farmers Producers Organisation (FPO) to positively transform lives
 
-- The Ramon Magsaysay Award is granted to four Asians in its 65th edition.
-- The winners are Korvi Rakshand from Bangladesh, Eugenio Lemos from Timor-Leste, Miriam Coronel-Ferrer from the Philippines, and Dr. Ravi Kannan R. from India.
-- The award recognizes exceptional spirit and influential leadership, and each recipient receives a cash prize of USD 50,000.
+## Saudi Arabia To Host 2034 FIFA World Cup
+- Saudi Arabia chosen to host 2034 Men's FIFA World Cup after Australia withdraws bid
+- Australia focuses on bidding for Women's Asian Cup and FIFA Club World Cup
+- Spain, Portugal, and Morocco to co-host 2030 tournament, Uruguay, Paraguay, and Argentina to host opening matches
 
-# Bhaderwah Rajma & Ramban Sulai Honey Of Jammu And Kashmir Get GI Tag
+## Renowned Filmmaker Shekhar Kapur to Chair International Jury Panel at IFFI
+- Shekhar Kapur to lead the international jury panel at the 54th IFFI
+- IFFI is an annual cinematic event held in Goa, India
+- Jury to determine Best Film Award recipient, including Golden Peacock, and other category winners
 
-- Bhaderwah Rajmash from Doda and Sulai honey from Ramban in Jammu and Kashmir receive Geographical Indication (GI) tags.
-- Bhaderwah Rajmash is a staple food item known for its distinct flavor in the Chenab Valley.
-- Sulai honey is recognized for its exquisite taste and organic nature, and it was presented to Queen Elizabeth by Prime Minister Narendra Modi in 2015.
+## 2-november-2023
+## 1. UPSC tightens rules for appointment of State Police Chiefs
 
-## 2-september-2023
-### 1. ASI Launches "Adopt a Heritage 2.0 programme" Indian Heritage app and e-permission portal:
+- The Supreme Court directs states to refrain from appointing any police officer as acting DGP and instead send names of senior police officers to UPSC for consideration.
+- UPSC will evaluate the submitted names and prepare a list of the three most suitable officers.
+- States are free to appoint one of these officers as the police chief, focusing on meritocracy and transparency.
 
-- ASI to launch "Adopt a Heritage 2.0" programme on September 4, 2023.
-- Revamped initiative to involve corporate stakeholders in improving amenities at heritage sites.
-- Launching of user-friendly mobile app named "Indian Heritage" for showcasing India's rich heritage monuments.
+## 2. Chinese Communist Party Delegation Enhances Ties with Solomon Islands
 
+- Chinese delegation meets Solomon Islands' Prime Minister and government officials.
+- The two countries have signed a policing pact, elevating their relationship to a "comprehensive strategic partnership."
+- Solomon Islands is located in the South Pacific Ocean, comprising diverse islands with a diverse population.
 
-### 2. Aviation Minister Jyotiraditya Scindia Inaugurates Utkela Airport In Odisha:
+## 3. October Gross GST Collections Reach ₹1.72 Lakh Crore
 
-- Union Civil Aviation Minister inaugurates Utkela Airport on August 31, 2023.
-- Introduction of direct flight route between Utkela and Bhubaneshwar.
-- Improved regional connectivity and economic growth in the region.
+- India witnesses a significant rebound in GST collections, reaching a 10-month high of ₹1.72 lakh crore.
+- The growth of 13.4% YoY is the sharpest uptick since December 2022.
+- October's revenues include CGST, SGST, and IGST, with a total revenue of ₹72,934 crore for CGST and ₹74,785 crore for SGST.
 
+## 4. NPCI: UPI Records 1,140 Crore Transactions In October, Total Value Exceeds Rs 17.6 Lakh Crore
 
-### 3. Georgia Declares October as 'Hindu Heritage Month':
+- UPI crosses 11.4 billion transactions with a transaction value exceeding Rs 17.6 lakh crore.
+- NPCI reports a 55% YoY growth in transaction volume and 42% growth in transaction value.
+- NPCI aims to achieve 2 billion daily transactions by 2030 and sees UPI integration for cross-border transactions.
 
-- Governor Brian Kemp declares October as 'Hindu Heritage Month' in Georgia.
-- Georgia joins other U.S. states in honoring Hindu heritage, culture, values, and traditions.
-- Acknowledgment of the contributions and significance of Hinduism in American society.
+## 5. More than 97% of ₹2,000 notes returned: RBI
 
+- Over 97% of ₹2,000 banknotes in circulation have been returned by October 31, 2023.
+- The remaining notes are still considered legal tender.
+- The value of ₹2,000 banknotes in circulation has significantly reduced to ₹10,000 crore.
 
-### 4. Tharman Shanmugaratnam Wins Singapore Presidential Election:
+## 6. International Day to End Impunity for Crimes against Journalists 2023
 
-- Tharman Shanmugaratnam emerges victorious in Singapore's presidential election after a ten-year gap.
-- Secures a substantial majority, receiving 70.4% of the votes.
-- Sets Singapore's first contested presidential polls since 2011.
+- Recognized on November 2nd, the day highlights the dangers journalists face.
+- Marks the tenth anniversary of the United Nations Plan of Action on the Safety of Journalists.
+- Aims to create a secure environment for media professionals worldwide.
 
+## 7. Prime Minister launches 'Mera Yuva Bharat (MY Bharat)' platform on National Unity Day
 
-### 5. Indian Cellular & Electronics Association (ICEA) Aims for $100 Billion Indo-US Electronics Trade:
+- PM Narendra Modi inaugurates 'Mera Yuva Bharat' platform to empower youth.
+- Autonomous body established to facilitate youth development and progress.
+- Platform enables young people to connect with programs, mentors, and communities.
 
-- ICEA establishes task force to elevate Indo-US electronics trade from $8 billion to $100 billion in the next decade.
-- Goal to make India a global hub for innovation and manufacturing in the electronics sector.
-- Partnership focuses on technology sharing, co-development, and co-production opportunities.
+## 8. Mumbai Ranks Fourth In Global Housing Price Rise
 
+- Mumbai records a 6.5% increase in prime residential prices, ranking fourth globally.
+- Delhi's NCR climbs from 36th to secure the 10th spot with a 4.1% increase.
+- Bengaluru rises to the 17th spot with a 2.2% growth in prime residential prices.
 
-### 6. Rashtriya Chemicals and Fertilizers Gets Navratna Status:
+## 9. Alarming Rise in Road Accidents and Fatalities: India's Road Safety Crisis
 
-- Rashtriya Chemicals and Fertilizers (RCF) conferred with Navratna Status by the Department of Public Enterprise (DPE).
-- RCF is engaged in the production of chemicals and fertilizers.
-- Navratna Status grants financial independence up to Rs 1000 crore without central government approval.
+- India witnesses 1,264 accidents and 42 deaths daily.
+- Severity of road crashes has risen from 28.2% in 2012 to 36.5% in 2022.
+- Speeding identified as the leading cause, accounting for 72.3% of accidents and 71.2% of deaths.
 
+## 10. Deepesh Nanda Appointed As CEO & MD Of Tata Power Renewable Energy
 
-### 7. CCI Clears Air India-Vistara Merger:
+- Deepesh Nanda appointed as President-Renewables and CEO & MD of Tata Power Renewable Energy Limited.
+- Nanda brings 28 years of industry experience from companies like GE, Flowserve, and Tyco.
+- Previously served as CEO for South Asia at GE Gas Power and President & CEO of GE's Aero-derivative Gas Turbine business segment for Asia.
 
-- Competition Commission of India (CCI) approves the merger of Tata SIA Airlines (Vistara) with Air India.
-- Acquisition of shares in the merged entity subject to certain voluntary commitments.
-- Joint venture between Tata Group and Singapore Airlines.
+## 2-november-2023
+### 11. Saima Wazed Elected as WHO Regional Director for South-East Asia
 
+- Saima Wazed elected as the next WHO Regional Director for South-East Asia.
+- Saima Wazed's experience in promoting autism awareness and engagement in healthcare initiatives qualifies her for the position.
+- SEARO plays a crucial role in addressing public health challenges and promoting healthcare initiatives in South-East Asian countries.
 
-### 8. Moody's Upgrades India's 2023 GDP Growth Forecast to 6.7%:
+### 12. India-Born Author Nandini Das Wins 2023 British Academy Book Prize
 
-- Moody's revises India's GDP growth forecast to 6.7% for 2023, up from the previous estimate of 5.5%.
-- Increased projection attributed to robust expansion in services and capital expenditures.
-- Positive outlook due to notable performance in the second quarter.
+- Nandini Das wins the British Academy Book Prize for Global Cultural Understanding.
+- Das's debut book, 'Courting India: England, Mughal India, and the Origins of Empire,' examines the historical account of the arrival of the first English ambassador in India.
+- The prize recognizes exceptional works of non-fiction that exemplify academic rigor and originality.
 
+### 13. Aishwary Pratap Singh Tomar Wins Gold Medal In The 50m Rifle 3P event
 
-### 9. India's August GST Collection Surges to ₹1.59 Trillion:
+- Aishwary Pratap Singh Tomar wins the gold medal in the men's 50m rifle 3 positions event at the Asian Shooting Championship 2023.
+- Tian Jiaming from China secures the silver medal, and Du Linshu from China clinches the bronze medal.
+- India's exceptional performance contributes to a total medal count of 55, including 21 gold, 21 silver, and 13 bronze medals.
 
-- Goods and Services Tax (GST) collection in August amounts to ₹1.59 trillion, an 11% increase from the same period last year.
-- Surge in collection due to enhanced compliance and anti-evasion measures.
-- Subdued growth in integrated GST (IGST) and cess on imports.
+### 14. Cricketer Sachin Tendulkar's statue unveiled at Wankhede Stadium
 
+- Sachin Tendulkar's statue unveiled at Wankhede Stadium in Mumbai.
+- The statue pays tribute to the legendary cricketer and captures him in the midst of a cricket stroke.
+- The statue is the creation of artist Pramod Kamble from Ahmednagar.
 
-### 10. All-India House Price Index Surges 5.1% in Q1FY24:
+### 15. David Willey Announces Retirement from International Cricket at Age 33
 
-- Reserve Bank of India (RBI) reports a 5.1% growth in All-India House Price Index (HPI) for the April-June quarter.
-- Significant increase compared to 3.4% growth in the previous year.
-- Delhi exhibits an impressive annual HPI growth rate of 14.9%.
+- David Willey, the renowned all-rounder of the England cricket team, announces his retirement from international cricket at the age of 33.
+- Willey will play his final international match for England at the World Cup.
+- Willey has an impressive record, claiming 94 wickets in 70 ODIs and 51 wickets in 43 T20Is.
 
+### 16. India's Deep Ocean Mission (DOM): Unlocking the Depths of the Ocean
 
-### 11. Manish Desai Takes Charge of Press Information Bureau (PIB):
+- India's Deep Ocean Mission (DOM) aims to delve 6,000 meters into the ocean depths.
+- DOM focuses on developing indigenous technologies, including a manned submersible named Matsya6000.
+- DOM aims to identify potential sites of multi-metal hydrothermal sulphides mineralization along the Indian Ocean mid-oceanic ridges.
 
-- Manish Desai, Central Bureau of Communications (CBC) chief, appointed as head of the Press Information Bureau (PIB).
-- Manish Desai holds a distinguished career in the Indian Information Service (IIS).
-- Responsible for government advertising and public communication activities.
+### 17. Ashwini Vaishnaw: India To Become A Chip Fabrication And Design Hub In The Next Five Years
 
+- Ashwini Vaishnaw expects the global semiconductor market to double in the next 6-7 years, surpassing a trillion dollars in value.
+- India will establish at least two large fabrication facilities offering world-class technology to boost domestic manufacturing capabilities and attract global players.
+- India's homegrown 4G and 5G technology stack is nearing completion, with plans to launch it around Diwali.
 
-### 12. R Madhavan Nominated as President of FTII Pune:
+### 18. Zojila Day commemorated at Zojila War Memorial on 1st November
 
-- Renowned actor R Madhavan nominated as President of the Film and Television Institute of India (FTII), Pune.
-- Also appointed as Chairman of the governing council of FTII.
-- Nomination follows the success of Madhavan's film, 'Rocketry: The Nambi Effect'.
+- Zojila Day is celebrated on November 1st at the Zojila War Memorial near Drass.
+- Zojila Day pays tribute to the valorous actions of Indian troops during 'Operation Bison' in 1948.
+- Zojila Pass connects the Kashmir Valley with the Indus Valley desert and is strategically vital.
 
+### 19. Iconic 'Throne Room' at Raj Bhavan in Kolkata named after Sardar Patel
 
-### 13. Shanta Thoutam Honoured with World Innovation Award at BRICS Innovation Forum:
+- The 'Throne Room' at Raj Bhavan in Kolkata is renamed as 'Sardar Vallabhbhai Patel Unity Room.'
+- The room symbolizes the unity and integrity championed by Sardar Vallabhbhai Patel.
+- The 'Throne Room' is a space of historical importance and houses thrones of iconic historical figures like Lord Wellesley and Tipu Sultan.
 
-- Telangana's Chief Innovation Officer, Shanta Thoutam, receives the World Innovation Award at the BRICS Innovation Forum.
-- Award presented for outstanding contribution to Sustainable Development Goal-4 focused on quality education.
-- Recognition of achievements in the field of innovation by more than 30 countries.
+## 3-november-2023
+## PM To Inaugurate World Food India 2023 Mega Food Event
+- Prime Minister Narendra Modi to inaugurate World Food India 2023.
+- World Food India 2023 showcases regional cuisines and culinary heritage of India.
+- Aims to position India as the 'food basket of the world'.
 
+## ECI designed in-house software for complete Candidate and election management through 'ENCORE'
+- Election Commission of India (ECI) develops in-house software 'ENCORE'.
+- ENCORE offers features for efficient candidate and election management.
+- Provides a platform for managing various election-related tasks.
 
-### 14. RBI Governor Shaktikanta Das Rated 'A+' in Global Finance Central Banker Report 2023:
+## India to Host 2024 World Telecommunication Standardisation Assembly
+- India to host World Telecommunication Standardisation Assembly (WTSA) in 2024.
+- WTSA sets global telecommunication standards, marking a significant milestone.
+- Organized by the International Telecommunication Union within the UN system.
 
-- RBI Governor Shaktikanta Das awarded an 'A+' rating in the Global Finance Central Banker Report Cards 2023.
-- Das recognized as one of the most influential and effective central bank leaders in the world.
-- Accompanied by two other central bank governors who also received an 'A+' grade.
+## Rajnath Singh Inaugurated 'India Manufacturing Show' In Bengaluru
+- Raksha Mantri Rajnath Singh inaugurates India Manufacturing Show in Bengaluru.
+- Showcases cutting-edge technologies and innovations.
+- Emphasizes the significance of small-scale industries in India's economy.
 
+## Thailand Announces Visa-Free Entry For Indians to Boost Tourism
+- Thailand allows visa-free entry for Indian tourists.
+- Aims to attract more visitors and revitalize the tourism industry.
+- Travelers from India can stay for a maximum of 30 days without a visa.
 
-### 15. World Coconut Day 2023:
+## Lebanon's Hezbollah hits 19 positions in Israel simultaneously
+- Hezbollah and Hamas launch attacks on Israel, escalating tensions.
+- Hezbollah admits using drones filled with explosives for the first time.
+- Disputed Shebaa Farms area remains a source of territorial dispute.
 
-- World Coconut Day celebrated on September 2 to promote awareness of the fruit and its benefits.
-- Main coconut-growing states in India are Tamil Nadu, Karnataka, Kerala, West Bengal, and Andhra Pradesh.
-- Opportunity to celebrate coconut's benefits and promote sustainable farming practices.
+## Kerala Government Challenges Governor Arif Mohammed Khan in Supreme Court Over Pending Bills
+- Kerala Government approaches Supreme Court against Governor's handling of Bills.
+- Alleges Governor's arbitrary actions in withholding Bills passed by the State Legislature.
+- Seeks Supreme Court's declaration on the Governor's obligations.
 
+## Kerala To Launch Multilingual Microsites For Boosting Religious Tourism
+- Kerala Tourism launches multilingual microsites to promote religious destinations.
+- Microsite on Sabarimala Temple provides information in 5 languages.
+- Focuses on sharing details about religious places and traditions.
 
-### 16. ISRO Aditya L1 Mission Launched:
+## The US military has set its latest Minuteman III missile launch to "showcase" its nuclear capability.
+- US conducts Minuteman III missile launch to showcase its nuclear capability.
+- Minuteman III is a land-based intercontinental ballistic missile system.
+- The missile system ensures protection against attacks and features solid-propellant rocket motors.
 
-- ISRO successfully launches the Aditya L1 mission, India's first dedicated solar mission.
-- Mission to study the Sun's atmosphere, solar wind, and its interaction with the Earth's atmosphere.
-- Expected to provide valuable data for better understanding of the Sun and its impact on Earth.
+## PMI points to manufacturing growth easing to 8-month low
+- India's manufacturing sector experiences a significant slowdown in October.
+- Purchasing Managers' Index (PMI) falls to an eight-month low.
+- Slowdown due to cost pressures and subdued demand for specific products.
 
-## 4-september-2023
-## President to inaugurate 12-foot Mahatma Gandhi statue, ‘Gandhi Vatika’ near Rajghat
+## 3-november-2023
+### 11. "India’s Carbon Tax Response to CBAM Raises Concerns for EU Manufacturing"
 
-- President Droupadi Murmu will inaugurate a 12-foot statue of Mahatma Gandhi and a ‘Gandhi Vatika’ near Rajghat on September 4.
-- The initiative coincides with India’s celebration of 75 years of independence and its tenure as the G20 presidency.
-- The statue serves as a tribute to Mahatma Gandhi's role in India's struggle for independence.
+- India's Commerce and Industry Minister strongly criticizes the European Union's proposed Carbon Border Adjustment Mechanism (CBAM) as "ill-conceived"
+- CBAM applies to imported goods that are carbon-intensive and taxes them based on the carbon price in the EU Emissions Trading System (ETS)
+- CBAM encourages non-EU countries to adopt stringent environmental regulations, reduces carbon emissions leakage, and supports EU climate policies
 
-## Law Minister launches Tele-Law 2.0
+### 12. "BoB Appoints ‘Kadgatoor Sheetal Venkatesmurt’ As Head Of Digital Channels"
 
-- The Union Minister of Law and Justice launched Tele-Law 2.0, a revamped version of the Tele-Law program.
-- Tele-Law provides free legal aid to rural and marginalized communities through video conferencing.
-- The initiative aims to bridge the gap between citizens and legal professionals.
+- Bank of Baroda's head of digital lending, Akhil Handa, has decided to leave the organization.
+- The Reserve Bank of India (RBI) recently imposed curbs on BOB's mobile banking application 'bob World' due to supervisory concerns.
+- BOB appoints Kadgatoor Sheetal Venkatesmurt to take over digital lending and digital channels and operations.
 
-## NCERT Gets Deemed University Status: Education Minister
+### 13. "Zurich Insurance Group to Take 51% Stake in Kotak General Insurance"
 
-- The National Council of Educational Research and Training (NCERT) has been granted the status of a deemed university.
-- The announcement was made during the 63rd foundation day of NCERT.
-- This recognition highlights NCERT's contributions to education and its commitment to excellence.
+- Zurich Insurance is set to invest Rs. 4,501 crore in Kotak General Insurance to acquire a 51% stake.
+- Zurich has the option to acquire an additional 19% stake within three years.
+- This joint venture is Kotak Mahindra Bank's first partnership with a foreign entity in nearly six years.
 
-## Uttarakhand CM Releases Logo, Website Of Global Investors Summit In Dehradun
+### 14. "Shiv Nadar Tops the Hurun India Philanthropy List 2023"
 
-- The Chief Minister of Uttarakhand inaugurated the logo and website for the Investor Global Summit in Dehradun.
-- The summit aims to attract investments worth ₹2.5 lakh crore across various sectors.
-- It will focus on sectors such as tourism and wellness, agriculture and horticulture, health, and education.
+- Shiv Nadar and his family retain the top spot on the EdelGive Hurun India Philanthropy List 2023 for five consecutive years.
+- They made a substantial donation of Rs 2,042 crore for the fiscal year 2022-23.
+- The list recognizes leading philanthropists in India.
 
-## Telangana Grabs India’s First Gorilla Glass Factory
+### 15. "G20 Standards Dialogue Kicks Off During India’s G20 Presidency"
 
-- Corning Inc. plans to establish a Gorilla Glass manufacturing facility in Telangana.
-- The project involves an investment of ₹934 crore and will create over 800 job opportunities.
-- Corning Inc. is a Fortune 500 materials science company with expertise in glass science, ceramics science, and optical physics.
+- The Bureau of Indian Standards (BIS) is hosting the G20 Standards Dialogue 2023 in collaboration with the Indian government.
+- The theme of the dialogue is 'Zero Defect Zero Effect,' emphasizing the role of standards in achieving a sustainable future.
+- The program has participation from around the world and aims to guide the best utilization of resources.
 
-## Bajaj Auto’s Subsidiary Receives RBI Approval for NBFC Operations
+### 16. "India And UAE Sign MoU To Strengthen Educational Ties"
 
-- Bajaj Auto Consumer Finance, a subsidiary of Bajaj Auto, has received regulatory approval to operate as a non-banking financial institution (NBFC).
-- The certificate of registration was issued by the Reserve Bank of India.
-- The subsidiary aims to provide financing exclusively for products manufactured by Bajaj Auto.
+- Union Education Minister Dharmendra Pradhan signs an MoU with the UAE Minister of Education for educational cooperation between the two countries.
+- The MoU aims to strengthen existing educational collaboration, including academic collaboration between higher education institutions.
+- It facilitates Twinning, Joint Degree, and Dual Degree Programs for students.
 
-## G20 Summit 2023 in Delhi
+### 17. "Eminent Writer T. Padmanabhan Receives Prestigious Kerala Jyothi Award"
 
-- The G20 Summit 2023 will take place in Delhi on September 9th and 10th.
-- The summit's theme is "Vasudhaiva Kutumbakam," emphasizing global unity and interconnectedness.
-- Various meetings will foster cooperation and understanding among participating nations.
+- Renowned writer T. Padmanabhan receives the Kerala Jyothi award for exceptional contributions to Malayalam literature.
+- The Kerala government also announces other accolades, the 'Kerala Puraskarngals,' for individuals who have made remarkable contributions to various aspects of social life.
+- Awards like the 'Kerala Prabha' award and the 'Kerala Shree' award are bestowed upon individuals in recognition of their contributions.
 
-## Uday Kotak Resigns As Kotak Mahindra Bank MD & CEO, Dipak Gupta Takes Interim Charge
+### 18. "Mohammed Shami becomes India’s leading wicket-taker in World Cup history"
 
-- Uday Kotak has resigned as the Managing Director and CEO of Kotak Mahindra Bank.
-- Dipak Gupta, the joint managing director, will assume the position on an interim basis.
-- Kotak Mahindra Bank is the third-largest private sector bank in India.
+- Mohammed Shami surpasses Zaheer Khan and Javagal Srinath to become India's highest wicket-taker in ODI World Cups.
+- Shami now has 45 wickets in World Cups, surpassing Zaheer Khan and Javagal Srinath, who had 44 wickets each.
+- The list includes other notable Indian bowlers like Jasprit Bumrah and Anil Kumble.
 
-## Dr. Vasudha Gupta Assumes Charge As Principal DG Of Akashvani
+### 19. "NCERT To Add Content On ‘Electoral Literacy’ In School Textbooks"
 
-- Dr. Vasudha Gupta has taken charge as the Principal Director General of Akashvani and News Services Division.
-- She brings over 33 years of experience in the Ministry of Information and Broadcasting.
-- Dr. Gupta has played a key role in revitalizing Akashvani and introducing social media platforms in regional languages.
+- The NCERT plans to introduce electoral literacy content in textbooks across classes 6 to 12.
+- The curriculum will also extend to colleges and universities.
+- This initiative aims to address voter apathy among young Indians and increase electoral participation.
 
-## Max Verstappen wins Italian Grand Prix 2023
+### 20. "EPFO celebrated its 71st Foundation Day in New Delhi"
 
-- Max Verstappen has won the Italian Grand Prix, setting a new record with 10 consecutive wins in Formula 1.
-- The full results are available in the provided table.
+- Union Minister Bhupender Yadav inaugurates the 71st Foundation Day of the Employees' Provident Fund Organization (EPFO).
+- The event features a documentary showcasing the organization's journey over seven decades.
+- Various awards were presented to offices and establishments for their outstanding contributions and performance.
 
-## Mohun Bagan SG defeats East Bengal 1-0 at Durand Cup finals
+## 4-november-2023
+### 1. Prime Minister Narendra Modi as Elected Chairman of Shree Somnath Trust for Five-Year Term
 
-- Mohun Bagan Super Giant beat East Bengal 1-0 to win the Durand Cup 2023 trophy.
-- This victory marks Mohun Bagan SG as the first team in Durand Cup history to win 17 titles.
-- East Bengal is the second-most successful team in the Durand Cup with 16 titles.
+- Prime Minister Narendra Modi elected as the chairman of Shree Somnath Trust for a five-year term.
+- The decision approved by the charity commissioner of Gujarat highlights the importance of continuity and leadership at the Somnath temple.
+- This is the first time in the trust's 74-year-long history that a chairman has been elected for a five-year tenure.
 
-## National Teachers’ Day 2023: Date, History & Significance
+### 2. Finance Minister Nirmala Sitharaman inaugurates SBI branch in Sri Lanka
 
-- National Teachers' Day in India is celebrated on September 5th.
-- It honors and celebrates the contributions of teachers, particularly Dr. Sarvepalli Radhakrishnan.
-- Dr. Radhakrishnan, the second President of India, advocated for education and requested that his birthday be observed as Teachers' Day.
+- Finance Minister Nirmala Sitharaman opened a new branch of the State Bank of India (SBI) in Trincomalee during her visit to Sri Lanka.
+- Discussions were held between Sitharaman and her Sri Lankan counterparts as part of the 12th round of the Economic and Technology Cooperation Agreement (ETCA).
+- This visit and the opening of the SBI branch demonstrate the commitment of both nations to strengthen economic ties and enhance cooperation.
 
-## International Day of Charity observed on 5th September
+### 3. Sarbananda Sonowal flags off domestic sailing of the first International Cruise Liner in India
 
-- The International Day of Charity is observed on September 5th, the day when Mother Teresa passed away.
-- The day aims to raise awareness and provide a common platform for charity-related activities worldwide.
-- Mother Teresa was a renowned nun and missionary known for her dedication to helping the poor and needy.
+- Union Minister Sarbananda Sonowal flagged off Costa Serena, India's first International Cruise Liner, from Mumbai.
+- This event signifies the beginning of a transformative phase in India's cruising and tourism industry.
+- It is driven by the "Dekho Apna Desh" initiative of Prime Minister Narendra Modi.
 
-## Hockey 5s Asia Cup 2023, India beat Pakistan
+### 4. NITI Aayog held Workshop on India-AU Collaboration
 
-- India beat Pakistan in the final of the inaugural Men's Hockey 5s Asia Cup 2023.
-- The win secured India's qualification for the FIH Men's Hockey5s World Cup Oman 2024.
-- This victory marks the first time India has beaten Pakistan in the Hockey 5s format.
+- NITI Aayog and the Observer Research Foundation (ORF) organized a workshop in New Delhi focused on implementing commitments from the New Delhi Leaders' Declaration (NDLD) signed at a recent G20 Conference.
+- The workshop aimed to strengthen cooperation between India and the African Union (AU) in inclusive growth, sustainable infrastructure, and migration management.
 
-## Former Zimbabwe captain Heath Streak Passes Away
+### 5. Climate Change: Is White Hydrogen the New Saviour?
 
-- Heath Streak, former captain of Zimbabwe, has passed away at the age of 49 after a battle with cancer.
-- He holds the record for being Zimbabwe's all-time leading wicket-taker in Test cricket.
-- Streak was known for his prowess as a fast bowler
+- Vast reserves of natural or "white" hydrogen have been discovered, sparking enthusiasm as a potential game-changer in the fight against climate change.
+- The reality behind this newfound energy source needs to be examined amidst the excitement.
 
-## 5-september-2023
-## Government Implements Stricter Regulations for SIM Card Sales
+### 6. National Basketball Association (NBA) ropes in Bhaane to drive its e-commerce platform in India
 
-- Department of Telecommunications (DoT) issues circulars to regulate SIM card acquisition
-- Stores selling SIM cards must conduct background checks on employees
-- Non-compliant shops can be fined up to 10 lakhs
+- NBA and Bhaane have formed a partnership to introduce NBAStore.in, an online store for official NBA merchandise in India.
+- The store offers a wide range of items, including jerseys, apparel, headwear, footwear, basketballs, and accessories from renowned brands.
+- This partnership caters to the growing demand for NBA merchandise in India.
 
-## Kathmandu-Kalinga Literature Festival Concludes In Lalitpur, Nepal
+### 7. RBI imposes penalties on Punjab National Bank, Federal Bank
 
-- Three-day literary festival promotes cultural activities in South Asia
-- Offers literature, music, dance, poetry, and other art forms
-- Fosters appreciation for the cultural tapestry of South Asia
+- The Reserve Bank of India (RBI) announced monetary penalties against Punjab National Bank, Federal Bank, Kosamattam Finance, and Mercedes-Benz Financial Services India for violating regulations.
+- These penalties aim to ensure compliance with regulatory requirements by financial institutions.
 
-## Nobel Foundation Reverses Decision to Invite Russian Ambassador
+### 8. India and Italy sign Mobility and Migration Partnership Agreement to facilitate movement of workers, students
 
-- Foundation cancels invitation to Russian Ambassador for Nobel award ceremony
-- Controversy surrounds initial invitation due to ongoing conflicts
-- Foundation aims to spread values and messages of the Nobel Prize inclusively
+- India's External Affairs Minister, Dr. S. Jaishankar, held a meeting with Italy's Deputy Prime Minister and Foreign Minister, Antonio Tajani, to strengthen the strategic partnership between the two countries.
+- The discussions included exploring opportunities in various sectors and addressing global issues.
 
-## Bad Bank’s Chairman Karnam Sekar Resigns After Proposal To Merge With IDRCL
+### 9. India and UAE pen MoU to foster education connect between two countries
 
-- Chairman of NARCL resigns due to disagreements on structure and operations
-- Proposal to merge NARCL with IDRCL raises concerns and debates
-- NARCL acquires bad loan accounts while IDRCL focuses on resolution process
+- India and the UAE signed a Memorandum of Understanding (MoU) to enhance educational cooperation between the two countries.
+- The agreement covers aspects such as student and faculty mobility, exchange of information, capacity development, and academic collaboration.
 
-## Record Bank Credit Outstanding to Real Estate Reaches Rs 28 Trillion in July: RBI
+### 10. Indian diplomat re-elected to serve on UN Advisory Committee on Administrative and Budgetary Questions
 
-- Bank credit to real estate sector reaches all-time high
-- Surge seen in both housing and commercial real estate segments
-- Indicates robust revival in demand despite challenges
+- Surendra Adhana, a senior Indian diplomat, has been re-elected to serve on the Advisory Committee on Administrative and Budgetary Questions (ACABQ) at the United Nations for the term 2024-26.
+- This re-election highlights Adhana's expertise and the confidence placed in him by the international community.
+- Adhana has proven capabilities in addressing complex budgetary and administrative matters at the United Nations.
 
-## Morgan Stanley raises India GDP forecast after Q1 data ‘surprises positively’
+## 4-november-2023
+### World Tsunami Awareness Day 2023 Observed on 05th November
 
-- Bank revises Indian economic growth forecast to 6.4%
-- Strong domestic demand drives economic growth
-- Factors include strong GST collections, credit growth, and robust PMI
+- Every November 5th, World Tsunami Awareness Day is observed globally.
+- The theme for World Tsunami Awareness Day 2023 is "Fighting Inequality for a Resilient Future."
+- The day aims to emphasize the importance of tsunami knowledge and awareness.
 
-## Asset Under Management Of NPS And APY Crosses Milestone Of Rs 10 Lakh Crore
+### International Day for Biosphere Reserve 2023 Celebrated on 3rd November
 
-- AUM of NPS and APY surpasses Rs 10 lakh crore
-- Growth reflects the popularity and effectiveness of these pension schemes
-- Increasing number of subscribers indicates growing awareness about retirement planning
+- The International Day for Biosphere Reserves is celebrated on November 3.
+- This day was established by UNESCO during its 41st General Conference in 2022.
+- It provides an opportunity to understand and appreciate the significance of Biosphere Reserves in preserving the balance between nature and culture.
 
-## Mother Teresa’s 26th Death Anniversary
+### NASA Apollo astronaut Thomas Kenneth Mattingly II passed away at age of 87
 
-- World pays tribute to Mother Teresa on her death anniversary
-- Mother Teresa dedicated her life to serving humanity
-- Received Nobel Peace Prize for efforts to overcome poverty
+- Thomas Kenneth Mattingly II, also known as Ken Mattingly, passed away at the age of 87.
+- He played a vital role in the safe return of the damaged Apollo 13 spacecraft to Earth.
+- Mattingly was initially assigned to be the pilot of the Apollo 13 command module but was replaced before launch due to exposure to German measles.
 
-## 43rd ASEAN Summit Begins In Jakarta Today
+## 6-november-2023
+**1. “Bhutan’s King Wangchuck Arrives in Delhi for Talks with Prime Minister Modi”**
 
-- ASEAN leaders gather in Jakarta for the 43rd summit
-- Summit highlights unity and cultural celebration
-- Indonesia chairs summit with the theme "ASEAN Matters: Epicentrum of Growth"
+- Bhutan's King Wangchuck arrived in India on a visit to resolve the border dispute with China.
+- The visit began in Guwahati and highlights India's commitment to the relationship between the two countries.
+- The visit aims to strengthen the strategic partnership and friendship between India and Bhutan.
 
-## Cognizant India MD Rajesh Nambiar appointed as Nasscom Chairperson
+**2. NTPC Renewable Energy Ltd’s First 50 MW Dayapar Wind Project In Kutch, Gujarat**
 
-- Rajesh Nambiar becomes the new Chairperson of Nasscom
-- Nambiar succeeds Anant Maheshwari
-- Nasscom aims to strengthen India's position as a global technology hub
+- NTPC REL's Dayapar Wind Project in Gujarat has started commercial operations.
+- The project is the first in India to be declared commercial under the new Indian Electricity Grid Code and General Network Access Regime.
+- NTPC REL is focusing on green hydrogen technologies and plans to set up a large green hydrogen capacity in Ladakh.
 
-## Govt partners with Meta for ‘Education to Entrepreneurship’ to skill 500,000 entrepreneurs
+**3. 17th Jaipur Literature Festival 2024 To Begin From February 1**
 
-- Ministry of Skill Development and Entrepreneurship, Ministry of Education, and Meta collaborate
-- Program aims to provide digital marketing knowledge to aspiring and established entrepreneurs
-- Targets skill development for 5 lakh people
+- The 17th Jaipur Literature Festival will take place from February 1 to February 5, 2024.
+- The festival's theme is "Stories Unite Us" and will explore the impact of storytelling across cultures and languages.
+- The festival will feature 25 brilliant speakers engaging in meaningful conversations.
 
-## BEL Inks MoU With Israel Aerospace Industries
+**4. ‘Surat’ Becomes The First Navy Warship To Be Named After A City In Gujarat**
 
-- BEL and IAI sign MoU to enhance cooperation in Short Range Air Defence Systems
-- MoU aligns with India's emphasis on domestic manufacturing and self-sufficiency in defense capabilities
-- Aims to contribute to the objectives of 'Atmanirbhar Bharat' and 'Make in India'
+- Gujarat Chief Minister Bhupendra Patel will unveil the crest of the Indian Navy's warship 'Surat.'
+- Surat is the first warship named after a city in Gujarat known for its maritime trade and shipbuilding activities.
+- 'Surat' is part of the 'Project 15B' program and is the fourth and final ship in the program.
 
-## Teachers’ Day 2023, President Murmu presented National Teachers’ Award
+**5. Chanakya Defence Dialogue 2023 concludes with takeaways on security challenges**
 
-- President presents National Teachers' Award to 75 outstanding educators
-- Award recognizes contributions in enhancing education quality and impacting students' lives
+- The Chanakya Defence Dialogue 2023 addressed security challenges in South Asia and the Indo-Pacific region.
+- The event included six sessions covering topics like Indo Pacific, collaboration, tech's impact on defense, etc.
+- The aim was to foster collaborative security solutions and empower India's defense industry.
 
-## Satyajit Majumdar honoured with Dr V G Patel Memorial Award 2023
+**6. Sweden’s Saab Secures India’s First 100% FDI in Defense Project**
 
-- Professor Satyajit Majumdar receives award for promoting entrepreneurship in India
-- Award highlights outstanding performance in entrepreneurship training and mentoring
+- Saab has been granted 100% FDI approval to establish a manufacturing facility in India for defense projects.
+- Previously, India allowed up to 74% FDI in defense, but Saab is the first foreign company to receive permission for 100% FDI.
+- Saab FFV India will manufacture the Carl-Gustaf M4 shoulder-fired rocket system in Haryana, India.
 
-## McGahey to become first transgender to play international cricket
+**7. IOC Acquires Mercator Petroleum For Rs 148 Crore**
 
-- Danielle McGahey set to be the first transgender woman to play international cricket
-- Eligible for male-to-female transition as per ICC guidelines
-- Named in Canada's squad for Women's T20 Americas Qualifier
+- Indian Oil Corporation (IOC) has acquired Mercator Petroleum Limited (MPL) through an insolvency proceeding.
+- The acquisition strengthens IOC's presence in the oil and gas exploration sector.
+- MPL holds an onland oil and gas exploration block in the Cambay Basin, Gujarat, with significant potential for oil discovery.
 
-## Divya Deshmukh Emerges Winner Of 2023 Tata Steel Chess India Women’s Rapid Tournament
+**8. International Day for Preventing the Exploitation of the Environment in War and Armed Conflict 2023**
 
-- Divya Deshmukh wins women's category of Tata Steel Chess India tournament
-- Secures victories
+- The International Day for Preventing the Exploitation of the Environment in War and Armed Conflict is observed on November 6th each year.
+- The day raises awareness about the consequences of war and armed conflicts on the environment.
+- It was established by the United Nations to safeguard the environment as a source of security and peace.
 
-## 6-september-2023
-### 1. India Unveils Worlds First Portable Hospital Arogya Maitri Cube:
-- India unveils world's first portable disaster hospital consisting of 72 cubes
-- Each cube contains essential medical equipment and supplies
-- Tablet-based application developed for seamless operation of all 72 cubes
+**9. “India Leads in Workplace Burnout: 59% Report Burnout Symptoms, Reveals Survey”**
 
-### 2. Vanuatu parliament elects Sato Kilman as prime minister:
-- Sato Kilman elected as Vanuatu's new prime minister
-- Kilman is a former prime minister and leader of the People's Progressive Party
-- Vote of no-confidence in predecessor led to the election
+- A survey conducted by McKinsey Health Institute reveals that 59% of Indian respondents reported experiencing burnout symptoms.
+- Burnout is more prevalent among younger workers, particularly those aged 18 to 24.
+- Japan scored the lowest well-being score, while Turkey, India, and China ranked higher.
 
-### 3. Shri Dharmendra Pradhan launches the Malaviya Mission:
-- Union Minister for Education Dharmendra Pradhan launches the Malaviya Mission
-- The mission aims to transform faculty capacity building and teacher preparation programs
-- Plans to establish 111 centers across India for teacher training and professional development
+**10. Prime Minister Modi Extends Free Ration Scheme for 5 More Years**
 
-### 4. BIS and RBI Announce G20 TechSprint 2023 Winners:
-- G20 TechSprint 2023 winners announced by BIS and RBI
-- Winners include Team Secretarium Ltd., Team Millicent Labs, and Team Knox Networks
-- Challenges addressed include combating financial crimes, enhancing liquidity in cross-border payments, and developing multilateral CBDC platforms
+- Prime Minister Modi extended the Pradhan Mantri Garib Kalyan Anna Yojana (PMGKAY) for another five years.
+- The scheme provides 5 kg of free food grains every month to economically vulnerable individuals.
+- It targets approximately 800 million people, including those living below the poverty line and daily wage laborers.
 
-### 5. SBI announces interoperability of CBDC and UPI for seamless transactions:
-- State Bank of India enables interoperability between CBDC and UPI
-- Users can now scan any merchant UPI QR code using SBI's eRupee app
-- Aims to bridge the gap between CBDC and UPI platform for digital transactions
+## 6-november-2023
+## Jal Diwali - "Water for Women, Women for Water Campaign" launched:
+- Ministry of Housing and Urban Affairs to launch "Jal Diwali" campaign in collaboration with National Urban Livelihood Mission (NULM) and Odisha Urban Academy.
+- Campaign aimed at active participation of women in water governance.
+- Women will receive hands-on knowledge about water treatment processes through visits to Water Treatment Plants (WTPs).
 
-### 6. RBI allows pre-sanctioned credit lines through UPI:
-- RBI expands UPI system to include pre-sanctioned credit lines
-- Users can transact with credit lines issued by banks through UPI
-- Guidelines provided for transactions using pre-sanctioned credit lines
+## COLORS joins forces to support the 'Beti Bachao, Beti Padhao' initiative:
+- COLORS collaborates with Ministry of Women and Child Development's 'Beti Bachao, Beti Padhao' initiative to address girl child abandonment.
+- Launches fiction show Doree to raise awareness about the issue.
+- Promotes 24-hour emergency toll free Child helpline number (1098) for abandoned girl child assistance.
 
-### 7. IAF's Training Exercise Trishul Begins:
-- Indian Air Force starts training exercise Trishul
-- Exercise aims to assess operational preparedness of Western Air Command
-- Deployment of frontline assets including Rafale, Mirage 2000, and Su-30MKIs
+## New York City wins first US National Gatka Championship:
+- 1st US National Gatka Championship organized by Gatka Federation USA.
+- Kansas Gatka Association secures runner-up position, NJ Gatka Association achieves third place.
+- Notable winners include Amritneer Singh, Gurvinder Kaur, Gurraj Singh, Gurpreet Singh, Oneet Kaur, and Kansas Gatka Association.
 
-### 8. Krishna Janmashtami 2023:
-- Krishna Janmashtami celebrates Lord Krishna's birth anniversary
-- This year marks the 5250th birth anniversary of Vasudeva Krishna
-- Celebrated on September 6th or September 7th
+## Rohit Rishi appointed as Executive Director at Bank of Maharashtra:
+- Rohit Rishi takes over as Executive Director of Bank of Maharashtra.
+- Appointment for a tenure of three years starting from November 1, 2023.
+- Rishi holds a B.Tech degree in Textiles, MBA in Finance, and is a Certified Associate of the Indian Institute of Bankers (CAIIB).
 
-### 9. International Day of Police Cooperation 2023: Date, History and Significance:
-- International Day of Police Cooperation observed on September 7th
-- Commemorates the founding of Interpol and highlights the role of law enforcement
-- Cooperation among law enforcement historically organized on a case-by-case basis
+## RBI appoints Manoranjan Mishra as its new Executive Director:
+- Manoranjan Mishra appointed as the new Executive Director of RBI.
+- Mishra has over three decades of experience in RBI and a strong background in banking and finance.
+- Will oversee Enforcement Department, Risk Monitoring Department, and Department of External Investments & Operations.
 
-### 10. Ministry of Education observes Literacy
+## ISRO Chief withdraws release of his autobiography 'Nilavu Kudicha Simhangal':
+- Chairman of ISRO, S Somanath, decides to withdraw the publication of his autobiography.
+- Controversy surrounding alleged critical comments about his predecessor, K Sivan.
+- Book contained references to lack of clarity in the Chandrayaan-2 mission announcement.
 
-## 7-september-2023
-1. Centre approves 10% reservation for govt school students in medical education:
-- Union Home Ministry approves reservation for students graduating from government higher secondary schools in medical education.
-- Reservation policy benefits NEET-cleared students from government schools.
-- Collaboration aims to drive new research in areas like genomics.
+## Sri Lanka's Angelo Mathews becomes first cricketer to get 'timed out':
+- Angelo Mathews becomes first player to be timed out in international cricket match.
+- ICC's rules regarding timed out dismissals applied during Cricket World Cup 2023.
+- Mathews failed to be ready within two minutes due to helmet issues, leading to dismissal.
 
-2. Japan launches 'moon sniper' lunar lander SLIM into space:
-- Japan launches lunar exploration spacecraft SLIM aboard H-IIA rocket.
-- Aims to land SLIM within 100 meters of target site on the lunar surface.
-- Launch comes after India's successful lunar mission.
+## Indian hockey team wins bronze medal at Sultan of Johor Cup 2023:
+- Indian junior men's hockey team wins bronze medal at Sultan of Johor Cup in Malaysia.
+- Previous victories in 2013 and 2014, reached final in 2019 but lost to Great Britain.
+- Germany emerged as champion, defeating Australia in penalty shootout.
 
-3. Opening of the 78th Session of the UN General Assembly:
-- Dennis Francis appointed as General Assembly President
+## NASA's INFUSE Mission: Studying the Cygnus Loop Supernova Remnant:
+- NASA launches sounding rocket for INFUSE mission to study the Cygnus Loop, a supernova remnant.
+- Mission aims to deepen understanding of star system formation.
+- Cygnus Loop is remnant of a massive star's supernova explosion.
 
-## 8-september-2023
-## 1. World’s tallest Nataraja statue installed at G20 summit venue
+## Wolbachia: A Bacterial Symbiont with Intriguing Biological Roles:
+- Wolbachia is an intracellular bacteria that infects arthropods.
+- Forms symbiotic relationship and transmitted vertically or horizontally.
+- Being investigated for controlling the spread of diseases like malaria and dengue fever.
 
-- A 27-foot-tall statue of Lord Shiva in his cosmic dance, made from an eight-metal alloy, has been installed at the venue of the G20 Summit.
-- The statue weighs 18 tonnes and required a trailer with 36 tires for transportation.
-- The sculpture blends tradition with modernity and draws inspiration from ancient Nataraja idols.
+## Indian poet Gieve Patel passed away at the age of 83:
+- Gieve Patel, playwright, poet, painter, and physician, passed away battling cancer.
+- Advocate for the environment and part of the Green Movement.
+- Notable poems include "How Do You Withstand," "Body," "Mirrored Mirroring," and "On Killing a Tree."
 
-## 2. UK Rejoins EU’s Horizon Science Research Programme
+## "AI" named Collins Dictionary's Word of the Year for 2023:
+- "AI" recognized as Word of the Year for 2023 by Collins Dictionary.
+- Reflects increasing prominence of Artificial Intelligence in daily lives.
+- U.K. Prime Minister Rishi Sunak hosts AI summit to explore benefits and risks.
 
-- The UK has decided to rejoin the European Union's Horizon science research programme after a two-year post-Brexit standoff.
-- The UK will also associate with the European earth observation programme, Copernicus, but will not participate in the EU's Euratom nuclear research scheme.
-- The agreement ensures that the UK will not have to pay for the period it was frozen out of the programme and includes a "clawback" mechanism to compensate for potential funding discrepancies.
+## Bangladesh Prime Minister Sheikh Hasina featured in Time cover story:
+- Sheikh Hasina featured in Time cover story for her role in guiding Bangladesh's growth.
+- Prime Minister since 2009, played pivotal role in transforming economy.
+- Under her governance, Bangladesh transitioned from struggling to becoming a food exporter.
 
-## 3. Kerala To Host Inaugural Zayed Charity Marathon in 2024
+## IIT Kanpur's innovative solution: 'Artificial Rains' to tackle Delhi's Air Pollution Crisis:
+- IIT Kanpur suggests "artificial rains" as a solution for Delhi's air pollution crisis.
+- Artificial rain, or cloud seeding, induces precipitation to wash down pollutants and dust.
+- Can mitigate droughts and enhance water resources in regions with water scarcity.
 
-- The Zayed Charity Marathon will take place in Kerala in 2024, with proceeds dedicated to supporting healthcare initiatives in the state, particularly cancer research and treatments.
-- The marathon is a collaboration between Kerala State authorities and the Indian community in the UAE, aiming to strengthen cultural and economic ties between the two regions.
-- The marathon offers substantial monetary prizes, with a total prize fund of AED1 million.
+## 7-november-2023
+## Bharat Botanics To Open India’s Largest Cold Oil Production Facility In Gujarat
+- Bharat Botanics announced the opening of its wood-pressed Cold Oil processing facility in Gujarat.
+- The facility is spread over 16,000 square feet and is fully automated.
+- The facility promotes hygiene, transparency, and chemical-free edible oils.
 
-## 4. West Bengal Assembly Resolution On ‘Poila Baisakh’ As State Foundation Day
+## Parshottam Rupala Inaugurated The Pavilion Of Department Of Animal Husbandry And Dairying
+- Minister Parshottam Rupala inaugurated the pavilion of the Department of Animal Husbandry and Dairying at the World Food India event.
+- The pavilion showcases schemes, programs, and innovative technologies in the livestock and dairy sector.
+- The pavilion features 20 stalls from various participants, including start-ups and the National Dairy Development Board.
 
-- The West Bengal assembly passed a resolution to officially observe Poila Baisakh (Bengali New Year's Day) as the state's foundation day on April 15th.
-- The resolution seeks to declare Rabindranath Tagore's masterpiece, 'Banglar Mati, Banglar Jol,' as the official state song.
-- The decision was passed with a majority vote of 167 members in favor out of a total of 294 members in the House.
+## India and Bhutan Enhance Bilateral Ties with New Initiatives
+- Prime Minister Narendra Modi and Bhutan King Jigme Khesar Namgyel Wangchuck discussed trade, technology, and cross-border connectivity.
+- The two countries will conduct a survey for a proposed rail link between India and Bhutan.
+- India will support the upgrade of the land customs station in Assam and develop facilities at Gelephu on the Bhutanese side to boost trade infrastructure.
 
-## 5. INS Sumedha Has Arrived In Egypt To Participate In ‘Exercise BRIGHT STAR-23’
+## IIT Madras Sets Its First International Campus On Zanzibar Island In Tanzania
+- IIT Madras has established its international campus on Zanzibar Island.
+- The campus offers Bachelor of Science and Master of Technology programs with a focus on Data Science and Artificial Intelligence.
+- The courses are open to students of all nationalities, fostering a diverse learning environment.
 
-- Indian Navy's INS Sumedha has arrived in Egypt to participate in the multinational military exercise 'Exercise BRIGHT STAR-23', which involves 34 countries.
-- The exercise aims to reaffirm the participating navies' ability to operate together as an integrated force and highlights their commitment to maritime security and global stability.
-- India sees the participation as an opportunity to enhance interoperability with other naval forces and share expertise with partner nations.
+## Fitch Raises India’s Mid-Term GDP Forecast to 6.2%
+- Fitch has upgraded India's mid-term GDP growth forecast to 6.2%.
+- This revision has positive implications for India's economic outlook and emerging markets globally.
+- Fitch's projections for India's economic growth in 2023-24 indicate an expectation of 6.3% growth.
 
-## 6. India Launches ‘Hello UPI’ and ‘Bharat BillPay Connect’ for Conversational Payments
+## RBI Announces Phased Discontinuation of Incremental Cash Reserve Ratio (I-CRR)
+- RBI plans to gradually discontinue the Incremental Cash Reserve Ratio (I-CRR) to ensure financial system stability.
+- The phased release of I-CRR funds will start on September 9.
+- The I-CRR was introduced to absorb surplus liquidity in the banking system.
 
-- The National Payments Corporation of India (NPCI) has launched two conversational payments initiatives called 'Hello UPI' and 'Bharat BillPay Connect'.
-- 'Hello UPI' enables users to conduct payments through interactive conversations with their smartphones, simplifying the payment process for various transactions.
-- 'Bharat BillPay Connect' facilitates effortless bill payments through natural conversations with voice assistants like Alexa.
+## HSBC India Launches E-Bank Guarantees to Modernize Trade Finance
+- HSBC India, in collaboration with NeSL, introduces electronic bank guarantee services.
+- The digital solution replaces the traditional paper-based bank guarantee system.
+- The process incorporates e-stamping and e-signing for a seamless digital experience.
 
-## 7. GST rules for casinos, e-games notified
+## Mundra Becomes India’s First Port To Handle 16.1 Million Tonnes Of Cargo
+- Mundra Port, owned by APSEZ, becomes the first Indian port to handle 16.1 million tonnes of cargo.
+- The port crossed the 100 million metric tonnes mark in just 210 days.
+- It witnessed double-digit growth in containers, liquids, and gas, showcasing its versatility and efficiency.
 
-- The Ministry of Finance has issued a notification outlining amendments to GST rules for online gaming and casinos.
-- Individuals visiting a casino are now required to pay GST on the full value of the chips they purchase.
-- Two new clauses, 31B and 31C, have been introduced to specify the valuation of the supply and ensure comprehensive taxation.
+## IndiaFirst Life Becomes the First Life Insurance Company to Obtain GIFT City IFSC Registration
+- IndiaFirst Life secures registration within the GIFT City IFSC, making it the first life insurance company to do so.
+- This registration allows IndiaFirst Life to expand its services internationally.
+- GIFT City IFSC serves as an international financial hub with special economic zone status.
 
-## 8. Prime Minister Modi Participated in the 20th ASEAN-India Summit and 18th East Asia Summit (EAS)
+## India Among Top Countries With High Income And Wealth Inequality: UNDP Report
+- UNDP's Asia-Pacific Human Development Report highlights the rising wealth inequality in India.
+- The report emphasizes gender disparities in the labor force, where women constitute only 23%.
+- Although there has been a decrease in multidimensional poverty in India, poverty remains concentrated in certain states.
 
-- Prime Minister Modi participated in the 20th ASEAN-India Summit and engaged in comprehensive discussions with ASEAN partners to reinforce the ASEAN-India Comprehensive Strategic Partnership.
-- At the 18th East Asia Summit, Prime Minister emphasized the importance of the EAS mechanism and India's commitment to its strengthening.
-- Prime Minister called for a cooperative approach to address global challenges, including terrorism, climate change, supply chains, and energy security.
+## 7-november-2023
+## National Cancer Awareness Day 2023
 
-## 9. What is G20?
+- Annual observance in India held on November 7th
+- Aims to raise public awareness about early cancer detection, prevention, and treatment
+- Initiated in 2014 to address the cancer epidemic and promote action against the disease
 
-- The G20 is an international forum of major economies that address global economic challenges.
-- It is a group of twenty major economies, both developed and developing, that coordinate international economic policy.
-- The G20 serves as a platform for member countries to discuss economic policies and prevent actions that could destabilize the global economy.
+## 1st Global AI Safety Summit Concludes in UK
 
-## 10. MoU Signed Between Gati Shakti Vishwavidyalaya Vadodara And Airbus In New Delhi
+- Summit held on November 1 and 2 at Bletchley Park, Buckinghamshire
+- Focused on assessing risks associated with advanced AI models and enhancing AI safety
+- Historic signing of the "Bletchley Declaration" by 28 countries to establish global coordination and safety standards
 
-- Gati Shakti Vishwavidyalaya (GSV) Vadodara and Airbus have signed an MoU to fortify the Indian aviation sector.
-- The collaboration aims to create job opportunities for students aligned with the demands of the aviation industry, with around 15,000 students potentially finding placements within Airbus' Indian operations.
-- The partnership strengthens India's position in the global aviation industry.
+## AIFF wins AFC President's Recognition Bronze award for Grassroots Football
 
-## 11. 'Moon Man Of India' Mylswamy Annadurai Joins The Board Of SS Innovations
+- All India Football Federation secures second Grassroots Football award
+- AIFF's commitment to promoting football at the grassroots level with various initiatives
+- Other winners include Saoud Al Mohannadi, Salem Al Dawsari, Kim Min-jae, and Kuryu Matsuki
 
-- Dr. Mylswamy Annadurai, known as the Moon Man of India, has been appointed as a Director on the Board of SS Innovations, India's surgical robotic firm.
-- Dr. Annadurai will lead a team of engineers responsible for creating a world-class surgical robotic system.
-- He is an esteemed Indian scientist who oversaw major missions of ISRO and was awarded the Padmashri in 2016.
+## Heeralal Samariya Appointed as the New Chief Information Commissioner
 
-## 12. International Literacy Day 2023
+- Shri Heeralal Samariya appointed as Chief Information Commissioner in Central Information Commission
+- Swearing-in ceremony held to mark the assumption of office
+- Smt. Anandi Ramalingam previously held the position of Chairman & Managing Director at Bharat Electronics Ltd.
 
-- International Literacy Day is celebrated on September 8 every year to promote the importance of literacy for dignity, human rights, and sustainable societies.
-- Literacy Day 2023 will be celebrated under the theme 'Promoting literacy for a world in transition: Building the foundation for sustainable and peaceful societies' and will include an award ceremony for outstanding literacy programs.
-- The day was first celebrated in 1967 by UNESCO.
+## APEDA Partners With Lulu Hypermarket To Boost Indian Agri-Product Exports
 
-## 13. World Physiotherapy Day 2023
+- APEDA signs MoU with Lulu Hypermarket LLC to foster export of Indian agricultural products
+- Focus on exporting products, including Millets, to Gulf Cooperation Countries (GCCs)
+- Lulu Group International has a strong presence across multiple countries with a network of stores and shopping malls
 
-- World Physiotherapy Day is celebrated on September 8 every year to recognize the contributions of physiotherapists in promoting health and well-being.
-- The theme for World Physiotherapy Day 2023 is 'Prevention and Management of Osteoarthritis'.
-- The day highlights the role of physiotherapists in managing various types of arthritis.
+## Max Verstappen wins Brazilian Grand Prix 2023
 
-## 14
+- Max Verstappen secures victory at the Brazilian Grand Prix 2023
+- Race held at Interlagos Circuit in São Paulo
+- Flawless performance by Verstappen cements his status as an elite driver
 
-## 9-september-2023
-### Bharat Mandapam
+## India Claimed The Top Titles At The FIDE Grand Swiss Chess Event
 
-- Situated in New Delhi's Pragati Maidan.
-- Symbol of India's hosting of the G20 Summit.
-- Will host a working lunch for world leaders.
+- Vidit Gujrathi and R. Vaishali emerge victorious at the Grand Swiss tournament
+- Qualified for the Candidates tournament happening in Toronto
+- Gujrathi seeded 15th in the open tournament, while Vaishali seeded 12th in the women's section
 
-### Country's First Underground Power Transformer in Bengaluru Installed
+## IIT Kanpur Launches A Center Of Excellence Called ATMAN To Monitor Air Quality
 
-- Located at 15th Avenue, Malleswaram.
-- Budget of Rs 1.98 crore.
-- Includes a 500 KVA capacity oil-free transformer.
+- IIT Kanpur establishes Center of Excellence named ATMAN for air quality monitoring
+- Focus on indigenous sensor fabrication and use of AI and ML models
+- Aims to evaluate health risks and review air quality standards
 
-### Indian Government Launches G20 India Mobile App for Visitors
+## Renowned Musician and Scholar Leela Omchery Passes Away at 94
 
-- Created by the Ministry of External Affairs.
-- Available in 10 languages.
-- Offers Language Translation, Citizen's Corner, and more.
+- Leela Omchery, distinguished musician and musicologist, passes away at 94
+- Known for versatility in Carnatic music, Hindustani music, Sopana Sangeetham, and folk songs
+- Received the Padma Shri in 2005 for contributions to music and research
 
-### African Union Becomes Permanent Member of G20 Under India's Presidency
+## 8-november-2023
+## 1. G7 Foreign Ministers Meet In Japan, With The Israel-Gaza Conflict As A Key Focus
 
-- Official invitation extended during the G20 Summit.
-- Union of Comoros President assumes seat as a full member.
-- African Union reflects Africa's economic and geopolitical importance.
+- G7 foreign ministers addressed the Israel-Hamas conflict and the humanitarian crisis in Gaza.
+- Secretary Blinken emphasized the need for unity and a clear voice among G7 member countries.
+- The United States supports humanitarian pauses in Gaza but rejects a complete cease-fire.
 
-### Modi and Biden Hold Bilateral Meeting in Delhi Ahead of G20 Summit
+## 2. Klyuchevskaya Sopka Volcano’s Eruption in Kamchatka, Russia
 
-- Second bilateral meeting between the leaders.
-- Reaffirm commitment to deepening partnership.
-- Discuss importance of technology and regional security.
+- Klyuchevskaya Sopka, the highest active volcano in Eurasia, erupted on the Kamchatka Peninsula.
+- Precautionary measures were taken, including the closure of schools in nearby towns.
+- The eruption sent ash clouds soaring to a significant height above sea level.
 
-### Delhi In Dili: India to Open Embassy in Timor-Leste
+## 3. Widespread Displacement Crisis in the Democratic Republic of Congo (DRC)
 
-- Announcement made during ASEAN-India summit.
-- Reflects commitment to strengthening ties with ASEAN.
-- Timor-Leste became a full-fledged member of ASEAN.
+- Conflict between M23 rebels and government-backed militias in North Kivu has caused massive displacement.
+- The UN's International Organization for Migration (IOM) is deeply concerned about the humanitarian situation.
+- The number of internally displaced people (IDPs) in the DRC has reached a record high.
 
-### Jharkhand Cabinet Approves Pension and OBC Status for the Transgender Community
+## 4. Chile becomes 95th member of International Solar Alliance ISA
 
-- Transgender community included in universal pension scheme.
-- Eligible beneficiaries to receive Rs 1,000 per month.
-- Transgender individuals without caste reservation to receive benefits of Backward Class-2 category.
+- Chile has joined the International Solar Alliance (ISA) to promote solar energy deployment.
+- The ISA is a collaborative platform driving the increased use of solar energy technologies.
+- Over 90 countries have ratified the necessary agreements to become full-fledged ISA members.
 
-### 21st Edition of India France Bilateral Naval Exercise 'Varuna' - 2023
+## 5. FM Nirmala Sitharaman Launches 12 GST Seva Kendras In Vapi, Gujarat
 
-- Phase II concluded in the Arabian Sea.
-- Joint operations, underway replenishment, and tactical maneuvers conducted.
-- Exercise promotes peace, security, and stability in the region.
+- Union Minister Nirmala Sitharaman inaugurated 12 GST Seva Kendras in Gujarat.
+- The launch ceremony also recognized participants of the "Mera Bill Mera Adhikaar" scheme.
+- The new Seva Kendras are a significant advancement in facilitating GST-related services.
 
-### SBI Unveils Nation First Transit Card for Digital Fare Payments
+## 6. National Coal Index Increases by 3.83 points in September
 
-- 'Nation First Transit Card' launched by State Bank of India.
-- Facilitates digital ticketing fare payments across various modes of transportation.
-- Can also be used for retail and e-commerce payments.
+- India's National Coal Index (NCI) rose by 3.83 points, driven by a temporary spike in global coal prices.
+- NCI combines prices from various sources to determine premiums and revenue shares.
+- The increase in NCI reflects growing demand for coal due to the festive season and upcoming winter.
 
-### International Day to Protect Education from Attack 2023
+## 7. Axis Bank Partners With IRMA To Promote Financial Inclusion And Literacy In India
 
-- Established by the United Nations General Assembly.
-- Raises awareness about attacks on schools and educational institutions.
-- Advocates for the protection of education and sustainable peace.
+- Axis Bank and IRMA established the Axis Bank Chair for financial inclusion, aiming to advance financial literacy.
+- A Joint Advisory Committee will manage the chair's selection process and evaluate its performance.
+- The partnership aligns with the vision of equitable and sustainable transformation in India.
 
-### Women's Fashion Brand W Roped Anushka Sharma as Brand Ambassador
+## 8. Cotton Production Expected to Decline by 6% This Year
 
-- Anushka Sharma becomes brand ambassador for women's fashion brand W.
-- Partnership to launch high-decibel festive campaign.
-- Festive collection includes Anarkalis, festive sets, and more.
+- The Committee on Cotton Production and Consumption estimates a 6% decrease in cotton production.
+- Factors such as pink bollworm infestation and inadequate monsoons affect cotton production.
+- Central and southern regions of India are expected to experience lower cotton production.
 
-### A Book on UP CM Yogi Adityanath Creates History with 67 Launches
+## 9. Sephora ties up with Reliance Retail Ventures to transform India’s beauty retail segment
 
-- Graphic novel 'Ajay to Yogi Adityanath' achieves highest number of book launches.
-- Released in multiple locations within Uttar Pradesh and National Capital Region.
-- Traces the journey of Uttar Pradesh Chief Minister Yogi Adityanath.
+- Sephora has partnered with Reliance Beauty & Personal Care Limited to redefine luxury beauty retail in India.
+- Reliance Beauty & Personal Care Limited will take over Sephora's stores across 13 Indian cities.
+- The Indian beauty and personal care market is valued at USD 17 billion and expected to grow.
 
-### Fire on the Ganges Life Among the Dead in Banaras by Radhika Iyengar
+## 10. World Radiography Day 2023 is Observed on 8th November
 
-- Book explores the city of Banaras and its relationship with death and the afterlife.
-- Chronicles the everyday realities of the Doms in Banaras.
-- Tells the story of a community struggling for a place beyond tradition.
+- World Radiography Day commemorates the discovery of X-radiation by Wilhelm Conrad Roentgen in 1895.
+- The theme for World Radiography Day 2023 is "Celebrating Patient Safety."
+- The observance replaced the European Day of Radiology and is held annually on November 8.
 
-### Goa Governor Launches 'Mashaal' for 37th National Games
+## 8-november-2023
+### 11. Adani Green Energy Surpasses 8.4 GW Capacity Mark, Leading India’s Renewable Energy Sector
 
-- Mashaal (torch) marks commencement of the 37th National Games.
-- Torch will traverse through Goa and other states.
-- National Games' Anthem and website also launched during the ceremony.
+- Adani Green Energy Ltd (AGEL) reaches an installed capacity of 8.4 GW, becoming the largest renewable energy company in India.
+- AGEL commissions a 0.15 GW solar power park in Rajasthan, further solidifying its position in the market.
+- AGEL has the largest capacity in the solar segment in India, with 5 GW, and aims to achieve 45 GW of renewable energy capacity by 2030.
 
-## 11-september-2023
-## African Union
+### 12. India ranks 2nd in employee well-being, Japan lowest
 
-- The African Union (AU) consists of 55 member states from across Africa.
-- It was officially launched on July 26, 2001, in Durban, South Africa, and is headquartered in Addis Ababa, Ethiopia.
-- The African Union aims to promote unity and cooperation among African nations, foster economic and political integration, and work towards the development and peace of the African continent.
+- A recent survey by McKinsey Health Institute ranks Japan at the bottom in employee well-being, while India secures a notable position.
+- The survey highlights factors like physical, mental, social, and spiritual health in determining the well-being of employees.
+- Positive work experiences are found to have a significant impact on holistic health, emphasizing the role of the workplace.
 
-## World’s Highest Fighter Airfield To Come Up In Ladakh’s Nyoma
+### 13. World Intellectual Property Indicators Report 2022: Global Patenting Activity Hits Record High
 
-- The Border Roads Organisation (BRO) is constructing the world’s highest fighter airfield at Nyoma in Ladakh.
-- The airfield is situated in Nyoma, which is one of the highest-altitude locations in the region at an elevation of 4,180 meters (13,710 feet) above sea level.
-- The foundation stone of the project will be placed by Defence Minister Rajnath Singh on September 12, 2023.
+- Patent filings globally experience an unprecedented surge in 2022, driven by innovators from India and China.
+- Asia accounts for the majority of global IP filing activity, including patent filings, trademark applications, and industrial design filings.
+- Intellectual property protection remains of global interest, with 3.46 million patent applications submitted worldwide in 2022.
 
-## Indian Coast Guard Participates In 19th Heads Of Asian Coast Guard Agencies Meeting
+### 14. Legal Literacy And Legal Awareness Program (LLLAP) Reaches More Than 6 Lakh People
 
-- The Indian Coast Guard participated in the 19th Heads of Asian Coast Guard Agencies Meeting (HACGAM) in Istanbul, Turkey.
-- The meeting addressed issues related to maritime law enforcement, safety and security of life at sea, marine environment protection, and the illicit trafficking of drugs, weapons, and humans at sea.
-- The event witnessed the participation of heads of Coast Guards from member nations, fostering discussions and cooperation.
+- The Legal Literacy and Legal Awareness Program (LLLAP) under the DISHA scheme reaches over 600,000 individuals through collaborative efforts.
+- The program aims to empower the poor and disadvantaged sections of society to seek justice services.
+- It also focuses on enhancing the institutional capacities of justice service providers to effectively serve the marginalized.
 
-## ICICI Bank gets RBI nod to make I-Process Services as wholly-owned subsidiary
+### 15. Ministry of Tourism, GOI participates in WTM 2023, London from 6 – 8 November 2023
 
-- ICICI Bank has received approval from the Reserve Bank of India (RBI) to convert I-Process Services (India) Pvt Ltd (I-Process) into a wholly-owned subsidiary.
-- I-Process is a staffing solutions company serving India's leading financial institutions.
-- The acquisition is expected to have an expenditure of approximately Rs. 15.40 crore.
+- The Ministry of Tourism, in collaboration with stakeholders, participates in the World Travel Market (WTM) in London.
+- The event serves as a platform to showcase India's diverse tourism offerings under the theme 'Incredible India! Visit India Year 2023.'
+- A total of 47 participants represent India at WTM 2023 under the Incredible India Pavilion.
 
-## RBI likely to launch digital rupee pilot for interbank transactions by October: Report
+### 16. Apolinaris D’Souza Honored With The 19th ‘Kalakar Puraskar’ Award
 
-- The Reserve Bank of India (RBI) is preparing to launch a pilot program for the Central Bank Digital Currency (CBDC), known as the Digital Rupee.
-- The pilot program aims to facilitate interbank transactions, specifically in the call money market.
-- The RBI introduced two versions of the Digital Rupee: CBDC-Wholesale (CBDC-W) and CBDC-Retail (CBDC-R).
+- Apolinaris D’Souza, a prominent Konkani singer, lyricist, and composer, receives the 19th 'Kalakar Puraskar' award.
+- The award was established in 2005 to recognize outstanding achievements in various fields related to Konkani culture.
+- The event was organized by the Carvalho Household of Kundapura in association with Mandd Sobhann.
 
-## Himalaya Diwas 2023
+### 17. Hitesh Kumar S Makwana appointed Surveyor General of India
 
-- Himalaya Day is celebrated on September 9 every year to preserve the Himalayan ecosystem and region.
-- The day was officially declared as Himalaya Day in 2014 by the then chief minister of Uttarakhand, Harish Rawat.
-- Himalaya Day raises awareness about the importance of the Himalayas and encourages community participation in conservation activities.
+- Hitesh Kumar S. Makwana, an IAS official, is appointed as the Surveyor General of India.
+- Anurag Agarwal, an IAS official, assumes the role of Additional Secretary & Financial Advisor in the Ministry of External Affairs.
+- Rupinder Brar, an IRS official, takes on the position of Additional Secretary in the Ministry of Coal.
 
-## Suicide Prevention Awareness Day 2023
+### 18. Archer Deepika Kumari Secured Two Gold Medals And One Silver At The National Games
 
-- World Suicide Prevention Day is celebrated on September 10 annually to educate and raise awareness about suicide prevention measures.
-- The theme for World Suicide Prevention Day 2023 is "Creating Hope Through Action."
-- The day aims to focus attention on the issue of suicide, reduce stigma, and raise awareness among organizations, governments, and the public.
+- Deepika Kumari, a former world No. 1 archer, wins two gold medals and one silver at the National Games.
+- She excels in both the women's individual archery category and the mixed team archery category.
+- Aishwary Pratap Singh Tomar, an Asian Championships gold medalist, also secures the top spot in the 50m rifle 3-positions event.
 
-## World EV Day 2023
+### 19. Vidit Gujrathi, Vaishali R Claim Titles at FIDE Grand Swiss Chess Event
 
-- World EV Day is celebrated on September 9 every year to raise awareness about the benefits of electric vehicles (EVs) and promote their adoption.
-- The event highlights sustainable transportation and a cleaner future, free of carbon emissions.
-- EVs are seen as a key solution to climate change and air pollution.
+- Vidit Gujrathi secures victory at the FIDE Grand Swiss Chess event and earns a spot in the prestigious Candidates Tournament.
+- R Vaishali also clinches her entry into the Women's Candidates Tournament through her performance at the FIDE Grand Swiss.
+- These victories provide opportunities to compete for the world chess champion title.
 
-## National Forest Martyrs Day 2023
+### 20. Oldest Black Hole Discovered Dating Back To 470 Million Years After The Big Bang
 
-- National Forest Martyrs Day is observed on September 11 in India to honor and remember the forest officers and personnel who lost their lives while protecting forests and wildlife.
-- The day emphasizes the importance of forest conservation and the valuable services forests provide to humans and the environment.
-- It serves as a reminder to conserve and protect precious natural resources.
+- Researchers discover the most ancient black hole ever detected, existing only 470 million years after the Big Bang.
+- The discovery is made possible through the collaboration of NASA's James Webb Space Telescope and the Chandra X-Ray Observatory.
+- This ancient black hole exceeds the size of the black hole in the Milky Way and has a mass equivalent to a substantial portion of its host galaxy's stars.
 
-## Next G20 Presidency: PM Modi hands over G20 Presidency gavel to Brazil’s President
+### 21. Former Karnataka assembly speaker D B Chandregowda passes away at 87
 
-- Indian Prime Minister Narendra Modi handed over the G20 Presidency gavel to Brazil’s President, marking the transition of leadership within the elite group.
-- Brazil's G20 Presidency will focus on social inclusion, the fight against hunger, energy transition and sustainable development, and reform of global governance institutions.
-- The handover ceremony emphasized the importance of cooperation and shared priorities for international development.
+- Veteran politician and former minister D B Chandre Gowda passes away at the age of 87.
+- Chandre Gowda is remembered for his act of vacating his Lok Sabha seat in 1978, enabling the political comeback of Indira Gandhi after the Emergency.
+- He served as a Member of Parliament and showcased his political acumen with electoral victories in the Chikkamagaluru Parliamentary Constituency.
 
-## Indore Tops Swachh Vayu Sarvekshan 2023 Clean Air Survey
+## 9-november-2023
+#### 1. Maharashtra CM Eknath Shinde unveils Shivaji Maharaj statue in J&K’s Kupwara:
 
-- Indore, Amravati, and Parwanoo have been ranked as the cities with the cleanest air in India according to the Swachh Vayu Sarvekshan 2023 (Clean Air Survey) conducted by the Central Pollution Control Board.
-- In cities with a population exceeding one million, Indore secured the top spot, followed by Agra and Thane.
-- Delhi claimed the ninth spot among the cities ranked in the survey.
+- Maharashtra CM Eknath Shinde inaugurated a statue of Chhatrapati Shivaji Maharaj in J&K's Kupwara.
+- The statue holds a special connection to Maharashtra and is located near the Line of Control.
+- The soil and water used in the statue's construction were sourced from five different forts in Maharashtra.
 
-## IIM Indore and NSDC Partner to Transform Skill Development and Entrepreneurship in India
+#### 2. KVIC Chairman inaugurates five-days 'Diwali Utsav' on the theme of 'Vocal for Local':
 
-- Indian Institute of Management Indore (IIM Indore) and the National Skill Development Corporation (NSDC) have formed a
+- KVIC Chairman Manoj Kumar inaugurated the 'Diwali Utsav' Gramshilpa, Khadi Lounge in New Delhi.
+- The initiative aims to promote locally-manufactured products and support the 'Vocal for Local' campaign.
+- The event showcases a diverse range of products, including clay diyas, idols of Lakshmi and Ganesh, and Khadi garments.
 
-## 12-september-2023
-## PM Modi Launches Global Biofuels Alliance at G20 Summit
+#### 3. China Faces Deflationary Pressures in October Despite Import Surge:
 
-- Indian PM Narendra Modi announces formation of Global Biofuels Alliance (GBA) at G20 Summit.
-- GBA includes more than 30 countries and international organizations.
-- Key G20 member countries supporting the alliance include Argentina, Brazil, Canada, India, Italy, South Africa, and the US.
+- China experienced deflation in October as the Consumer Price Index (CPI) declined by 0.2%.
+- Food, tobacco, and alcohol prices, especially pork, recorded significant falls.
+- This poses a challenge for officials working to stimulate demand and maintain economic growth.
 
-## United States City Louisville Declares September 3rd As Sanatana Dharma Day
+#### 4. US Announces $553 Million Investment in Adani’s Sri Lanka Port Terminal Project:
 
-- Mayor Craig Greenberg declares September 3 as Sanatana Dharma Day in Louisville, Kentucky.
-- Sanatana Dharma, often referred to as Hinduism, is one of the world's oldest spiritual traditions.
-- July 20 was previously declared as 'Encyclopedia of Hinduism' day in Kentucky.
+- The US International Development Finance Corporation (DFC) invested $553 million in Adani Ports' container terminal project in Sri Lanka.
+- This investment aims to support economic development and strategic partnerships in the region.
+- It demonstrates the US' commitment to enhancing economic growth and positioning Sri Lanka along major shipping routes.
 
-## North Korea Launches New 'Tactical Nuclear Attack Submarine'
+#### 5. President Droupadi Murmu’s Visit On Uttarakhand Foundation Day:
 
-- North Korea launches its first operational "tactical nuclear attack submarine."
-- The submarine is a modified version of the Soviet-era Romeo-class submarine.
-- It features 10 launch tube hatches, indicating it is likely armed with ballistic missiles and cruise missiles.
+- President Draupadi Murmu participated in Uttarakhand's Foundation Day program, marking the first instance of a President's presence in 23 years.
+- Uttarakhand became the 27th state of India on November 9, 2000, and the day commemorates its formation.
+- The day celebrates the spirit and cultural heritage of Uttarakhand's people.
 
-## UK Commits $2 Billion to UN-Backed Climate Fund
+#### 6. UBS Raises India’s GDP Forecast to 6.3% for FY24:
 
-- UK allocates $2 billion to the Green Climate Fund (GCF).
-- The GCF is the world's largest fund of its kind.
-- Its primary objective is to facilitate financial resources for developing countries to address climate-related goals.
+- UBS revised its FY24 real GDP growth estimate for India to 6.3%.
+- The domestic economic activities in India are performing better than expected, providing momentum for growth.
+- The ongoing festive season and government spending on pro-rural schemes are expected to further support growth.
 
-## India and UK Launch Infrastructure Financing Bridge
+#### 7. S&P Global Ratings Predicts RBI Interest Rate Cut in 2024-25 If Food Inflation Is Controlled:
 
-- India and UK launch Infrastructure Financing Bridge during the 12th Economic and Financial Dialogue (EFD).
-- The partnership aims to unlock infrastructure investment opportunities in India.
-- The UKIIFB, led jointly by Niti Aayog and the City of London, is a centerpiece of the collaboration.
+- S&P Global Ratings predicts that the RBI might reduce interest rates in FY 2024-25.
+- This projection is dependent on the containment of food inflation and the monsoon performance.
+- S&P Global Ratings forecasts a 6% GDP growth for India in the current year and 6.9% over the next two years.
 
-## Tamil Nadu govt to launch scheme granting monthly aid to over 1 crore women
+#### 8. PayGlocal Receives In-Principle Approval from RBI for Payment Aggregator License:
 
-- Tamil Nadu government to launch Kalaignar Magalir Urimai Thogai Thittam.
-- The scheme provides monthly financial assistance to over 1.06 crore eligible women.
-- Beneficiaries will receive a monthly sum of Rs 1,000 directly into their bank accounts.
+- PayGlocal has received in-principle approval from the RBI for a Payment Aggregator (PA) license.
+- This license will enable PayGlocal to onboard merchants onto its platform for online payment processing.
+- PayGlocal offers a secure online payment platform that supports cross-border transactions.
 
-## Indian Navy, Uber Team Up For Private Travel Of Naval Personnel, Families
+#### 9. STPI Launches LEAP AHEAD Initiative For Startups to get Access to Investment, Mentorship & Global Connect:
 
-- Indian Navy collaborates with Uber to enhance travel experience for its personnel and their families.
-- The partnership aims to offer a comprehensive range of benefits to Indian Navy personnel.
-- This initiative marks the first of its kind in the Indian armed forces.
+- The LEAP AHEAD initiative was launched by the Ministry of Electronics & Information Technology and STPI in collaboration with TiE Delhi-NCR.
+- It aims to support tech startups in scaling, growth, diversification, and expansion into new geographical locations.
+- The initiative offers funding support of up to Rs. 1 Crore and a comprehensive three-month mentorship program.
 
-## RBI, NPCI Introduce Credit Lines On UPI, Conversational Payments
+#### 10. World Science Day for Peace and Development 2023 on November 10:
 
-- RBI unveils new UPI features developed by NPCI to enhance India's digital payment ecosystem.
-- The features include credit line on UPI, UPI Lite X, UPI Tap & Pay, Conversational Payments, and BillPay Connect.
-- These features revolutionize the way Indians transact and manage their finances.
+- World Science Day for Peace and Development is celebrated on November 10 to recognize the role of science in society.
+- The theme for 2023 is "Building Trust in Science."
+- The day was established by UNESCO in 2001 and has led to numerous science-related projects and programs globally.
 
-## Re-Appointment of Sandeep Bakshi as ICICI Bank MD & CEO Receives RBI Approval
+## 9-november-2023
+## International Week of Science and Peace 2023, 9-15 November
 
-- Sandeep Bakshi re-appointed as the Managing Director and Chief Executive Officer of ICICI Bank.
-- RBI approval extends his term until October 3, 2026.
-- This reflects confidence in Mr. Bakhshi's leadership and vision.
+- IWOSP celebrates the role of science in global peace and development.
+- Originated in 1986 and officially recognized by the UN General Assembly in 1988.
+- Platform for international collaboration, inspiration for future generations, and highlighting science's transformative potential.
 
-## United Nations Day for South-South Cooperation 2023
+## QS Asia University Rankings 2024: IIT Bombay And IIT Delhi Within Top 50
 
-- United Nations Day for South-South Cooperation celebrated on September 12.
-- The day highlights United Nations' efforts to work on technical cooperation among developing countries.
-- The theme for this year is "Solidarity, Equity and Partnership: Unlocking South-South Cooperation to Achieve the SDGs."
+- QS Asia University Rankings 2024 announced by global higher education think-tank QS.
+- IIT Bombay and IIT Delhi secure positions within the top 50.
+- IIT Bombay ranked 40th, maintaining its position as India's leading institution.
+- India has the highest number of universities featured in the rankings, with a total of 148.
 
-## India And Saudi Arabia Sign Agreement On Cooperation In Energy Sector
+## WHO Confirms India's Achievement In Decreasing TB Incidents
 
-- India and Saudi Arabia sign MoU to enhance energy partnership and combat climate change.
-- Agreement fosters cooperation in renewable energy, energy efficiency, and carbon reduction technologies.
-- Supports India's sustainable energy future and contributes to the global energy system's transformation.
+- WHO's 'Global TB Report 2023' highlights India's success in combating TB.
+- India achieves 80% treatment coverage for estimated TB cases, a 19% increase from the previous year.
+- TB incidence in India decreased by 16% from 2015 to 2022, double the global decline rate.
 
-## Thomas Cook India Partners With National Payments Corporation Of India
+## IREDA Launches CSR Portal to Improve Transparency in CSR Initiatives
 
-- Thomas Cook India partners with NPCI to introduce RuPay prepaid forex card for Indian travelers.
-- The card simplifies financial transactions and enhances the travel experience.
-- Focus on convenience, security, and rewards.
+- IREDA unveils CSR portal to enhance transparency in managing CSR requests.
+- Portal includes comprehensive CSR policy and proposal checklist.
+- Aims to streamline execution of social welfare projects and increase public accessibility.
 
-## Shanti Swarup Bhatnagar Prizes-2022 announced by CSIR
+## Santosh Kumar Jha set to be next CMD of Konkan Railway
 
-- CSIR announces the Shanti Swarup Bhatnagar (SSB) awards for 2022.
-- The awards recognize notable and outstanding research in various disciplines.
-- Awardees include 12 scientists below the age of 45.
+- Santosh Kumar Jha recommended as next CMD of Konkan Railway Corporation Limited (KRCL).
+- Koppu Sadashiv Murthy assumes role of Chairman & Managing Director at Bharat Heavy Electricals Limited (BHEL).
+- Anupama Priyadarshini joins Open Network for Digital Commerce (ONDC) as Senior VP.
 
-## Vijayawada Railway Station gets IGBC's 'Green Railway Station' certification
+## India's Aditya-L1 Recorded First-Ever Sight Of Solar Flares
 
-- Vijayawada Railway Station awarded 'Green Railway Station' certification with Platinum rating.
-- Efforts made to improve environmental standards and provide eco-friendly services.
-- Measures include the use of star-rated electrical appliances, LED lights, and a sewage treatment plant.
+- ISRO's solar mission, Aditya-L1, captures first high-energy X-ray glimpse of solar flares.
+- High Energy L1 Orbiting X-ray Spectrometer (HEL1OS) records impulsive phase of solar flares.
+- Data consistent with X-ray light curves provided by NOAA's Geostationary Operational Environmental Satellites (GOES).
 
-## Asia Cup 2023, Virat Kohli becomes fastest ODI player to reach 13,000 runs
+## IBM And AWS Launched An Innovation Lab In Bengaluru
 
-- Virat Kohli becomes the fastest batter to reach 13,000 ODI runs.
-- Reaches the milestone in 267 innings, breaking the record of Sachin Tendulkar (321 innings).
-- Kohli has now scored four consecutive centuries at the R. Premadasa Stadium.
+- IBM and AWS launch Innovation Lab at IBM Client Experience Center in Bengaluru.
+- Lab enables experimentation with cloud-enabled technologies, including generative AI.
+- Open to clients worldwide, encourages joint solutions and accelerating innovation.
 
-## Asia Cup 2023
+## 7 Ring Smart Ring Is Here to Enable Contactless Payments in India
 
-## 13-september-2023
-## 1. What is India-Middle East-Europe Mega Economic Corridor Project?
+- Seven introduces the 7 Ring smart ring in India.
+- Smart wearable with Zirconia Ceramic build, scratch resistance, and IP68 rating for water and dust resistance.
+- MRP of Rs 7,000, available for early bird offer of Rs 4,777 on the company's website.
 
-- Prime Minister Narendra Modi announced the India-Middle East-Europe economic corridor during the G20 summit.
-- The project involves India, UAE, Saudi Arabia, European Union, Italy, Germany, and the United States.
-- Aimed at boosting trade between the participating nations, with a focus on energy-related goods.
+## 10-november-2023
+**1. Supreme Court: Nationwide Ban On Use Of Barium And Other Prohibited Chemicals In Firecrackers**
 
+- Ban on use of barium and other prohibited chemicals in firecrackers applies nationwide.
+- Ban also includes the manufacture and sale of 'joined crackers.'
+- Mandate to adhere to permissible noise levels of firecrackers.
 
-## 2. Storm Daniel Devastates Eastern Libya, Over 5,300 Lives Lost
+**2. Winter Session of Parliament Scheduled for December 4 – 22**
 
-- Eastern Libya is in a state of emergency after Storm Daniel causes extensive damage.
-- More than 5,300 lives lost and many still missing.
-- Infrastructure neglect and damaged roads hinder access to affected areas.
+- Winter session of Indian Parliament from December 4 to December 22.
+- 15 meetings to discuss legislative matters and other issues.
+- Bill to elevate status of Chief Election Commissioner and Election Commissioners.
 
+**3. Kozhikode and Gwalior Join UNESCO Creative Cities Network**
 
-## 3. “Bharat: The Mother of Democracy” Portal Unveiled at G20 Exhibition
+- Kozhikode designated as 'City of Literature' by UNESCO.
+- Gwalior designated as 'City of Music' by UNESCO.
+- Both cities part of UNESCO Creative Cities Network.
 
-- Ministry of Culture unveiled an online portal chronicling the history of democracy in India.
-- Curated by the Indira Gandhi National Centre for the Arts (IGNCA).
-- Portal organized into five sections and available in 16 languages.
+**4. CJI DY Chandrachud Inaugurates Mitti Cafe In Supreme Court**
 
+- Mitti Cafe managed entirely by individuals with disabilities.
+- Cafe showcases inclusive employment and meaningful contributions.
+- 38 outlets established in various parts of the country.
 
-## 4. President Droupadi Murmu Inaugurates First Global Symposium on Farmers’ Rights in New Delhi
+**5. UK to Add India to Safe States List, Restrict Asylum Rights for Illegal Migrants**
 
-- President Droupadi Murmu inaugurates the First Global Symposium on Farmers' Rights.
-- Symposium organized by the International Treaty on Plant Genetic Resources for Food and Agriculture.
-- Emphasis on the role of farmers in conserving crop diversity and ensuring food security.
+- India to be included in UK's expanded list of safe states.
+- Aim to expedite return of Indian nationals and limit asylum rights.
+- Draft legislation includes India and Georgia as safe states.
 
+**6. Russia pulled out of Treaty of Conventional Armed Forces in Europe**
 
-## 5. MP Cabinet Approves Mob Lynching Victim Compensation Scheme 2023
+- Russia formally withdraws from CFE citing NATO's expansion as a barrier.
+- Follows revocation of CTBT and test launch of intercontinental ballistic missile.
+- CFE aimed to limit conventional arms between Cold War rivals.
 
-- Madhya Pradesh cabinet approves initiatives including compensation for mob lynching victims and housing schemes for homeless families.
-- Mukhyamantri Ladli Behna Housing Scheme provides support to those not covered by the Prime Minister's housing scheme.
-- Focus on addressing critical issues within the state and expanding public services.
+**7. RBI allows NRIs to buy Sovereign Green Bonds**
 
+- NRIs granted unrestricted investment access to Sovereign Green Bonds.
+- Move enhances investment opportunities in environmentally focused bonds.
+- Aligns with growing trend of environmentally conscious investments.
 
-## 6. Raksha Mantri Inaugurates 90 BRO Infrastructure Projects Valued At More Than Rs 2,900 Crore
+**8. Indian Air Force Arrives For Dubai Air Show 2023**
 
-- Raksha Mantri Shri Rajnath Singh inaugurates 90 infrastructure projects by the Border Roads Organisation (BRO).
-- Projects include tunnels, airfields, roads, and bridges across 11 states/union territories.
-- Aimed at enhancing connectivity and infrastructure development in border areas.
+- IAF contingent participates in Dubai Air Show from November 13 to 17, 2023.
+- Light Combat Aircraft Tejas and Advanced Light Helicopter Dhruv showcased.
+- Tejas engages in static and aerial displays, Sarang Helicopter Display Team performs.
 
+**9. Italian Luxury Brand, Brioni, Enters Indian Market**
 
-## 7. Indian Retail Inflation Eases to 
+- Brioni, menswear brand under Kering, enters Indian market.
+- First boutique to open in Delhi's Chanakya mall.
+- Indian luxury goods market experiencing remarkable growth.
 
-## 14-september-2023
-### President Droupadi Murmu Virtually Launches Ayushman Bhav Campaign for Universal Health Coverage
+**10. InterGlobe Enterprises ties up with US-based Archer for air taxi service**
 
-- President Droupadi Murmu virtually launches Ayushman Bhav campaign and Ayushman Bhava portal.
-- The campaign aims to facilitate access to Ayushman cards for citizens and generate ABHA IDs.
-- Ayushman Bhav raises awareness about critical health schemes and conditions.
+- InterGlobe Enterprises partners with Archer Aviation for electric air taxi service.
+- Aim to acquire up to 200 Archer Midnight aircraft for operations in India.
+- Focus cities include Delhi, Mumbai, and Bengaluru for efficient transportation solutions.
 
-### NATO’s Largest Military Exercise Since the Cold War: “Steadfast Defender”
+## 10-november-2023
+## 11.N. Srikant Appointed As Additional Secretary In MNRE
+- N. Srikant, Andhra Pradesh cadre IAS officer, appointed as additional secretary in the Ministry of Power and New and Renewable Energy.
+- Previously served as joint secretary in the Union Cabinet.
+- Notable achievements include overseeing savings of ₹4,783 crore by AP power utilities.
 
-- NATO member countries prepare for the largest military exercise since the Cold War.
-- The exercise simulates various military scenarios with a primary focus on defense against a Russian-led coalition.
-- The objective is to refine NATO's transformation into a robust war-fighting alliance.
+## 12. Australian Cricketer Meg Lanning Announces Retirement From International Cricket
+- Meg Lanning, captain of Australia women's national cricket team, announces retirement from international cricket.
+- Career spanned 241 matches, including six Tests, 103 ODIs, and 132 T20Is.
+- Amassed 8,352 runs, including 17 centuries and 38 half-centuries.
 
-### India Emerges as Bangladesh’s Leading Export Partner
+## 13. Maharashtra Clinch Raja Bhalindra Trophy For First Time Since 1994
+- Maharashtra emerges as champions in the 2023 National Games and secures Raja Bhalindra Singh Rolling Trophy.
+- Secured 80 gold medals, 69 silver medals, and 79 bronze medals, totaling 228 medals.
+- Services Sports Control Board finishes second in medal tally, Haryana finishes third.
 
-- India surpasses Japan and China to become Bangladesh's largest export partner.
-- Bilateral trade between India and Bangladesh grows significantly.
-- Discussions focus on exploring new trade routes and improving connectivity.
+## 14. Samsung Unveils Its Generative AI Model Samsung Gauss
+- Samsung reveals its generative AI model called Samsung Gauss.
+- Named after mathematician Carl Friedrich Gauss.
+- AI model designed to enhance lives of consumers globally while safeguarding user privacy.
 
-### President Droupadi Murmu Inaugurates Digital House Of Gujarat Assembly
+## 15. SpaceX Launched Its 29th Mission To Deliver Research Gear And Equipment To The ISS
+- SpaceX's Cargo Dragon launches on its 29th mission to the ISS.
+- Primary objective is to transport research gear and equipment.
+- Cargo includes experimental high-speed laser communications package for data transmission.
 
-- President Droupadi Murmu inaugurates Gujarat legislative assembly's Digital House project.
-- National e-Vidhan Application (NeVA) makes legislative work and data available online.
-- NeVA includes a user-friendly website and mobile app.
+## 16. 'Mika' Becomes World's First AI Human-Like Robot CEO
+- Hanson Robotics and Dictador appoint the world's first humanoid robot CEO, named Mika.
+- Combines advanced AI and machine learning with company values.
+- Mika utilizes AI and machine learning algorithms for data processing.
 
-### Haryana Govt Appoints Actress Mita Vashisth as Chair of Entertainment Policy Council
+## 11-november-2023
+## National Education Day 2023: What is its history and theme
 
-- Haryana government appoints actress Mita Vashisth as chairperson of Entertainment Policy Council.
-- Mita Vashisth has an extensive career in cinema, television, theater, and more.
-- The appointment follows the demise of Satish Kaushik, the previous chairperson.
+- National Education Day is celebrated on November 11th every year.
+- It commemorates the birth anniversary of Maulana Abul Kalam Azad, India's first Education Minister.
+- Azad was a visionary leader who advocated for universal primary education, girls' education, and free compulsory education for children under 14.
+- He played a key role in establishing prestigious educational institutions like the Indian Institutes of Technology (IITs) and the University Grants Commission (UGC).
 
-### CM Bhagwant Singh Mann Lays Foundation Stone Of Saragarhi Memorial In Ferozpur
+## New Zealand’s Rachin Ravindra and West Indies’ Hayley Matthews Win ICC Player of the Month Awards
 
-- Punjab's Chief Minister Bhagwant Singh Mann lays the foundation stone of the Saragarhi memorial.
-- Ferozepur district aims to become a prominent tourism hub.
-- The district is home to the Saragarhi and Hussainiwala memorials.
+- Rachin Ravindra from New Zealand won the ICC Men's Player of the Month award for his exceptional performances in the ICC Men's Cricket World Cup 2023 group stages.
+- Hayley Matthews from West Indies received the ICC Women's Player of the Month award for her outstanding performances in the T20I series against Australia.
+- Ravindra scored 406 runs at an average of 81.20, including a century and two half-centuries.
+- Matthews scored an unbeaten 99 and a match-winning 132 not out, along with claiming six wickets in the series.
 
-### State Health Minister Balbir Singh launches "Mission Intensified IndraDhanush" 5.0 in Mohali, Punjab
+## ICC Suspends Sri Lanka Cricket’s Membership Over Government Interference
 
-- State Health Minister of Punjab, Balbir Singh, inaugurates "Mission Intensified IndraDhanush" 5.0.
-- The mission aims to provide vaccination against 12 Vaccine-Preventable Diseases (VPD).
-- Emphasis on covering pregnant women and children in remote areas.
+- The International Cricket Council (ICC) has suspended Sri Lanka Cricket's membership due to serious breaches of its autonomy and government interference.
+- The decision follows the Sri Lankan government's decision to sack the cricket board after the national team's disappointing performance in the ICC Cricket World Cup 2023.
+- The Sri Lankan cricket team is currently ranked ninth out of ten teams, winning only two out of nine matches.
+- Conflicts within the Sri Lanka Cricket (SLC) management have further contributed to their struggles.
 
-### Hindi Diwas 2023
+## Bilateral Exercise BONGOSAGAR-23 and Coordinated Patrol CORPAT-23
 
-- India celebrates Hindi Diwas on September 14th each year.
-- Hindi was recognized as an official language in 1949.
-- The occasion highlights the importance of linguistic diversity.
+- The 4th edition of the Bilateral Exercise BONGOSAGAR-23 between the Indian Navy and Bangladesh Navy took place in the Northern Bay of Bengal from 07 - 09 Nov 2023.
+- Ships and aircraft from both navies conducted joint patrolling along the International Maritime Boundary Line (IMBL) during the exercise.
+- The two navies also participated in maritime exercises to enhance interoperability.
+  
+## Grammy Awards 2024: Falguni Shah’s ‘Abundance in Millets’ Nominated for Best Global Music Performance
 
-### Centre’s Report Says India Has 150 Elephant Corridors
+- Indian vocalist and songwriter Falguni Shah has been nominated for the Best Global Music Performance category at the 2024 Grammy Awards.
+- Her nominated song, "Abundance in Millets," features a speech by Prime Minister Narendra Modi.
+- The song aims to raise awareness about millets, a supergrain that can help alleviate world hunger.
+- Falguni Shah actively promotes millets' cultivation and consumption in India and globally.
 
-- India has at least 150 elephant corridors spread across 15 range-states.
-- West Bengal has the highest number of corridors.
-- The report indicates increased awareness of conserving elephant corridors.
+## Former governor of Nagaland, P B Acharya passes away at 92
 
-### Nabard and UNDP India Join Forces for Data-Driven Agricultural Innovation
+- P B Acharya, a former governor of Nagaland and senior BJP leader, passed away in Mumbai at the age of 92.
+- He was a respected figure in Indian politics and society.
+- Acharya was born in Udupi, Karnataka in 1931 and completed his education from Christian High School and Mahatma Gandhi Memorial College.
+- He had a strong association with the Akhil Bharatiya Vidyarthi Parishad (ABVP) and the Bharatiya Janata Party (BJP).
 
-- UNDP India and Nabard collaborate to revolutionize Indian agriculture through data-driven innovations.
-- The partnership aims to support space-tech startups through the AWS Activate program.
+## 11-november-2023
+# Title: The Impact of Climate Change on Global Food Production
 
+- Climate change is affecting global food production in various ways.
+- Rising temperatures and changing rainfall patterns are leading to decreased crop yields in many regions.
+- Extreme weather events such as droughts, floods, and heatwaves are becoming more frequent, further disrupting agricultural output.
 
-## 15-september-2023
-# India Gets Its First Airbus C295 Aircraft
-- India receives its first Airbus C295 aircraft, a historic achievement in Indian aviation.
-- The C295 aircraft is manufactured by a collaboration between Airbus and the Tata Group, the first instance of an Indian private company manufacturing an aircraft.
-- The C295 aircraft will replace the IAF's ageing Avro fleet, offering improved payload capacity, speed, and loading capabilities.
+# Title: The Role of Technology in Sustainable Agriculture
 
-# Cabinet Approves e-Courts Phase III For 4 Years
-- The Indian government approves Phase III of the e-Courts project with a budget allocation of Rs 7,210 crore.
-- The project aims to digitize court records, including legacy documents, to streamline court processes and expedite access to legal information.
-- The e-Courts project operates under the National e-Governance Plan and is led by the Supreme Court with funding from the Department of Justice.
+- Technology is playing a crucial role in promoting sustainable agriculture.
+- Precision farming techniques are helping farmers optimize the use of resources such as water, fertilizers, and pesticides.
+- IoT devices, drones, and satellite imaging are being used to monitor crop conditions and detect pest outbreaks more effectively.
 
-# Birth certificate to be single document for Aadhaar, driving license, jobs from next month
-- The Union Ministry of Home Affairs introduces a modification in the utilization of birth certificates, making it a single document for essential services.
-- Birth certificates will be required for school and college admissions, voter lists, registering marriages, and securing government jobs.
-- The modification allows sharing birth certificate data with authorized authorities, enhancing transparency and efficiency in public service delivery.
+# Title: Strategies for Mitigating Environmental Pollution from Agriculture
 
-# Cabinet Approves Expansion Of Ujjwala Yojana
-- The Indian government unveils the third phase of the Ujjwala scheme, extending coverage to an additional 7.5 million impoverished households.
-- Beneficiaries will receive a deposit-free gas connection, stove, and refill at no cost.
-- The expansion costs approximately ₹1,650 crore and includes previously ineligible households, increasing the program's total coverage to 103.5 million households.
+- Agricultural practices contribute to environmental pollution through the use of chemical fertilizers and pesticides.
+- Implementing organic farming methods can help reduce pollution by minimizing chemical inputs.
+- Conservation farming techniques, such as crop rotation and cover cropping, can improve soil health and reduce the need for chemical inputs.
 
-# India Achieves Milestone as the 13th Nation to Issue Globally Recognized OIML Certificates
-- India authorized to issue International Organisation of Legal Metrology (OIML) certificates, allowing domestic and global manufacturers to have their weighing and measuring instruments tested within the country.
-- Offering testing facilities for international manufacturers is expected to generate revenue and create employment opportunities in India.
-- Previously, testing had to be conducted in one of the 12 countries, including China and Japan.
+# Title: The Importance of Biodiversity in Agricultural Systems
 
-# Karnataka Rolls Out Rs 4 Lakh Insurance Cover To Gig Workers
-- The Karnataka government introduces a comprehensive insurance package worth Rs 4 lakh for approximately 2.3 lakh gig workers.
-- The insurance scheme covers life insurance and accidental insurance, with reimbursement for hospital expenses in cases of accidents.
-- The initiative is implemented through the Karnataka State Unorganised Workers' Social Security Board.
+- Biodiversity plays a critical role in maintaining healthy agricultural systems.
+- Pollinators such as bees and butterflies are essential for crop production and yield.
+- Intercropping and agroforestry practices help enhance biodiversity by providing habitats for beneficial insects and wildlife.
 
-# BAE Systems, L&T Join Hands To Bring All-Terrain Vehicle To India
-- BAE Systems and L&T partner to introduce the 'BvS10' Articulated All-Terr
+# Title: The Economics of Sustainable Farming
 
-## 16-september-2023
-1. India Launches UPAg: A Revolutionary Unified Portal for Agricultural Statistics
-- Unveiling of UPAg, a unified portal for agricultural statistics in India
-- Empowers stakeholders with real-time, reliable, and standardized information
-- Aims to consolidate data into a standardized format for easy access
+- Sustainable farming practices can lead to economic benefits for farmers.
+- By improving soil health and reducing input costs, farmers can achieve higher yields and profits.
+- The demand for sustainably produced food is increasing, providing market opportunities for farmers adopting sustainable practices.
 
-2. Ministry of Railways Extends Swachhata Pakhwada Campaign
-- Launch of Swachhata Pakhwada 2023 campaign by Ministry of Railways
-- Extended until Mahatma Gandhi's Jayanti on October 2nd
-- Awards distributed for Swachhata Pakhwada 2022
+## 13-november-2023
+## Ayodhya Sets Guinness Record By Lighting 22 Lakh Diyas
+- Over 22 lakh diyas (earthen lanterns) were illuminated along the Saryu river in Ayodhya.
+- 25,000 volunteers lit the diyas at the 51 ghats of Ram Ki Paidi.
+- Cultural presentations by artists from 21 states, 11 tableaus, and Ramlila performances from various countries added diversity to the event.
 
-3. Shivraj Singh Chouhan Inaugurates 108-Feet Tall Statue of Adi Shankaracharya
-- Unveiling of 108-feet-tall statue of Adi Shankaracharya in Omkareshwar
-- Tribute to the revered philosopher and his contributions to
+## Uttarakhand To Become The First State To Adopt The Uniform Civil Code (UCC)
+- Uttarakhand is set to become the first state in India to implement the Uniform Civil Code (UCC).
+- The UCC aims to ensure fair treatment and opportunities for all citizens, regardless of their gender, sex, religion, or sexual orientation.
+- Currently, Goa is the only state with a civil code, while Kerala has formally opposed the UCC.
 
-## 18-september-2023
+## World Kindness Day: "Be Kind Wherever Possible"
+- World Kindness Day is observed on November 13 to promote acts of kindness.
+- The theme for 2023 is "Be Kind Wherever Possible," encouraging kindness every day.
+- Kindness transcends boundaries of race, religion, politics, gender, and geography.
 
-1\. **PM Modi Inaugurates YashoBhoomi Convention Centre:**
+## 33rd Conference Of The WOAH Regional Commission for Asia And Pacific In New Delhi
+- India is hosting the 33rd Conference of the World Organisation for Animal Health (WOAH) Regional Commission for Asia and the Pacific.
+- The conference, held in New Delhi from November 13 to 16, focuses on advancing animal health and husbandry.
+- The event facilitates discussions, networking, and the exchange of best practices in the field.
 
-   - PM Modi unveils Phase 1 of the India International Convention and Expo Centre (IICC) named 'Yashobhoomi.'
+## Rear Admiral Rajesh Dhankhar Assumes Command Of The Eastern Fleet
+- Rear Admiral Rajesh Dhankhar has assumed command of the Eastern Fleet within the Eastern Naval Command.
+- The change of command ceremony took place in Visakhapatnam, marking the transition from Rear Admiral Gurcharan Singh.
+- Rear Admiral Dhankhar has served in various specialist appointments onboard warships and was awarded the Nao Sena Medal (Gallantry) in 2015.
 
-   - The state-of-the-art facility costs Rs 5,400 crore, covering an expansive project area of over 8.9 lakh square metres.
+## ICC Announced The Inclusion Of Three Cricket Maestros In The ICC Hall Of Fame
+- The ICC inducted Virender Sehwag, Diana Edulji, and Aravinda de Silva into the ICC Cricket Hall of Fame.
+- These cricketing icons have made significant contributions to the game.
+- Their induction into the Hall of Fame recognizes their excellence and impact in cricket.
 
-   - Yashobhoomi boasts a convention centre with 15 rooms, including an auditorium and grand ballroom, capable of accommodating up to 11,000 delegates.
+## 13-november-2023
+# Content Summary
 
-2\. **Hyderabad Liberation Day On 17 September:**
+## Introduction
+- Provides an overview of the topic
+- Gives background information
+- Defines key terms
 
-   - Celebrates the integration of Hyderabad into India in 1948, known as Kalyana-Karnataka Liberation Day.
+## Main Findings
+- Presents the most important results or conclusions of the study
+- Highlights key findings or insights
+- Provides statistical or numerical data
 
-   - Designated as "Telangana National Integration Day" in 2022, fostering unity and integration in the state.
+## Methodology
+- Describes the research methods or techniques used
+- Gives an explanation of the data collection process
+- Discusses any limitations or potential biases in the study
 
-   - Highlights the historical moment when Nizam-ruled Hyderabad state became part of the Indian union.
+## Discussion and Analysis
+- Explores the implications of the findings
+- Provides a critical analysis of the results
+- Discusses the relevance of the study to the broader field or topic
 
-3\. **Maharashtra Issues Notification On Name Change Of Aurangabad, Osmanabad:**
+## Conclusion
+- Summarizes the main points of the content
+- States the overall implications or significance of the study
+- Makes any recommendations for further research or action
 
-   - Maharashtra government renames Aurangabad to Chhatrapati Sambhajinagar and Osmanabad to Dharashiv.
+## References
+- Lists the sources or references cited in the content
+- Provides the necessary information for readers to find the original sources
 
-   - Decision carries historical and cultural significance, breaking ties with Mughal emperor Aurangzeb and 20th-century ruler of Hyderabad.
+## 14-november-2023
+### PM Modi To Launch PM-PVTG Mission And Viksit Bharat Sankalp Yatra On Janjatiya Gaurav Diwas
 
-   - Reflects Chhatrapati Sambhaji's significance as the second ruler of the Maratha state.
+- Launch of PM-PVTG Development Mission focused on comprehensive development of Particularly Vulnerable Tribal Groups (PVTGs).
+- Launch of Viksit Bharat Sankalp Yatra with the goal of achieving saturation of government schemes.
+- Coincides with Janjatiya Gaurav Diwas, the birth anniversary celebration of tribal freedom fighter Birsa Munda.
 
-4\. **Assam Governor Unveils 'Sarpanch Samvad' Mobile App:**
+### External Affairs Minister S. Jaishankar’s Five-Day Visit to the United Kingdom
 
-   - Assam Governor launches 'Sarpanch Samvad' app to revolutionize communication for village headmen.
+- Visit aimed at strengthening bilateral partnership between India and the UK.
+- Discussions with UK Foreign Secretary to focus on diplomatic issues, shared interests, and collaboration.
+- Expected to contribute to overall strengthening of diplomatic relationship between the two countries.
 
-   - Developed by the Quality Council of India (QCI), connecting approximately 2.5 lakh Sarpanchs across India.
+### Uttarakhand’s Unique Products Gets Geographical Indication Tags
 
-   - Aims to empower grassroots leaders through networking, knowledge dissemination, and collaboration.
+- More than 15 products from Uttarakhand have been awarded Geographical Indication (GI) tags.
+- GI tags awarded to Uttarakhand's finger millet (Mandua) and Jhangora millet.
+- GI tags help in promoting and protecting unique products of a specific region.
 
-5\. **Dhanlaxmi Bank Independent Director Resigns:**
+### Goldman Sachs Adjusts Ratings in Asian Markets: Upgrades India, Downgrades China
 
-   - Dhanlaxmi Bank's independent director, Sridhar Kalyanasundaram, resigns citing factionalism and unethical business conduct.
+- Goldman Sachs downgrades Hong Kong-listed Chinese companies due to low earnings growth concerns.
+- Upgrades rating on Indian equities, citing India's strategic appeal and expected growth prospects.
+- Expects India to have the best structural growth prospects in the region.
 
-   - Resignation follows a special notice for removal by Ravindran Pillai, the largest shareholder.
+### Morgan Stanley Forecasts Robust 6.5% Growth for India’s Economy in FY24 and FY25
 
-   - Decision influenced by whistle-blower issues, rights issue, and the belligerent attitude of the CEO, Shivan JK.
+- Morgan Stanley predicts India's economy to grow around 6.5% in FY2024 and FY2025.
+- Domestic demand and robust factors to play a crucial role in sustaining India's growth trajectory.
+- Moody's Investor Service also maintains India's growth at 6.7% for 2023.
 
-6\. **E-rupee worth ₹16.39 Crore in Circulation as of March 2023:**
+### Retail Inflation Drops to 4-Month Low of 4.87% in October
 
-   - India's Central Bank Digital Currency (CBDC), E-rupee, circulates ₹16.39 crore by March 2023.
+- India's retail inflation declines to 4.87% in October, a 4-month low.
+- Supportive economic base and moderation in non-food prices contribute to the decline.
+- Provides breathing room for policymakers as it is below the Reserve Bank of India's upper limit of 6%.
 
-   - Wholesale CBDC (e₹-W) constitutes ₹10.69 crore, and Retail CBDC (e₹-R) constitutes ₹5.70 crore.
+### Jio and OneWeb Secure Licenses for Satellite Internet Services
 
-   - Focus on interoperability with UPI QR codes and scaling daily transactions from 15,000 to one million.
+- Jio Satellite Communications and OneWeb receive Internet Service Provider (ISP) licenses.
+- Licenses enable provision of internet services by integrating satellite capabilities with terrestrial networks.
+- Very Small Aperture Terminal (VSAT) technology can be used to establish direct connections with end consumers.
 
-7\. **Indian Bank Launches 'IB SAATHI':**
+### Asia-Pacific Airlines Aim for 5% Green Fuel Usage By 2030
 
-   - Indian Bank introduces 'IB SAATHI' initiative for enhanced financial inclusion services.
+- Association of Asia-Pacific Airlines (AAPA) targets 5% sustainable aviation fuel (SAF) usage by 2030.
+- Emphasis on comprehensive approach and industry being "feedstock and pathway agnostic."
+- India plans to increase sustainable aviation fuel blending to 2% by 2026 and 5% by 2030.
 
-   - Aims to provide basic banking services for a minimum of four hours daily through fixed outlets.
+### World Diabetes Day 2023
 
-   - Plans to expand the business correspondent (BC) network, deploying over 5,000 new BCs by March 2024.
+- World Diabetes Day observed on November 14 to highlight diabetes as a global public health issue.
+- Theme for 2023 is "Access to Diabetes Care."
+- Celebrates the birthday of Sir Frederick Banting, co-discoverer of insulin.
 
-8\. **SIDBI Plans Rs 10,000 Crore Rights Issue:**
+### Children's Day 2023
 
-   - Small Industries Development Bank of India (SIDBI) plans a Rs 10,000 crore rights issue for fiscal expansion.
+- Children's Day celebrated on November 14 in India.
+- Theme for this year is "For every child, every right."
+- Honors the birthday of India's first prime minister, Pandit Jawaharlal Nehru.
 
-   - Aims to increase assets to Rs 5 lakh crore by March 2024, with the rights issue executed in two tranches.
+## 14-november-2023
+## 11. Government Unveils Financial Incentive for Empowering Divyang Individuals
 
-   - Ownership landscape includes the central government, State Bank of India, and Life Insurance Corporation.
+- Introduction of one percent interest rate rebate for divyang borrowers.
+- Part of the National Divyangjan Finance and Development Corporation (NDFDC).
+- Commitment to alleviating financial burdens and promoting responsible financial practices.
 
-9\. **World Bamboo Day 2023 observed on 18th September:**
+## 12. Govt Introduces PM Kisan Bhai To Break Traders’ Monopoly
 
-   - Global initiative celebrating bamboo's significance, observed annually on September 18.
+- Launching PMKisan Bhai (Bhandaran Incentive) scheme.
+- Designed to empower farmers and break the monopoly of traders in determining crop prices.
+- Farmers can retain their crops for a minimum of three months post-harvest.
 
-   - Established in 2009 during the 8th World Bamboo Congress, coinciding with Dr. APJ Abdul Kalam's birthday.
+## 13. 6th India-OPEC Energy Dialogue High-Level Meeting Held In Vienna, Austria
 
-   - Focuses on raising awareness about bamboo's benefits and its role in addressing global challenges.
+- Meeting held at OPEC Secretariat in Vienna, Austria.
+- Emphasis on availability, affordability, and sustainability of energy markets.
+- Discussions centered around crucial issues related to oil and energy markets.
 
-10\. **International Equal Pay Day 2023:**
+## 14. 42nd India International Trade Fair 2023 Inauguration at Pragati Maidan, New Delhi
 
-    - Observed on September 18, emphasizing the ongoing struggle for equal pay for work of equal value.
+- Inauguration by Anupriya Patel, Union Minister of State for Commerce and Industry.
+- Theme: "Vasudhaiva Kutumbakam".
+- Bihar and Kerala as Partner States, Delhi, Jammu and Kashmir, Jharkhand, Maharashtra, and Uttar Pradesh as Focus States.
 
-    - Addresses the gender pay gap, exemplified by women in the U.S. earning 82 cents for every dollar earned by men in 2023.
+## 15. Islamic Arab Summit
 
-    - Reinforces the United Nations' commitment to combat all forms of discrimination, particularly against women.
+- Joint Arab-Islamic Extraordinary Summit in Riyadh, Saudi Arabia.
+- Call for cessation of Israeli aggression against Palestinians.
+- Emphasis on a just, durable, and comprehensive peace based on international legitimacy.
 
-11\. **IRDAI Standing Committee On Cyber Security:**
+## 16. SIDBI Introduces ‘Sumpoorn’ MSME Economic Activity Index in Collaboration with Jocata
 
-    - IRDAI establishes a standing committee dedicated to assessing cyber threats in the insurance sector.
+- Partnership between SIDBI and Jocata.
+- Launch of 'Sumpoorn' MSME Economic Activity Index.
+- Utilizing monthly sales data from credit-seeking MSMEs for the index.
 
-    - Focuses on reviewing and implementing the IRDAI Information and Cyber Security Guidelines, 2023.
+## 17. Supreme Court Welcomes Three New Judges to Tackle Pending Cases
 
-    - The committee, chaired by PS Jagannatham, comprises experts from academia, industry, and insurance broking.
+- Three new judges sworn in to expand the Supreme Court's judicial strength.
+- Delhi High Court Chief Justice and Rajasthan and Gauhati Chief Justices appointed.
+- Ensures necessary manpower to handle pending cases.
 
-12\. **India Hosts Inaugural UNCITRAL South Asia Conference:**
+## 18. Former PM David Cameron Appointed As The UK Foreign Secretary
 
-    - India hosts the inaugural UNCITRAL South Asia conference to foster ties between India and UNCITRAL.
+- David Cameron appointed as Foreign Secretary.
+- Experience as U.K. Prime Minister from 2010 to 2016.
+- Victoria Atkins appointed as the new Health Secretary.
 
-    - Aims to encourage interaction among UNCITRAL, the judiciary, bureaucracy, academia, and the legal fraternity.
+## 19. Mika, the AI-Powered Robot, Takes the Helm as CEO of Dictador
 
-    - Highlights UNCITRAL's role in reforming and harmonizing international business rules worldwide.
+- Appointment of Mika, an AI-powered humanoid robot, as CEO of Dictador.
+- Described as a more sophisticated version of AI robot Sophia.
+- Mika operates 24/7 and works seven days a week, relying on data analysis.
 
-13\. **Santiniketan on UNESCO World Heritage List:**
+## 20. India And ADB Ink $400 Million Deal For Urban Infrastructure Development
 
-    - Santiniketan, founded by Rabindranath Tagore, added to UNESCO's World Heritage List.
+- Signing of $400 million policy-based loan agreement with ADB.
+- Focus on making cities livable and centers of economic growth.
+- Emphasis on urban water security and sustainable groundwater levels.
 
-    - Recognizes its cultural and educational significance as a spiritual retreat with an inclusive ethos.
+## 21. Lala Kedarnath Aggarwal, Founder and Chairman of Bikanervala, Passes Away at 86
 
-    - India now ranks sixth on the World Heritage List, with Santiniketan being the 41st World Heritage site.
+- Lala Kedarnath Aggarwal, founder of Bikanervala, passes away at 86.
+- Bikanervala known for its sweets and snacks.
+- Aggarwal's legacy and culinary heritage.
 
-14\. **84 Artistes Conferred With Sangeet Natak Akademi Amrit Awards:**
+## 22. Pablo Picasso’s ‘Woman with a Watch’ Sells for Record $139 Million
 
-    - Vice President Jagdeep Dhankhar presents Sangeet Natak Akademi Amrit Awards to 84 distinguished artists.
+- Picasso's painting "Femme à la montre" sold for $139 million.
+- Second most expensive Picasso painting ever auctioned.
+- Portrait of Picasso's lover, Marie-Thérèse Walter, painted in 1932.
 
-    - Awards honor Indian artists aged above 75 years, providing recognition, a cash prize, and prestigious accolades.
+## 15-november-2023
+## India's Strategic Move: Auctioning 20 Critical Mineral Blocks for Economic and Energy Transition
 
-    - Sangeet Natak Akademi works toward preserving and advancing India's cultural heritage in music, dance, and drama.
+- Indian government to invite bids for 20 critical mineral blocks, including lithium and graphite.
+- Aims to ensure domestic resources for green energy transition and enhance national security.
+- First lithium deposits discovered in Jammu and Kashmir, estimated at 5.9 million tonnes.
 
-15\. **Fashion Designer Rahul Mishra Honored With France's Award:**
+## Prime Minister Narendra Modi's Two-Day Visit to Jharkhand
 
-    - Fashion designer Rahul Mishra honored with France's "Chevalier de l'Ordre des Arts et des Lettres" award.
+- PM Modi to visit Ulihatu Village, the birthplace of Bhagwan Birsa Munda, becoming the first Prime Minister to do so.
+- Will pay homage at Bhagwan Birsa Munda Memorial Park cum Freedom Fighter Museum in Ranchi.
+- Initiates the 'Viksit Bharat Sankalp Yatra' on Janjatiya Gaurav Diwas to reach beneficiaries of government schemes directly.
 
-    - Recognized for seamlessly blending traditional Indian craftsmanship with modern design aesthetics.
+## Unprecedented Seismic Activity in Iceland Sparks Concerns
 
-    - Previous awards include Rarete Award, International Fashion Award, and International Woolmark Prize.
+- Iceland Met Office warns of a considerable likelihood of a volcanic eruption and declares a state of emergency.
+- Extraordinary swarm of earthquakes, with 800 quakes in less than 14 hours in Reykjanes peninsula.
+- 5.2 magnitude quake strikes 40 km from Reykjavík, the capital of Iceland.
 
-16\. **Ferrari's Carlos Sainz Wins Singapore Grand Prix 2023:**
+## Rajnath Singh to Participate in 10th ASEAN Defence Ministers' Meeting-Plus in Jakarta
 
-    - Carlos Sainz of Ferrari wins the Singapore Grand Prix, ending Max Verstappen's 10-win streak.
+- Defence Minister Rajnath Singh to attend ADMM Plus in Jakarta, Indonesia.
+- Will hold bilateral meetings with Defence Ministers of participating countries.
+- Discussions focused on various aspects of defence cooperation.
 
-    - Lando Norris of McLaren finishes second, and Lewis Hamilton of Mercedes takes third place.
+## India's Wholesale Price Index (WPI) Records Seventh Consecutive Month of Deflation in October
 
-    - The 2023 Formula 1 Singapore Grand Prix draws 264,108 spectators, a significant event after the cancellation in 2020 and 2021.
+- WPI-based inflation rate reaches a three-month low of -0.52% in October.
+- High base effect and declines in prices of key sectors contribute to persistent deflation.
+- Sectors experiencing price reductions include chemicals, electricity, textiles, food products, etc.
 
-17\. **Neeraj Chopra Finishes Second In Diamond League Final:**
+## Sahara Group Founder Subrata Roy Passes Away at 75 After Prolonged Illness
 
-    - Neeraj Chopra secures the second position in the Diamond League finals in javelin throw.
+- Subrata Roy, founder and chairman of Sahara Group, passes away at the age of 75.
+- Started Sahara India Pariwar in 1978 with ₹2,000 capital, becoming a leader in entrepreneurship.
+- Roy battled illness for a prolonged period before his demise.
 
-    - His best throw of 83.80 meters is behind Jakub Vadlejch, the eventual
+## Virat Kohli Breaks Sachin Tendulkar's Record for Most Centuries In An ODI
 
- Diamond League champion.
+- Virat Kohli becomes the first batter to score 50 ODIs centuries, surpassing Sachin Tendulkar.
+- Achieves the feat during the ICC Men's Cricket World Cup.
+- Establishes himself as the leading century-scorer in ODI cricket.
 
-    - Chopra's notable performance follows his Diamond League crown in 2022.
+## 15-november-2023
+# Content
 
-18\. **Asia Cup 2023 "Man of the Match" and "Man of the Tournament":**
+## Introduction
+- Provides an overview of the topic
+- States the purpose of the content
+- Includes relevant background information
 
-    - Mohammed Siraj wins Man of the Match in the final, taking 6/21; Kuldeep Yadav is Player of the Tournament.
+## Methodology
+- Explains the approach used to gather data or conduct research
+- Describes the tools or techniques utilized
+- Outlines the steps involved in the process
 
-    - Siraj dedicates the prize money to the ground staff at R Premadasa Stadium.
+## Results
+- Presents the findings obtained from the analysis
+- Includes statistical data or visual representations
+- Highlights key trends or patterns identified
 
-    - ACC and SLC jointly announce a generous award of USD 50,000 for ground staff members at Kandy and Colombo.
+## Discussion
+- Interprets the results and their implications
+- Explores possible reasons for the observed outcomes
+- Compares the findings with existing literature or previous studies
 
-19\. **MotoGP Bharat Strikes Sponsorship Agreement with Indian Oil:**
+## Conclusion
+- Summarizes the main points discussed in the content
+- Restates the significance or importance of the findings
+- Suggests potential directions for further research or actions
 
-    - Indian Oil becomes the title sponsor for the MotoGP Bharat, the first-ever grand prix in India.
+## 16-november-2023
+# FATF On-Site Review in India: Evaluating Anti-Money Laundering and Counter-Terror Financing Framework
 
-    - The event at Buddh International Circuit features 42 teams and 84 riders, including top riders like Francesco Bagnaia and Marc Marquez.
+- On-site review meetings conducted in India by FATF.
+- Objective is to assess the country's legal framework against money laundering and terrorist financing.
+- Assessment report to be discussed in June 2024 FATF plenary for final publication.
 
-    - A significant sponsorship move for both MotoGP Bharat and Indian Oil, highlighting the energy giant's support for sports.
+# India To Become World's Third-Largest Economy By 2027: FM Nirmala Sitharaman
 
-20\. **Renowned Writer Gita Mehta Passes Away:**
+- Finance Minister Nirmala Sitharaman predicts India will be the world's third-largest economy by 2027.
+- India's economic resilience highlighted amid global challenges.
+- IMF estimates support India's GDP crossing USD 5 trillion mark.
 
-    - Renowned writer-filmmaker Gita Mehta, aged 80, passes away.
+# RBI Directs Bajaj Finance to Halt Loans for 'eCOM' and 'Insta EMI' Products
 
-    - Known for books like Karma Cola, A River Sutra, and producing documentaries.
+- RBI instructs Bajaj Finance to stop loans under 'eCOM' and 'Insta EMI Card'.
+- Action taken due to non-compliance with Digital Lending Guidelines.
+- Supervisory restrictions subject to review upon rectification.
 
-    - Refused the Padma Shri award in 2019, married to American publisher Sonny Mehta.
+# IndusInd Bank Pioneers as First Live Financial Information Provider under RBI's Account Aggregator Framework
 
-## 19-september-2023
-### Union Minister Of Civil Aviation Inaugurates ‘Udaan Bhawan’ At Delhi’s Safdarjung Airport
-- Civil Aviation Minister Jyotiraditya M. Scindia inaugurated 'Udaan Bhawan' at Delhi's Safdarjung Airport.
-- Udaan Bhawan offers contemporary amenities such as modern conference rooms, advanced AV system, IT infrastructure, parking management system, Yoga room, creche facility, and EV charging stations.
-- The building has a prestigious GRIHA-5 rating and incorporates sustainability features like natural daylight utilization, efficient LED fixtures, double-skin Façade System, and wastewater management.
+- IndusInd Bank becomes the first live Financial Information Provider under RBI's Account Aggregator Framework.
+- Customers can view account statements, track deposits, plan investments, and avail credit cards through a unified window.
+- Physical document submission process eliminated.
 
-### Hoysala Temples now India's 42nd UNESCO's World Heritage site
-- The Hoysala temples of Belur, Halebid, and Somananthpura in Karnataka are now included in UNESCO's World Heritage list.
-- The temples were constructed in the 12th and 13th centuries and showcase influences from different architectural styles.
-- The recognition marks India's 42nd UNESCO World Heritage Site and comes after Santiniketan received the same honor.
+# GAIL Completes World's Inaugural Ship-To-Ship LNG Transfer
 
-### Old Parliament Building To Be Called As 'Samvidhan Sadan'
-- Prime Minister Narendra Modi announced that the old Parliament building will be renamed as 'Samvidhan Sadan' or 'Constitution House.'
-- The historic building, designed by British architects, witnessed the drafting and passing of India's constitution.
-- The renaming pays homage to the legacy and significance of the building and connects future generations to India's leaders
+- GAIL successfully executes the world's first ship-to-ship LNG transfer.
+- LNG cargo transferred mid-way through the journey to another vessel.
+- Resulted in significant financial gain for GAIL.
 
-## 20-september-2023
-1. Cabinet approves Women Reservation Bill granting 33% seats to women in Parliament:
+# National Press Day 2023
 
-- Union Cabinet approves Women Reservation Bill
-- Mandates one-third of seats in Lok Sabha and state assemblies reserved for women candidates
-- Seats will be rotated after each general election to ensure fairness and prevent monopolization
+- National Press Day commemorates the establishment of the Press Council of India.
+- Reflects on the role of the press in a democratic society.
+- Highlights the commitment to a free, responsible, and ethical press.
 
-2. Indonesia Kicks Off ASEAN Joint Military Drills Amid South China Sea Tension:
+# International Day for Tolerance 2023
 
-- ASEAN countries conduct joint military exercises in South Natuna Sea
-- Exercises focus on enhancing maritime security and disaster relief capabilities
-- All ten member nations of ASEAN, including East Timor, participate in the drills
+- Global platform promoting tolerance, respect, and understanding.
+- Theme: "Tolerance: A Path to Peace and Reconciliation."
+- United Nations General Assembly designated November 16th as International Day for Tolerance.
 
-3. African Union to launch own credit ratings agency:
+# World Philosophy Day 2023
 
-- African Union to establish credit ratings agency to provide balanced evaluation for African nations
-- Agency primarily functions within Africa and aims to promote investment in the continent
-- Credit ratings crucial for lending decisions and influence loan terms
+- Celebrated on the third Thursday of November.
+- Highlights philosophy's influence on human thought, cultural enrichment, and intercultural dialogue.
+- Theme: "Philosophical Reflection in a Multicultural World."
 
-4. Gandhi Walk Resumed In Johannesburg, South Africa After Covid-19 Pandemic:
+# Janjatiya Gaurav Diwas 2023
 
-- Annual Gandhi Walk returns after three years due to COVID-19
-- Over two thousand participants join the six-kilometer walk with entertainment
-- Harivardan Pitamber, a Mahatma Gandhi look-alike, adds authenticity to the event
+- Celebrated to honor tribal freedom fighter Birsa Munda.
+- Prime Minister Narendra Modi marked the occasion at Birsa College, Khunti, Jharkhand.
+- Release of the 15th instalment of the Pradhan Mantri Kisan Samman Nidhi scheme.
 
-5. G77+China summit concludes with emphasis on empowering Global South:
+# Biden and Xi Jinping Summit Highlights: Key Issues Discussed
 
-- G77+China Summit brings together delegations from over 100 nations
-- Developing countries declare September 16 as "Day of Science, Technology, and Innovation in the South"
-- G77 member countries represent over 80% of the world's population and comprise two-thirds of UN member nations
+- Four-hour meeting between U.S. President Joe Biden and China's Xi Jinping.
+- Discussions on military conflicts, drug trafficking, and Taiwan Strait peace.
+- Emphasis on respect for Taiwan's electoral process.
 
-6. India-Canada Relations Strained Over Allegations of Sikh Separatist Involvement:
+## 16-november-2023
+## 11. 9th India International Science Festival to be Held in Faridabad in January 2024
+- 9th edition of the Indian International Science Festival (IISF) to take place in Faridabad, Haryana from 17th to 20th January 2024.
+- Aim of the festival is to provide a platform for students, educators, scientists, researchers, industry professionals, entrepreneurs, and science communicators.
+- The theme of the festival is 'Science and Technology Public Outreach in Amrit Kaal'.
 
-- Canadian Prime Minister Trudeau announces link between Indian agents and Sikh separatist leader's murder
-- Sikh leader advocating for independent Sikh nation killed in British Columbia, Canada
-- Social media discussions speculate on connections between Indian intelligence agencies and overseas deaths
+## 12. Greenhouse Gas Concentrations Soar to Record Highs in 2022, Prompting Urgent Calls for Action
+- Greenhouse gas concentrations in the atmosphere reached unprecedented levels in 2022, according to the United Nations' World Meteorological Organization (WMO).
+- Carbon dioxide concentrations rose to 418 parts per million, methane to 1,923 parts per billion, and nitrous oxide to 336 parts per billion.
+- These values represent alarming increases, standing at 150%, 264%, and 124% of pre-industrial levels, respectively.
 
-7. CM Pramod Sawant Launches Griha Adhar Scheme To Empower Goan Homemakers:
+## 13. Pakistan-Based Startup She-Guard Wins Top Climate Innovation Competition
+- Pakistan-based startup She-Guard wins 'ClimateLaunchpad Asia-Pacific' finals with their biodegradable and plastic-free sanitary product.
+- Startup transforms banana crop waste into affordable, eco-friendly sanitary napkins, addressing climate change, public health, and solid waste management.
+- Vietnamese startup Alterno secures runner-up position with low-cost thermal energy storage solution, while Japanese startup Aonbarr claims the third spot with an innovative idea using seawater to generate hydrogen as a green energy source.
 
-- CM Pramod Sawant launches Griha Adhar scheme to empower homemakers in
+## 14. Salman Rushdie Honored With First 'Lifetime Disturbing the Peace Award'
+- World-renowned author Salman Rushdie receives inaugural 'Lifetime Disturbing the Peace Award' from the Vaclav Havel Center.
+- Author humorously ponders the implications of this new accolade.
+- Vaclav Havel Center also bestows 'Disturbing the Peace Award to a Courageous Writer at Risk' upon Egyptian activist Alaa Abdel-Fattah.
 
-## 21-september-2023
+## 15. Suresh Wadkar named for Maharashtra's 'Lata Mangeshkar Award 2023'
+- Maharashtra government selects playback singer Suresh Wadkar as the recipient of the prestigious 'Gansamragini Lata Mangeshkar Award' for 2023.
+- Suresh Wadkar, a Sangeet Natak Akademi laureate, is an influential figure in the music industry.
+- Wadkar gained recognition through a singing competition in 1976 and has worked with renowned music composers.
 
-1\. **ECI Ropes In Chacha Chaudhary & Sabu To Educate And Motivate Young Voters:**
+## 16. India and US Strengthen Innovation Ties with Landmark Pact
+- India and the United States sign a memorandum of understanding (MoU) to boost collaboration among startups and promote innovation.
+- MoU focuses on fostering collaboration in the startup ecosystem, addressing regulatory obstacles, and sharing best practices for fundraising.
+- Goal is to promote innovation and job growth, particularly in critical and emerging technologies.
 
-   - Launch of comic book "Chacha Chaudhary aur Chunavi Dangal" by ECI and Pran Comics.
+## 17. Rohit Sharma Now First Batsman To Hit 50 Sixes In World Cup
+- Indian captain Rohit Sharma becomes the first player to hit 50 sixes in the World Cup.
+- Sets new benchmark for most sixes in a single edition of the World Cup.
+- Glenn Maxwell holds the second position as the second-most prolific six-hitter in the current World Cup with 22 sixes.
 
-   - Features iconic characters Chacha Chaudhary, Sabu, and Billoo to inspire youth.
+## 18. Petroleum Minister Inaugurates 3rd Hockey India Women's Championship
+- Shri Hardeep Singh Puri inaugurates the 3rd Hockey India Senior Women Inter Department National Championship 2023.
+- IndianOil promises support not only to women's hockey but also to other sports.
+- Championship features eight of the best women's teams from across the nation, promising high-level skill and competition.
 
-   - Comic book addresses voter awareness, encourages voter registration, and introduces ECI apps.
+## 19. Popular Video Chat Service Omegle Shuts Down After 14 Years
+- Omegle, an online chat service founded in 2009, announces its shutdown after more than 14 years of operation.
+- Platform faced challenges and criticism due to association with illicit activities and user safety concerns.
+- Experienced surge in popularity during the pandemic but ultimately had to shut down.
 
-2\. **UK PM Rishi Sunak Delays Ban on New Petrol and Diesel Cars by 5 Years in Net Zero Reset:**
+## 20. Freedom Fighter And Communist Leader N Sankaraiah Passed Away At The Age Of 102
+- N Sankaraiah, one of the oldest communist leaders in the country, passes away at the age of 102 in Chennai.
+- Dedicated his life to the principles of communism and the struggle for a just society.
+- Served as the CPI-M state secretary of Tamil Nadu and was elected to the state assembly multiple times.
 
-   - Shift in strategy delays petrol and diesel car ban to 2035 in the UK.
+## 17-november-2023
+## 1. Union Minister Kiren Rijiju to Represent India at Maldives President’s Swearing-In
 
-   - Focus on practical, proportionate, and realistic approach for Net Zero target.
+- Kiren Rijiju represents India at Maldives President-elect Mohamed Muizzu's swearing-in ceremony.
+- Mohamed Muizzu secured victory in the presidential runoff, defeating the incumbent Ibrahim Mohamed Solih.
+- Maldives holds a crucial position in India's 'SAGAR' vision and the 'Neighbourhood First Policy.'
 
-   - Policies include bans on certain boilers, exemption for fossil fuel boilers, and scrapping landlord property energy efficiency upgrades.
+## 2. Pedro Sanchez Re-Elected As Spanish Prime Minister
 
-3\. **Invitation to U.S. President Biden for Republic Day Celebration:**
+- Pedro Sanchez secures a second term as Spanish Prime Minister.
+- Sanchez has been a prominent figure in Spanish politics since June 2018.
+- He is the Secretary-General of the Spanish Socialist Workers' Party (PSOE).
 
-   - Indian PM Modi invites U.S. President Biden for Republic Day celebrations.
+## 3. Assam Government Approves Merger Of SEBA And AHSEC
 
-   - Invitation under consideration; aligning with President Biden's 2024 visit for Quad Summit.
+- Assam Cabinet approves the merger of SEBA and AHSEC.
+- The merged entity will be known as the 'Assam State School Education Board' (ASSEB).
+- The merger aims to enhance the quality and standards of school education in Assam.
 
-   - Third time inviting a U.S. President, following Obama in 2015 and Trump's declined invitation in 2019.
+## 4. Joint Military Exercise "Exercise MITRA SHAKTI-2023" Begins in Pune
 
-4\. **Escalation in Nagorno-Karabakh Conflict: Azerbaijan Launches Military Operation:**
+- The ninth edition of Exercise MITRA SHAKTI-2023 begins in Pune, India.
+- The exercise aims to strengthen cooperation between the Indian and Sri Lankan military forces.
+- The primary goal is to enhance joint responses during counter-terrorist operations.
 
-   - Azerbaijan initiates military operation in Nagorno-Karabakh.
+## 5. Indian Navy Launches 4th Anti-Submarine Warfare Craft, named 'Amini'
 
-   - Operation triggered by landmine incidents, aims to disarm Armenian forces.
+- 'Amini,' the fourth ship of the Anti-Submarine Warfare Shallow Water Craft (ASW SWC) Project, is launched.
+- The ASW SWC ships are designed to replace the existing Abhay class ASW Corvettes of the Indian Navy.
+- The ships have a length of 77 meters, a displacement of 900 tons, and a maximum speed of 25 knots.
 
-   - International concerns rise; Azerbaijan reports capturing military posts, Armenia accuses of ethnic cleansing.
+## 6. IndusInd Bank Launches 'IndusInd Bank Platinum RuPay Credit Card' on UPI
 
-5\. **ICMR Approval for Truenat Test to Detect Nipah in Kerala:**
+- IndusInd Bank launches the 'IndusInd Bank Platinum RuPay Credit Card' on the UPI platform.
+- Customers can seamlessly initiate UPI transactions using the RuPay credit card.
+- This integration allows for both online and offline transactions with ease.
 
-   - ICMR approves Truenat test for Nipah virus detection in Kerala.
+## 7. RBI Imposes ₹90.92 Lakh Monetary Penalty On Axis Bank
 
-   - Hospitals with BSL 2 labs can conduct the test; SOP to be formulated.
+- The RBI imposes a monetary penalty of ₹90.92 lakh on Axis Bank.
+- The penalties are related to non-compliance with several key directives, including KYC, loans and advances, outsourcing of financial services, and code of conduct for current accounts.
+- Axis Bank failed to preserve records related to customer identification and addresses in specific cases.
 
-   - Surveillance integrated into state's Aarogya Jagratha calendar, emphasizing additional 21 days of active monitoring.
+## 8. India Responds to Plummeting Oil Prices with Substantial Tax Reductions
 
-6\. **INDIAN NAVAL SHIPS, SUBMARINE & LRMP AIRCRAFT REACH SINGAPORE TO PARTICIPATE IN SIMBEX 23:**
+- The Indian government implements significant tax adjustments to counter the fall in international oil prices.
+- The Special Additional Excise Duty on crude oil imports is reduced by 35.71%.
+- The tax reduction aims to mitigate the impact of the plunging global oil market on India.
 
-   - Start of 30th edition of Singapore India Maritime Bilateral Exercise (SIMBEX).
+## 9. S&P Global Predicts 6-7.1% Growth for India's Economy in 2024-2026
 
-   - Indian Naval Ships, submarine, and LRMP aircraft participate in SIMBEX-2023.
+- S&P Global forecasts robust economic growth for India, with a GDP expansion ranging between 6 to 7.1% annually from FY24 through FY26.
+- Interest rates in India are unlikely to experience a significant rise, minimizing risks for the banking industry.
+- Factors such as healthy corporate balance sheets and improved risk management contribute to the stability.
 
-   - SIMBEX enhances maritime cooperation, strengthens ties, and contributes to regional stability in Indo-Pacific.
+## 10. RBI Report Highlights Food Inflation as Sole Threat to 4% CPI Target
 
-7\. **ADB lowers FY24 GDP forecast to 6.3%, India Ratings raises it to 6.2%:**
+- Rising food prices are identified as the primary challenge to achieving the 4% CPI target by the RBI.
+- Food items carry a significant weight in the CPI basket, making them crucial in determining overall inflation.
+- Rising prices in essential food items like onions, tomatoes, cereals, pulses, and sugar pose a threat to the CPI target.
 
-   - ADB forecasts India's FY24 GDP growth at 6.3%.
+## 17-november-2023
+### 11. Positive Trends in India’s Exports During April-October 2023:
+- Netherlands, UK, and Australia emerged as key drivers of India's outbound shipments.
+- India's overall exports contracted by 7% in the April-October period.
+- Export growth in October was attributed to a favorable base from the previous year.
 
-   - India Ratings raises GDP forecast for the same period to 6.2%.
+### 12. International Students Day 2023:
+- Acknowledges the resilience and contributions of students globally.
+- Particularly significant for students studying abroad, facing challenges of navigating new cultures, languages, and homesickness.
+- Commemorates the Nazi invasion of a university in Prague in 1939.
 
-   - ADB maintains optimistic outlook for FY25 at 6.7%, expecting rising private investment and industrial output.
+### 13. National Epilepsy Day 2023:
+- Observes epilepsy awareness in India.
+- Epilepsy is a condition with unexpected seizures and affects movement, sound, and sensation control.
+- 70% of epilepsy cases can be managed with medication and certain surgeries.
 
-8\. **Increasing Regular Jobs but Lingering Unemployment Concerns: Report:**
+### 14. International Conference on Plant Health Management 2023, in Hyderabad:
+- Taking place from 15th to 18th November in Hyderabad, India.
+- Organized by the Plant Protection Association of India (PPAI) to advance plant protection research and entrepreneurship.
+- Focuses on global opportunities in innovation and sustainability in Plant Health Management.
 
-   - Report reveals annual creation of regular jobs increased from 3 million (2004-2017) to 5 million (2017-2019).
+### 15. RBI Approves New Directors Of Jio Financial Services:
+- Isha Ambani and Anshuman Thakur appointed as directors of Jio Financial Services.
+- Hitesh Kumar Sethia appointed as Managing Director and CEO of RSIL.
+- Strengthens the leadership team of Jio Financial Services.
 
-   - Concerns arise as only 6% of regular jobs offer social security.
+### 16. Biden Appoints Indian American Shakuntla Bhaya To The Administrative Conference of US:
+- Shakuntla L Bhaya appointed as a member of the Council of the Administrative Conference of the United States.
+- Brings legal experience to her new role.
+- ACUS aims to enhance the effectiveness, sufficiency, and equity of procedures employed by federal agencies.
 
-   - Questions raised about workforce stability and well-being despite job growth.
+### 17. JSW Bags Award to Develop Greenfield Port in Karnataka For Rs 4,119 Crore:
+- JSW Infrastructure to develop a greenfield port at Keni, Karnataka.
+- Valued at Rs.4,119 crore and executed through a public-private partnership.
+- Planned rail connectivity for efficient transportation.
 
-9\. **Volvo To End Diesel Car Production By 2024, To Become All-Electric Carmaker:**
+### 18. 96th Oscars: Jimmy Kimmel to Host Academy Awards for the Fourth Time:
+- Jimmy Kimmel to host the 96th Academy Awards, marking his second consecutive and fourth overall hosting.
+- Known for his wit and humor.
+- Joins the exclusive club of hosts who have hosted the Oscars four times.
 
-   - Volvo announces cessation of diesel car production by early 2024.
+### 19. Shami Becomes First Indian Bowler To Claim Seven Wickets In A Single ODI Cricket Match:
+- Mohammed Shami picks seven wickets in an ODI against New Zealand.
+- First Indian bowler to achieve this feat.
+- Surpassed the previous best of six wickets.
 
-   - Aligns with Volvo's goal to be all-electric carmaker by 2030.
+### 20. Google Introduces AI Chatbot Bard For Teenagers:
+- Bard, an AI chatbot by Google, caters to the educational needs of teenagers.
+- Identifies and filters out unsafe content.
+- Implements a 'double-check' response feature for reliable information.
 
-   - Bold move makes Volvo one of the first legacy car manufacturers to eliminate diesel from its lineup.
+### 21. Indian Skydiver Shital Mahajan Makes History Near Mt Everest:
+- Shital Mahajan skydives from 21,500 ft near Mt Everest, becoming the first woman to achieve this.
+- Skillfully lands at Kalapatthar peak at an altitude of 17,444 ft.
+- Renowned Indian skydiver with numerous records and a recipient of the Padma Shri award.
 
-10\. **Education Scheme For Medical Devices Sector Approved:**
+### 22. 'Hello Naariyal' Call Centre Launched By CDB:
+- Coconut Development Board (CDB) launches the "Hello Naariyal" call centre facility.
+- Aims to support coconut farmers and enhance coconut cultivation practices.
+- Provides assistance and expert guidance on coconut harvesting and plant management operations.
 
-    - Indian government approves ₹480 crore scheme to strengthen medical devices industry.
+## 18-november-2023
+**Solar-Powered ‘Ramayana’ Vessels to Navigate Saryu River in Ayodhya:**
+- Two solar-powered ‘mini-cruise’ ships to operate in the Saryu River in Ayodhya.
+- Represents a blend of tradition and modernity.
+- Aims to create an unforgettable experience for cultural and spiritual immersion.
 
-    - Scheme aims to develop a skilled talent pool through courses in medical devices.
+**India Achieves Historic Milestone in Patent Grants: 41,010 Patents in 2023-24:**
+- Indian patent office grants record-breaking 41,010 patents in the current fiscal year.
+- Indian patent applications witness a remarkable growth of 31.6% in 2022.
+- Surge in patent applications indicative of increasing innovative spirit among Indian youth.
 
-    - Focus on global standards, leveraging Ministry of Skill Development and Entrepreneurship resources.
+**Kochi In Condé Nast List Of Best Places To Visit In 2024:**
+- Kochi recognized as one of the best places to visit in Asia in 2024 by Conde Nast Traveller.
+- Kochi committed to providing enriching experiences while embracing eco-friendly practices and preserving cultural heritage.
+- Kochi International Airport operates solely on solar energy, showcasing Kerala's commitment to sustainability.
 
-11\. **Assam Government To Launch A New Scheme Named Mukhyamantrir Atmanirbharshil Asom Abhiyan:**
+**DGFT Forecasts Explosive Growth in Indian E-commerce Exports, Aiming for $200 Billion in 6-7 Years:**
+- DGFT predicts e-commerce exports to rise from $1.2 billion to $200 billion in 6-7 years.
+- Product diversity, innovation, and entrepreneurial adeptness contribute to the optimistic forecast.
+- India's e-commerce sector has vast potential for growth in international trade.
 
-    - Assam government launches "Mukhyamantrir Atmanirbharshil Asom Abhiyan" scheme.
+**World Day for the Prevention of and Healing from Child Sexual Exploitation, Abuse and Violence 2023:**
+- November 18 designated as the "World Day for the Prevention of and Healing from Child Sexual Exploitation, Abuse, and Violence."
+- Global initiative to address child sexual exploitation, abuse, and violence worldwide.
+- Promotes child protection, healing, and elimination of these grave violations.
 
-    - Provides financial assistance, subsidies, and interest-free loans to 200,000 young individuals.
+**2nd Voice of Global South Summit Highlights:**
+- Virtual summit hosted by India emphasized the theme "Together for Everyone’s Growth with Everyone’s Trust."
+- Platform for member countries to share perspectives and priorities, addressing global challenges.
+- Discussions focused on sustaining momentum for a more inclusive, representative, and progressive world.
 
-    - Training program enhances skills in management, accounting, and entrepreneurship.
+**BofA Survey Highlights Japan and India as Preferred Markets in Asia Pacific:**
+- Japan and India emerge as most favored markets in the Asia Pacific region.
+- Japan holds top position with 45% overweight, followed by India at 25%.
+- Thailand, China, and Australia perceived as less attractive markets.
 
-12\. **Government Comes Out With A New Set Of National Awards Known As "Rashtriya Vigyan Puraskar'':**
+**India Ranks Third In Global Unicorn Rankings With 72 Unicorns:**
+- India secures the third position globally with 72 unicorn companies.
+- BYJU's is the first Indian company on the global stage, ranked 36th with a valuation of $11.50 billion.
+- United States leads with 668 unicorn companies, followed by China with 172.
 
-    - Government introduces prestigious "Rashtriya Vigyan Puraskar" in Science, Technology, and Innovation.
+**Kotak Mahindra Bank Appoints Ashok Vaswani As MD & CEO:**
+- Ashok Vaswani appointed as Managing Director & CEO of Kotak Mahindra Bank.
+- Vaswani brings expertise from his previous roles at Citigroup and Barclays.
+- Will assume charge on January 1 for a three-year term, succeeding Dipak Gupta.
 
-    - Recognizes exceptional contributions by scientists, technologists, and innovators.
+**World Prematurity Day 2023:**
+- Observed on November 17 with the theme "Small actions, big impact: Immediate skin-to-skin care for every baby everywhere."
+- Raises awareness about the challenges faced by premature babies and their families.
+- Highlights the global health concern of premature births and its impact on infant mortality and health.
 
-    - Encompasses 13 domains, reviewed by Rashtriya Vigyan Puraskar Committee.
+## 18-november-2023
+## 11. NITI Aayog Appoints Four Distinguished Fellows under Fellowship Guidelines
 
-13\. **What is World Cup 'Golden Ticket' given to Indian Celebrities and who are the recipients?:**
+- NITI Aayog adds four new Distinguished Fellows: Dr. Anoop Singh, Dr. O.P Agrawal, Dr. Ajai Chowdhry, and Sh. V. Lakshmikumaran.
+- These individuals bring extensive work experience and expertise in various domains.
+- They will contribute to addressing social, economic, and technical challenges facing the nation.
 
-    - BCCI initiates "Golden Ticket for India Icons" program for Cricket World Cup promotion.
+## 12. Uttar Pradesh Cadre IPS officer Alok Sharma Named New Chief Of SPG
 
-    - Golden Tickets granted to iconic figures like Amitabh Bachchan, Sachin Tendulkar, and Rajinikanth.
+- Alok Sharma appointed as the new director of the Special Protection Group (SPG).
+- Sharma currently serves as the additional director general of SPG.
+- He assumes the leadership role with immediate effect.
 
-    - Ticket holders get VIP services and the privilege to watch all World Cup matches live.
+## 13. Virat Kohli’s wax statue to be installed in Jaipur Wax Museum
 
-14\. **BCCI announces SBI Life as official partner for 2023-26 Season:**
+- Skilled artisans will craft a wax statue of Virat Kohli for Jaipur Wax Museum.
+- The statue will be an accurate and lifelike representation of the star cricketer.
+- The museum will have a total of 43 wax statues with Kohli's addition.
 
-    - BCCI partners with SBI Life for Domestic and International Season 2023-26.
+## 14. Renowned Art Historian BN Goswamy Passed Away At 90
 
-    - Three-year deal aimed at promoting and supporting cricket at all levels.
+- B. N. Goswamy, a renowned art historian and writer, passed away at the age of 90.
+- He authored over 26 books on various subjects, specializing in Pahari paintings.
+- Goswamy received the Padma Shri in 1998 and the Padma Bhushan in 2008 for his contributions.
 
-    - Collaboration reflects commitment to excellence in cricket.
+## 15. Renowned Novelist A.S. Byatt Passes Away at 87
 
-15\. **Harmanpreet, Lovlina To Be Flag-Bearers At Asian Games Opening Ceremony:**
+- Acclaimed British novelist A.S. Byatt, known for her work "Possession: A Romance," passed away at the age of 87.
+- Byatt had a significant literary career spanning nearly six decades.
+- She was awarded the Booker Prize in 1990 and was recognized as one of the most significant writers and critics of her time.
 
-    - Harmanpreet Singh and Lovlina Borgohain to lead Indian contingent at Asian Games 2023 opening ceremony.
+## 16. Cyclone ‘Midhili’ Makes Landfall On Bangladesh’s coast
 
-    - Both athletes achieved prominence in hockey and boxing, respectively.
+- The cyclonic storm named "Midhili" has made landfall on the coast of Bangladesh.
+- Midhili started as a deep depression over the Bay of Bengal and escalated into a significant weather event.
+- Government authorities have issued alerts and taken precautionary measures due to the adverse weather conditions.
 
-    - Record-breaking Indian contingent with 655 athletes participating in Asian Games.
+## 20-november-2023
+### UK stance on agri GI items remains hurdle in FTA talks with India
+- UK and India negotiating FTA with disagreement over protection of Geographical Indication (GI) products in agriculture.
+- UK seeks heightened safeguards for its GIs like Scotch whisky, Stilton cheese, and Cheddar cheese.
+- India has notable GI goods like Basmati rice, Darjeeling Tea, Chanderi Fabric, and Mysore Silk.
 
-16\. **ICC Cricket World Cup 2023 anthem is released:**
+### India Dispatches Second Round Of Aid To Gaza Amidst Israel-Hamas Conflict
+- India sends second batch of aid to Gaza Strip amidst conflict, comprising 32 tonnes of supplies.
+- Aid transported by Indian Air Force's C17 aircraft to El-Arish Airport in Egypt, near Rafah crossing.
+- India's consistent aid efforts highlight global call for solidarity in addressing humanitarian needs.
 
-    - ICC unveils official theme song "Dil Jashn Bole" for Cricket World Cup 2023.
+### India-bound ship hijacked by Yemen's Houthi rebels in Red Sea, says IDF
+- Yemen's Houthi rebels hijack cargo ship named "Galaxy Leader" en route from Turkey to India.
+- Ship not Israeli, with approximately 50 crew members from various nations on board.
+- Ongoing US-mediated talks for ceasefire and negotiations reported.
 
-    - Musical composition by Pritam featuring Bollywood star Ranveer Singh.
+### Putin To Participate In Virtual G20 Meeting On November 22
+- Russian President Vladimir Putin to attend virtual G20 meeting on November 22.
+- Putin has refrained from attending in person since invasion of Ukraine in February 2022.
+- Meeting aims to build on outcomes of September session, emphasized by Indian Prime Minister Narendra Modi.
 
-    - Song captures excitement, enthusiasm, and festive atmosphere of the tournament.
+### Argentina Elects 'Shock Therapy' Libertarian Javier Milei as President
+- Javier Milei elected as Argentina's next president, known for economic shock therapy and state size reduction.
+- Milei's victory with widest margin since 1983, defying poll predictions.
+- Parallel drawn with Trump, potential embassy move from Tel Aviv to Jerusalem suggested.
 
-17\. **New York, Dallas, and Florida to host T20 Cricket World Cup matches in 2024:**
+### Droupadi Murmu To Confer President's Colour Award To AFMC On Dec 1
+- President Droupadi Murmu to confer President's Colour to Armed Forces Medical College (AFMC) on December 1.
+- AFMC recognized globally for medical education, commitment to highest standards of training.
+- Plays pivotal role in shaping medical professionals for Armed Forces, contributing to healthcare backbone of nation.
 
-    - ICC designates New York, Dallas, and Florida as venues for T20 Cricket World Cup 2024 in the U.S.
+### Bengaluru Tops in Women-Led Startups, Followed by Mumbai and Delhi
+- Bengaluru leads in women-led startups with 1,783 ventures, followed by Mumbai and Delhi.
+- Notable contributions from Noida, Kolkata, and Ahmedabad.
+- Geographic distribution showcased in India's women entrepreneurs.
 
-    - Historic moment as tournament debuts on American soil.
+### Global economy: Inflation eases in US, UK; India's trade gap widens in Oct
+- US and UK experiencing slowdown in inflation, prompting speculation of possible interest rate cuts.
+- Economic growth expectations rising in Europe, but disparities within European Union.
+- Fragile economic recovery in EU's eastern region while other parts of Europe show improvement.
 
-    - Infrastructure developments, including modular stadium in New York, underway for the event.
+### India's GDP Surpasses $4 Trillion Mark: A Historic Milestone
+- India's GDP crosses $4 trillion mark in nominal terms.
+- Consistent efforts across sectors, strategic policies, and entrepreneurial spirit contribute to achievement.
+- Stronger-than-expected GDP growth in Q2, surpassing initial forecast of 6.5%.
 
-18\. **International Day of Peace 2023:**
+### Rural Retail Inflation Outpaces Urban Counterpart for 18 Out of 22 Months
+- Rural inflation stands at 5.12% in October 2023, surpassing urban inflation.
+- Concerns over effectiveness of free-food programme in alleviating economic strain in rural areas.
+- Data reveals sustained upward trend in rural price levels.
 
-    - International Day of Peace observed on 21st September annually.
+## 20-november-2023
+# 11. India Set to Extend Rice Export Bans Through 2024, Impacting Global Prices
 
-    - Theme for 2023: "Actions for Peace: Our Ambition for the #GlobalGoals."
+- India, the leading global exporter of rice, plans to extend its restrictions on overseas sales into the next year.
+- India constitutes almost 40% of the total global rice exports, making it a major player in the market.
+- The Indian government has imposed export duties and minimum prices to ensure domestic supplies and prevent price surges.
+- Certain rice varieties, including broken and non-basmati white rice, are prohibited from export.
 
-    - Established by the UN to promote peace, non-violence, and conflict resolution.
+# 12. Women’s Entrepreneurship Day 2023
 
-19\. **World Alzheimer's Day 2023:**
+- Women’s Entrepreneurship Day (WED) is celebrated annually on November 19th to foster gender-inclusive entrepreneurship and inspire female leaders.
+- It is recognized in 144 countries and celebrated in 65 universities/colleges worldwide.
+- Founded by Wendy Diamond in 2014, WED aims to address the challenges and opportunities faced by women in the entrepreneurial space.
 
-    - World Alzheimer's Day on September 21 raises awareness about Alzheimer's disease.
+# 13. Indira Gandhi Peace Prize for 2022 Presented to COVID-19 Warriors
 
-    - Theme for 2023: "Never too early, never too late."
+- The prestigious Indira Gandhi Prize for Peace, Disarmament and Development for 2022 was jointly awarded to the Indian Medical Association (IMA) and Trained Nurses Association of India.
+- Dr. Sharad Kumar Agarwal, President of the IMA, and Professor (Dr.) Roy K. George, President of the Trained Nurses Association of India, received the honor at the award ceremony presented by former Vice-President Hamid Ansari.
+- The recognition acknowledges the selfless service, dedication, and perseverance of doctors, nurses, paramedics, and support staff in the face of the unprecedented challenges posed by the pandemic.
 
-    - Dedicated to increasing awareness, reducing stigma, and understanding dementia risk factors.
+# 14. Mira Murati Appointed As Interim Chief Executive Officer At OpenAI
 
-20\. **International Week of the Deaf 2023: September 18 to
+- Mira Murati, a 34-year-old mechanical engineer born to Albanian parents, has been appointed as the interim Chief Executive Officer of OpenAI.
+- She joined OpenAI in 2018 as Vice President of AI and partnerships and has played a pivotal role in various leadership teams, contributing to groundbreaking AI projects such as ChatGPT, Dall-E, and Codex.
+- OpenAI, founded in 2015, aims to ensure that artificial general intelligence benefits society as a whole through research and deployment.
 
- 24:**
+# 15. Virat Kohli Earns the "Player of the Tournament" Title in the Cricket World Cup 2023
 
-    - International Week of the Deaf observed from September 18 to 24.
+- Indian cricketer Virat Kohli was awarded the "Player of the Tournament" title in the ICC World Cup 2023 for his exceptional performance.
+- Kohli scored a total of 765 runs in 11 innings, setting a new record for the highest-ever runs scored by a batter in a single edition of the World Cup.
+- He achieved his 50th One-Day International (ODI) century, surpassing Sachin Tendulkar's record of 49 ODI centuries.
 
-    - Last Sunday celebrated as World Day of Deaf on September 24, 2023.
+# 16. Australia’s Travis Head got the 'Man of the Match' Title in Cricket World Cup 2023
 
-    - Aims to mobilize global campaigns for visibility and unity for the deaf community.
+- In the 2023 ODI World Cup final between Australia and India, Travis Head was awarded the "Man of the Match" title for his outstanding performance.
+- Head's remarkable innings helped Australia successfully chase a challenging 241-run target set by India.
+- He scored 15 fours and six sixes, showcasing a balance of aggression and precision in his batting.
 
-## 22-september-2023
+# 17. Dhoom Director Sanjay Gadhvi Passed Away At 56
 
-**1. Govt Launches Kisan Rin Portal, Ghar Ghar KCC Campaign and WINDS Manual:**
+- Renowned filmmaker Sanjay Gadhvi, best known for directing the blockbuster films "Dhoom" and its sequel "Dhoom 2," passed away at the age of 56.
+- Gadhvi began his directorial journey in 2000 with "Tere Liye" and went on to work on diverse projects such as "Kidnap" and "Ajab Gazabb Love."
+- His contribution to Indian cinema has left an indelible mark, and he will be remembered for his creative force and talent.
 
-   - Kisan Rin portal provides farmers with essential data on loan specifics, interest subvention claims, and scheme utilization progress.
+# 18. Former RBI Governor S. Venkitaramanan Passed Away At 92
 
-   - Ghar Ghar KCC campaign aims for universal access to the KCC scheme, ensuring every eligible farmer has this financial tool.
+- Former Governor of the Reserve Bank of India (RBI), S. Venkitaramanan, passed away at the age of 92 due to age-related issues.
+- Venkitaramanan assumed the role of RBI Governor in December 1990, facing the challenge of a severe balance of payments crisis.
+- During his tenure, he exhibited determination and courage in navigating economic challenges, including the multi-crore securities scam.
 
-   - WINDS manual utilizes advanced weather data analytics for actionable insights on weather patterns in agriculture decision-making.
+## 21-november-2023
+### IIT Madras Unveils Information Platform for Incubators
 
-**2. Climate Ambition Summit Sees Absence of China, India, and US:**
+- Centre for Research on Startups and Risk Financing (CREST) at IIT Madras develops an information platform for incubators and accelerators.
+- Collaboration with YNOS, a startup incubated at IIT Madras.
+- Platform centralizes comprehensive information on incubators and accelerators in India, addressing the challenge of scattered information.
 
-   - CAS aimed at showcasing leaders committed to the Paris Agreement's 1.5°C goal and climate justice.
+### Ministry of Tourism Organizing International Tourism Mart at Shillong
 
-   - Notable absence of China, the United States, and India, which collectively contribute 42% of global greenhouse gas emissions.
+- 11th edition of the International Tourism Mart to be hosted in Shillong, Meghalaya.
+- Aims to provide a platform for stakeholders in the North Eastern States to engage with counterparts from across the country and international markets.
+- Focus on promoting the tourism potential, biodiversity, and cultural heritage of the North East Region.
 
-   - Around 100 heads of state responded to increased climate action call, but only 34 states and 7 institutions had speaking slots.
+### Landmark Election In Argentina Since The Restoration Of Democracy
 
-**3. Brucella Canis: An Emerging Disease in the UK Affecting Dogs and Humans:**
+- Javier Milei, a self-described anarcho-capitalist and right-wing populist, wins the recent presidential runoff in Argentina.
+- Marks a departure from the traditional political order and promises a radical overhaul of the state.
+- Milei secures 55.8% of votes, the most significant mandate since Argentina's return to democracy in 1983.
 
-   - Brucella canis infection surges in the UK, originating from Eastern Europe, affecting dogs and humans.
+### Luc Frieden Assumed The Position Of Prime Minister In Luxembourg
 
-   - Highly contagious bacterium primarily targets dogs but transmits to humans through various routes.
+- Former finance minister Luc Frieden becomes the prime minister of Luxembourg.
+- Christian Social People's Party (CSV) emerges victorious in the recent election.
+- Xavier Bettel transitions to the role of foreign affairs minister.
 
-   - Transmission modes include direct contact, aerosol exposure, ingestion, and mucous membrane/skin contact.
+### China's Strategic Move: Extending China-Myanmar Economic Corridor to Sri Lanka
 
-**4. Mali, Burkina Faso, and Niger Sign Alliance of Sahel States:**
+- China actively pursuing the extension of China-Myanmar Economic Corridor (CMEC) to Sri Lanka.
+- Signifies China's intent to enhance its Belt and Road Initiative (BRI) influence in South Asia.
+- CMEC gaining prominence as one of the six land corridors under BRI.
 
-   - Alliance of Sahel States (AES) focuses on collective defense and mutual assistance against jihadism in Liptako-Gourma region.
+### Indo-Australian Defense Talks: Fortifying Maritime Security with Hydrography and Joint Airborne Surveillance
 
-   - Emphasis on economic efforts alongside military cooperation to address root causes of instability.
+- India and Australia explore strategic collaborations in hydrography and joint air-to-air refueling.
+- Aims to bolster maritime security and surveillance capabilities in the Indian Ocean Region (IOR).
 
-   - Collaboration to tackle terrorism threat in the Liptako-Gourma region, including poverty and lack of development.
+### Uttar Pradesh Government Banned Halal Certified Products
 
-**5. Republican-Led House Panel Initiates Biden Impeachment Inquiry:**
+- Uttar Pradesh government imposes an immediate ban on halal certified products within the state.
+- Ban includes a wide range of items, creating confusion and potential violations of government rules.
+- Aim to ensure certification is done exclusively by authorized bodies like FSSAI.
 
-   - Republican-controlled U.S. House initiates an impeachment inquiry against President Joe Biden.
+### Gyanodaya Express to Revolutionize Education in J&K : LG Manoj Sinha
 
-   - Impeachment inquiry centers on Hunter Biden's business dealings during Biden's tenure as Vice President.
+- Gyanodaya Express, also known as the "College on Wheels," aims to empower 700 girl students from universities in Jammu and Kashmir.
+- Seeks to evolve education through immersive, collaborative, and project-based learning experiences.
+- Aligns with Gandhi's principles of truth and non-violence.
 
-   - Seen as a political move to counterbalance prior Democratic-led impeachments of former President Donald Trump.
+### Bihar Governor Approves Bill Raising Reservation From 50% to 65%
 
-**6. Pakistan Announces General Elections in January 2024:**
+- Governor of Bihar approves the 'Bihar Reservation Amendment Bill' raising reservation quota from 50% to 65%.
+- Addresses social inequality by providing increased reservation for Backward, Extremely Backward Classes, Scheduled Castes, and Scheduled Tribes.
+- Applies to employment opportunities and educational institutions.
 
-   - Election Commission of Pakistan declares general elections in January 2024 after delays.
+### Karnataka Bank Partners with HDFC Life to Offer Insurance Products
 
-   - Preliminary list of constituencies to be public on September 27, with the final list on November 30.
+- Karnataka Bank collaborates with HDFC Life to provide a comprehensive suite of financial solutions.
+- Aims to deliver innovative and customer-centric life insurance products.
+- Combines Karnataka Bank's banking expertise with HDFC Life's track record.
 
-   - 54-day election period allows comprehensive preparations and smooth execution of the electoral process.
+## 21-november-2023
+### 11. Acko partners with R Madhavan as their ‘Voice of the Customer'
+- Acko collaborates with actor R Madhavan as the 'Voice of the Customer'.
+- The partnership aims to dispel misconceptions about insurance and empower consumers.
+- Madhavan will work with the ACKO team to create relatable content about insurance.
 
-**7. Singapore Overtakes Hong Kong as World's Freest Economy:**
+### 12. RBI to implement a new penalty framework for banks
+- RBI plans to review its penalty system, considering potential increases in penalty amounts.
+- Speculation suggests additional capital charges may be imposed on regulated entities.
+- The initiative aligns with RBI's goal of enhancing corporate governance within regulated entities.
 
-   - Singapore surpasses Hong Kong as the world's freest economy, ending Hong Kong's 53-year reign.
+### 13. PwC India to cross 9k-cr revenue mark on robust growth
+- PwC India anticipates exceeding ₹9,000 crores in gross revenue this fiscal year.
+- Assurance, tax, and advisory services experience robust growth rates, especially in the advisory segment.
+- The company has surpassed its revenue and staff expansion goals.
 
-   - Shift linked to concerns about Hong Kong's autonomy due to the 2020 national security law.
+### 14. Over a third of EPFO members opted for non-refundable withdrawals
+- EPFO introduced non-refundable withdrawals for its subscribers during the pandemic.
+- More than one-third of EPFO subscribers, totaling over 22 million, opted for this option.
+- The measure aimed to alleviate financial strains for subscribers.
 
-   - Top 5 freest economies: Singapore, Hong Kong, Switzerland, New Zealand, United States.
+### 15. India's economic growth outlook by Goldman Sachs for 2024-25
+- Goldman Sachs forecasts India's economy to grow at a rate of 6.5% in fiscal year 2024-25.
+- Consumption spending is expected to dominate the first half of 2024.
+- Subsidies and transfer payments are predicted to be primary growth drivers before the elections in Q2 2024.
 
-**8. CM Chouhan Unveils 108-ft Adi Shankaracharya Statue in MP's Omkareshwar:**
+### 16. World AMR Awareness Week 2023 (November 18-24)
+- World Antimicrobial Resistance Awareness Week aims to reduce drug-resistant infections.
+- The theme for WAAW 2023 is "Preventing Antimicrobial Resistance Together."
+- AMR poses a significant threat to humans, animals, and the environment.
 
-   - Madhya Pradesh Chief Minister inaugurates a 108-ft statue of Adi Shankaracharya in Omkareshwar.
+### 17. World Children's Day 2023
+- World Children's Day is celebrated on November 20, commemorating the UN's adoption of the Declaration of the Rights of the Child.
+- The theme for World Children's Day 2023 is "For every child, every right."
+- The day raises awareness about child rights and encourages individual contributions for the welfare of children.
 
-   - Statue of Oneness portrays Adi Shankaracharya as a 12-year old child during his visit to Omkareshwar.
+### 18. World Television Day 2023
+- World Television Day is observed on November 21 to recognize the power of visual media.
+- It emphasizes the role of truthful information delivery and trust in media.
+- The United Nations organized the first World Television Forum in 1996.
 
-   - Weighing 100 tonnes, the statue is made from bronze and constructed with high-quality steels for stability.
+### 19. Government's 'Skills on Wheels' initiative for rural empowerment
+- The government plans to launch the 'Skills on Wheels' initiative to provide skill training to rural individuals.
+- The focus is on equipping rural youth, especially women, with foundational digital skills.
+- The program includes essential digital skills and obtaining a driving license.
 
-**9. Three-Day Festival 'Nadi Utsav' Commenced From 22nd To 24th September In Delhi:**
+### 20. USI hosts UN Forum 2023 on humanitarian law and peacekeeping
+- The United Service Institution of India hosts the Annual UN Forum 2023 on 'International Humanitarian Law and Peacekeeping'.
+- The forum aims to discuss the applicability and limitations of implementing IHL frameworks in UN peace operations.
+- It fosters a multi-stakeholder discussion for interactive dialogue.
 
-   - Nadi Utsav, celebrating India's river culture, organized by NMCM and IGNCA in Delhi.
+### 21. Govt appoints Vinay Tonse as MD of SBI for 2 years
+- Vinay M. Tonse is appointed as the Managing Director of the State Bank of India (SBI).
+- The appointment fills the vacancy left after Swaminathan Janakiraman's appointment as Deputy Governor of the Reserve Bank.
+- The decision is made by the Appointments Committee of the Cabinet, led by Prime Minister Narendra Modi.
 
-   - Activities include discussions on rivers in ancient texts, cultural heritage along rivers, and folk traditions.
+### 22. Uttar Pradesh bags first prize for Best State in Inland Fisheries
+- Under the leadership of Yogi Adityanath government, Uttar Pradesh is awarded the 'Best State' award for inland fisheries.
+- The state will receive the accolade at the Global Fisheries Conference-2023.
+- Uttar Pradesh has reported remarkable growth and implementation of projects in fisheries.
 
-   - Cultural program features performances by folk singers Chandan Tiwari and Ms. Shweta Devendra.
+### 23. Deepti Babuta becomes first woman to bag Dhahan Prize for Punjabi literature
+- Deepti Babuta is the first woman to win the prestigious Dhahan Prize for Punjabi literature.
+- Her short story collection, 'Bhukh Eon Sah Laindi Hai' (Hunger Breathes Like This), receives recognition.
+- She is awarded $25,000 CAD and a trophy for her achievement.
 
-**10. RBI Issued Guidelines For Identification Of Wilful Defaulters Within A Six-Month Timeframe:**
+### 24. Madhuri Dixit receives award at 54th IFFI
+- Actress Madhuri Dixit is honored with the 'Special Recognition for Contribution to Bharatiya Cinema' award at the 54th IFFI.
+- Her remarkable career spans four decades, leaving a lasting impact on Indian cinema.
+- The award acknowledges her on-screen brilliance and cultural contributions.
 
-   - RBI issues guidelines broadening the definition of wilful defaulters and sets a six-month timeframe for identification.
+### 25. Prasoon Joshi launches Dr. Hema Joshi's book 'Do Palkon Ki Chhavn Main'
+- Prasoon Joshi unveils Dr. Hema Joshi's book 'Do Palkon Ki Chhavn Main.'
+- The book intricately weaves together the author's literary prowess and her affection for Almora and Prayagraj.
+- It beautifully captures the essence of these two cities and their impact on Dr. Hema Joshi's life.
 
-   - Aim is to streamline the process of identifying defaulters and regulating their status.
+### 26. Novak Djokovic wins record seventh ATP Finals title
+- Novak Djokovic secures his seventh ATP Finals title in Turin, Italy.
+- His victory places him ahead of Roger Federer in the ATP Finals victories.
+- Djokovic's remarkable season includes three Grand Slam wins and a record-breaking 24 titles.
 
-   - Provision for removing a defaulter's name from the list in case of resolution through mechanisms like the Insolvency and Bankruptcy Code.
+### 27. Rosalynn Carter, former First Lady of US, passed away at 96
+- Former US First Lady Rosalynn Carter passes away at the age of 96.
+- She was known as the 'Steel Magnolia' and was the longest-married US presidential couple alongside Jimmy Carter.
+- Rosalynn Carter was an advocate for equal rights and received recognition for her contributions.
 
-**11. World Rose Day 2023:**
+## 22-november-2023
+## Anurag Thakur Launched Inaugural VFX And Tech Pavilion At 54th IFFI
 
-   - World Rose Day observed annually on September 22nd to honor and support cancer patients.
+- Union Minister for Information and Broadcasting, Anurag Singh Thakur, inaugurated the VFX and Tech Pavilion at the 54th International Film Festival of India (IFFI) in Goa.
+- The pavilion showcases the latest advancements in film-making technology, including animation, visual effects, virtual reality, and CGI.
+- It aims to unveil possibilities and advancements in moviemaking through virtual worlds, intelligent characters, and personalized experiences.
 
-   - Rooted in the story of Melinda Rose, a Canadian cancer patient, inspiring resilience in facing cancer.
+## Union Minister Shri Anurag Singh Thakur Launches 17th Film Bazaar At IFFI, Goa
 
-   - Aims to raise awareness about challenges faced by cancer patients and encourage a positive outlook.
+- Union Minister for Information and Broadcasting, Youth Affairs & Sports, Anurag Singh Thakur, inaugurated the 17th Film Bazaar at Marriott Resort, Goa.
+- The Film Bazaar, initiated by the National Film Development Corporation (NFDC), is the largest South Asian film market and plays a pivotal role in connecting local filmmakers with global producers and distributors.
+- It fosters collaboration and the exchange of creative ideas on an international scale.
 
-**12. World Rhino Day 2023:**
+## “Ghol” Fish Declared State Fish of Gujarat
 
-   - World Rhino Day on September 22nd raises awareness about the critical plight of rhinoceros species.
+- Gujarat Chief Minister Bhupendra Patel officially declared the 'Ghol' fish as the state fish of Gujarat.
+- The Ghol fish, scientifically known as Protonibea diacanthus, is widely distributed in the Indo-Pacific region and holds cultural and economic importance.
+- The announcement was made during the first Global Fisheries Conference India 2023 held at Gujarat Science City.
 
-   - Advocates for conservation efforts to prevent the extinction of rhinos.
+## Indo-US Joint Special Forces Exercise “VAJRA PRAHAR 2023” Commences in Meghalaya
 
-   - Highlights various conservation strategies and projects to protect rhino populations.
+- The 14th edition of the Indo-US Joint Special Forces exercise, known as "VAJRA PRAHAR 2023," started in Meghalaya.
+- The exercise focuses on the exchange of best practices and experiences in joint mission planning and operational tactics.
+- It reinforces the commitment to mutual learning and interoperability between the Indian Army and the US Army Special Forces.
 
-**13. 14th edition of Global Skills Summit begins:**
+## Foreign Direct Investment in India Witnesses a 24% Contraction in H1 FY24
 
-   - 14th Global Skills Summit in Delhi focuses on building skills, empowering youth, and creating a future.
+- Foreign direct equity investments in India declined by 24% to $20.5 billion in the first half of the financial year 2023-24.
+- The contraction in FDI inflows is attributed to global economic uncertainties and challenges.
+- In the previous financial year, FDI had already decreased by over a fifth, amounting to $46.03 billion.
 
-   - Aims to create a roadmap for a high-quality industry-led skilling ecosystem in India.
+## Private banks make largest single-day govt bond purchase in 7 years
 
-   - Discussions on making Indian youth skilled for industry demands and navigating the changing times of Industry 4.0.
+- Indian private sector banks collectively purchased government bonds worth 83.43 billion rupees ($1 billion) in a single session, marking the largest acquisition since November 15, 2016.
+- This transaction signifies a significant shift in the country's financial landscape.
+- The data is based on information from the Clearing Corp of India.
 
-**14. Indian-Origin Author Chetna Maroo's Debut Novel 'Western Lane' Shortlisted In Booker Prize 2023:**
+## Govt cancels IDBI Bank asset valuer appointing bid, fresh RFP to be issued
 
-   - Booker Prize 2023 shortlist includes Chetna Maroo's debut novel 'Western Lane.'
+- The government canceled the bid process for appointing an asset valuer for the strategic sale of IDBI Bank Ltd.
+- The decision aims to attract broader participation by reviewing and adjusting bid criteria due to insufficient interest from bidders.
+- Bids were invited as part of the strategic sale process initiated by DIPAM on September 1, with an extended deadline of October 30.
 
-   - Novel explores the challenges faced by an immigrant father raising his family as a single parent.
+## World Fisheries Day 2023
 
-   - Represents diverse authors of Indian, Jamaican, Canadian, and Irish descent.
+- World Fisheries Day is observed annually on November 21st to highlight the importance of sustainable fisheries management and the role of small-scale fishers in ensuring food security and livelihoods.
+- The event raises awareness about challenges facing fisheries, including overfishing, habitat destruction, and climate change.
+- The establishment of World Fisheries Day can be traced back to 1997 when the "World Forum of Fish Harvesters & Fish Workers" advocated for sustainable fishing practices and policies.
 
-**15. NMC of India Awarded 10-Year Recognition by World Federation for Medical Education:**
+## India-Australia 2+2 Dialogue
 
-   - National Medical Commission (NMC) receives a 10-year Recognition Status from the World Federation for Medical Education (WFME).
+- Defence Minister Rajnath Singh engaged in bilateral talks with Australian Deputy Prime Minister and Defence Minister Richard Marles in New Delhi as part of the India-Australia 2+2 Ministerial Dialogue.
+- The dialogue aims to enhance defence cooperation and strengthen the strategic relationship between the two nations.
+- Discussions covered areas such as anti-submarine warfare, air-to-air refuelling, security in the Indo-Pacific region, hydrography cooperation, and collaboration in critical sectors.
 
-   - Recognition signifies adherence to international standards in medical education.
+## Modi skips BRICS-Plus meet on Israel-Hamas
 
-   - Enhances credibility and reputation of Indian medical institutions on a global scale.
+- Prime Minister Narendra Modi did not participate in the virtual BRICS-Plus joint meeting on the Middle East situation in Gaza.
+- External Affairs Minister S. Jaishankar represented India at the meeting, emphasizing India's stance on terrorism.
+- Modi's absence from the meeting was due to his commitment to the ongoing election campaign and the priority given to domestic issues.
 
-**16. Swati Nayak to Receive the 2023 Norman Borlaug Field Award:**
+## 22-november-2023
+**11. SATHI Program Faces Cancellation Under Department of Science and Technology:**
 
-   - Odia scientist Swati Nayak recognized for innovative approach to rice seed systems and climate-resilient varieties.
+- SATHI program under the DST has been cancelled, raising concerns about research funding and the influence of the private sector.
+- The program aimed to establish centers with advanced analytical instruments for collaboration among institutions.
+- It operated on a consortium model, with a lead organization providing access to partner institutions lacking resources.
 
-   - Award presented for significant contributions to global food production and alleviation of hunger.
+**12. 7 Comprehensive Changes in Senior Citizens Savings Scheme (SCSS):**
 
-   - Scheduled to receive the Borlaug Field Award during the Borlaug Dialogue on October 24.
+- The DEA has notified seven key changes in the SCSS, including raising the maximum deposit limit to Rs 30 lakh.
+- The changes went into effect from April 1, 2023, aligning with the Budget 2023 announcement.
+- The SCSS is a government-sponsored savings instrument for individuals aged 60 years or employees aged 55 years or more.
 
-**17. Pandit Deendayal Upadhyay National Welfare Fund for Sportspersons (PDUNWFS):**
+**13. Centre Allocates Rs 1,100 Crore for Inland Waterways and Ayush Projects:**
 
-   - Union Minister felicitates players under PDUNWFS, a financial assistance program for sportspersons.
+- Union Minister Sarbananda Sonowal announced a grant of over Rs 1,100 crore for 25 inland waterways projects in the Northeast region.
+- Rs 850 crore has been earmarked for Assam alone, supporting 15 inland waterways projects.
+- Projects like permanent jetties at Bogibeel and renovation of a jetty at Badarpur are set to be completed.
 
-   - Aims to support outstanding sportspersons, coaches, and their families facing financial difficulties.
+**14. Delhi’s Khan Market world’s 22nd priciest high street retail location:**
 
-   - Provides aid for sports equipment procurement, training, and athlete well-being.
+- Delhi's Khan Market ranks 22nd in the list of prime retail rental rates globally.
+- The annual rent per square foot is USD 217.
+- New York's Fifth Avenue retains its position as the world's most expensive retail destination.
 
-**18. ICC Player of the Month Winners August 2023:**
+**15. Microsoft Names Aparna Gupta As Leader Of Global Delivery Center:**
 
-   - Babar Azam wins ICC Men's Player of the Month for August 2023, becoming the first to win three times.
+- Aparna Gupta is appointed as the new leader of Microsoft's Global Delivery Center.
+- She will spearhead customer innovation and delivery excellence.
+- The Global Delivery Center serves as the delivery arm of Industry Solutions Delivery.
 
-   - Arlene Kelly named Women's Player of the Month for her outstanding bowling in T20Is against Netherlands.
+**16. Colin Jackson Appointed Intl Ambassador For 2023 Tata Steel Kolkata 25KS:**
 
-   - Recognizes exceptional performances in international
+- Colin Jackson, former world record holder in 110m hurdles, becomes the International Event Ambassador for Tata Steel Kolkata 25K.
+- TSK 25K is a World Athletics Elite Label Road Race and a catalyst for a running revolution in eastern India.
+- Jackson's notable achievements include winning a silver medal at the Commonwealth Games in 1986 and setting a world record in the 110m hurdles.
 
-## 23-september-2023
+**17. Mamata Banerjee Names Sourav Ganguly As The ‘Brand Ambassador of Bengal’:**
 
-**1. PM Modi attends the 'International Lawyers Conference' in New Delhi:**
+- Mamata Banerjee declares Sourav Ganguly, former cricketer and ex-president of BCCI, as the Brand Ambassador of Bengal.
+- Ganguly's popularity and ability to work for the young generation influenced the decision.
+- This announcement was made at the Bengal Global Business Summit 2023, where ambitious policies for transforming the state's economic landscape were unveiled.
 
-   - PM Modi inaugurates the 'International Lawyers' Conference 2023' in New Delhi.
+**18. ICC moves men’s U-19 World Cup from Sri Lanka to South Africa:**
 
-   - Bar Council of India organizes the conference with a global participation focus on 'Emerging Challenges in Justice Delivery System.'
+- The ICC Board has relocated the upcoming men's Under-19 World Cup from Sri Lanka to South Africa.
+- Sri Lanka Cricket's provisional suspension due to government interference prompted this decision.
+- The approval to shift the tournament was given at an ICC Board meeting in Ahmedabad.
 
-   - Aims to foster dialogue, exchange ideas, and discuss legal issues of national and international significance.
+**19. ICC Bans Transgender Players From International Women’s Cricket:**
 
-**2. Prime Minister Modi To Launch 9 Vande Bharat Express Trains On 24th Of September:**
+- The ICC has implemented a ban on transgender cricketers participating in international women's cricket at the highest level.
+- This decision aligns with the IOC guidelines and cricket's potential inclusion in the Olympics.
+- The ban follows controversy surrounding Canada's Danielle McGahey, who became the first transgender cricketer to play in an official international match.
 
-   - PM Modi set to flag off nine Vande Bharat Express trains on September 24th.
+**20. AIFF and Odisha Govt Ink MoU For FIFA-AIFF Academy:**
 
-   - Trains cover routes for West Bengal, Tamil Nadu, Kerala, Odisha, Telangana, Gujarat, and Rajasthan.
+- AIFF, Odisha Government, and FIFA signed an MoU to establish the AIFF-FIFA Talent Academy.
+- The academy aims to nurture and develop football talent in India.
+- Odisha's Sports Minister stated that the academy is the first of its kind in India, showcasing Odisha's growing standards as a global sports hub.
 
-   - Semi-high-speed trains with eight coaches to boost India's rail connectivity.
+**21. ICC to Introduce Stop Clock to Regulate Pace of Play:**
 
-**3. Prime Minister Modi's Visit to Varanasi: Laying the Foundation Stone of an International Cricket Stadium:**
+- The ICC is set to implement shot clocks in men's ODIs and T20Is to regulate and enhance the pace of play.
+- Penalty runs will be imposed on the bowling side if they fail to start a new over within 60 seconds three times during a match.
+- This initiative aims to make the game more dynamic and engaging for fans.
 
-   - PM Modi lays foundation stone for a thematic international cricket stadium in Varanasi.
+**22. IISR-Kozhikode Develops New High-Yielding Pepper Variety:**
 
-   - Stadium architecture inspired by Lord Shiva, part of the vision for world-class sports infrastructure.
+- The IISR in Kozhikode has successfully developed a groundbreaking black pepper variety named 'IISR Chandra'.
+- 'IISR Chandra' is a result of crossing the Cholamundi and Thommankodi pepper varieties, exhibiting high yield potential.
+- It has the capacity to yield 7.5 kg of pepper per vine and has optimal spike intensity, making it a preferable choice for farmers.
 
-   - Inaugurates Atal residential schools and participates in cultural events during the visit.
+**23. IIT Ropar Discovers Rare Metal 'Tantalum' In Sutlej River, Punjab:**
 
-**4. China and Syria Announce Strategic Partnership:**
+- Researchers from IIT Ropar have discovered the presence of tantalum, a rare metal, in the sand of the Sutlej River.
+- Tantalum has exceptional properties, such as high ductility and a high melting point.
+- It is used in the electronic sector, particularly in capacitors for storing electricity.
 
-   - China and Syria formally establish a strategic partnership during a meeting in Hangzhou.
+## 23-november-2023
+## President of India Launches ‘New Education for New India’ Campaign in Odisha
 
-   - Xi Jinping emphasizes commitment to support Syria, aligning with China's global strategy.
+- President of India, Smt Droupadi Murmu, launched the ‘New Education for New India’ campaign in Odisha.
+- The campaign aims to instill moral values in students for the creation of a better society.
+- Prajapita Brahma Kumaris Ishwariya Vishwa Vidyalaya’s efforts in character-building and self-realization are acknowledged.
 
-   - Mutual pledge to strengthen cooperation for international fairness and justice.
+## Israel and Hamas Reach Truce Deal, Set to Release 50 Hostages
 
-**5. I2U2 Group of India, Israel, UAE & US announces joint space venture:**
+- Israel and Hamas reached a diplomatic breakthrough, leading to the release of 50 kidnapped women and children.
+- The agreement includes a four-day truce for Gaza residents after intense warfare.
+- Hamas will release 150 Palestinians from Israeli jails as part of the deal.
 
-   - I2U2 group unveils collaborative space venture after India's successful lunar mission.
+## ASEAN-India Millet Festival 2023 Kicks Off In Indonesia
 
-   - Aims to harness space-based observation data from partner nations for unique applications.
+- The ASEAN-India Millet Festival 2023 is taking place in Indonesia, showcasing unique millet-added products.
+- The festival aims to raise awareness about millets and strengthen food security and nutrition.
+- The event is a collaborative effort between the Indian Mission to ASEAN and the Ministry of Agriculture and Farmers’ Welfare.
 
-   - Quartet (India, Israel, UAE, US) deepens engagement in space exploration initiatives.
+## Israel Officially Designates Lashkar-e-Taiba as a Terrorist Organization
 
-**6. Biswanath Ghat In Assam, Has Been Chosen As The Best Tourism Village of India In 2023:**
+- Israel officially declared Lashkar-e-Taiba (LeT) as a terrorist organization in support of the global war on terror.
+- Israel's proactive stance against terrorism is emphasized in the announcement.
+- The designation coincides with Israel's ongoing military operation in the Gaza Strip.
 
-   - Ministry of Tourism declares Biswanath Ghat in Assam as the Best Tourism Village of India.
+## Kerala’s Responsible Tourism Mission Earns Global Recognition from UNWTO
 
-   - Recognition follows an extensive selection process from 791 applications across India.
+- Kerala's Responsible Tourism (RT) Mission achieved global acclaim by being included in the UNWTO's list of Case Studies.
+- The RT Mission, launched by the Chief Minister of Kerala, disseminates and implements Responsible Tourism principles and initiatives throughout the state.
+- The RT Mission is designated as the nodal agency by the Government of Kerala.
 
-   - The picturesque village, known as 'Gupta Kashi,' highlights the state's efforts in promoting rural tourism.
+## Meghalaya Launches ‘Water Smart Kid Campaign’ For Youth Water Conservation Awareness
 
-**7. Indian Defence Acquisition Council (DAC) Has Officially Approved The Indigenous Dhruvastra Missile:**
+- Meghalaya Chief Minister Conrad K. Sangma launched the 'Meghalaya Water Smart Kid Campaign' to raise awareness about water conservation among children.
+- The campaign is part of the Jal Jeevan Mission and aims to educate children about the importance of water conservation.
+- The Meghalaya State Government is implementing various interventions to address water conservation and sustainability.
 
-   - DAC approves capital acquisition proposals, including the indigenous Dhruvastra missile.
+## Odisha Achieves Rs 50,000 Crore Mining Revenue in FY 2021-22
 
-   - Precision-guided anti-tank missile designed for DHRUV MK-IV helicopters.
+- Odisha's mining sector contributed significantly to the state's revenue, reaching Rs 50,000 crore in the fiscal year 2021-22 from Rs 4,900 crore in 2016-17.
+- The surge in mining revenue showcases the sector's pivotal role in reshaping Odisha's financial fortunes.
+- This announcement was made by Odisha Chief Secretary P K Jena during an annual technical meeting.
 
-   - Extensive range of 500 meters to 7 kilometers enhances India's combat capabilities.
+## Indian Army Heads To Australia For Joint Military Exercise AUSTRAHIND-23
 
-**8. Israel unveiled its cutting-edge main battle tank, the Merkava Mark 5:**
+- An Indian Armed Forces contingent, comprising personnel from all three services, is participating in the AustraHind-23 joint military exercise in Australia.
+- The exercise aims to enhance inter-operability and conduct multi-domain operations in urban and semi-urban terrains.
+- The Indian contingent includes personnel from the Gorkha Rifles, Indian Navy, and Indian Air Force.
 
-   - Israel reveals Merkava Mark 5 (Barak) as a technologically advanced main battle tank.
+## Indian Navy deploys INS Sumedha in Mozambique to boost interoperability
 
-   - Collaboration between Israeli Defense Ministry, IDF, and defense companies.
+- Indian Naval Ship Sumedha arrived in Mozambique as part of the Extended Operational Deployment to Africa.
+- The strategic port call aims to enhance maritime cooperation and promote interoperability between the Indian and Mozambican navies.
+- Regular deployments of Indian Naval ships overseas align with the Indian Navy's mission of fostering international cooperation.
 
-   - Equipped with advanced sensors for target detection, emphasizing defense capabilities.
+## 10% fewer fresh formal jobs created in Apr-Sep period, shows EPFO data
 
-**9. JP Morgan to Add Indian Government Bonds to Emerging Market Benchmark:**
+- Recent data from the EPFO reveals a 10.1% decline in new subscribers, indicating a slowdown in formal job creation.
+- There is a rise in self-employment, raising concerns about the informal nature of job growth in the Indian economy.
+- A significant decline in subscribers aged 18-28 suggests challenges in sustaining a robust labor market, particularly for young individuals.
 
-   - JP Morgan includes Indian government bonds in the benchmark emerging-market index.
+## 23-november-2023
+## Deceleration in Growth for 'Unsecured Retail Loans' in FY24
+- Recent regulatory measures by RBI set to reshape unsecured retail loans in Mumbai.
+- Crisil Ratings predicts notable deceleration in loan growth.
+- RBI directive to allocate more capital for consumer loans estimated to cost ₹84,000 crore.
 
-   - Decision expected to attract significant foreign investments into India's debt market.
+## Nippon Life India AIF Mobilizes ₹1,000 Crore for Private Credit Expansion
+- Nippon Life India Asset Management enters private credit sector.
+- Aims to raise ₹1,000 crore targeting high-net-worth individuals and family offices.
+- Already invested ₹100 crore in two deals, with potential for further growth.
 
-   - Attributed to India's market reforms and the introduction of the Fully Accessible Route program.
+## Bengal Secures Investment Commitments of Rs 3.76 Trillion
+- Bengal Global Business Summit concludes with investment pledges worth ₹3.76 trillion.
+- Active participation of approximately 40 countries providing encouragement.
+- Bengal's strategic position and accessibility to international hubs highlighted for industrial growth.
 
-**10. Axis Bank Launched 'NEO For Business' Banking Platform For MSMEs:**
+## 2nd CII India Nordic Baltic Business Conclave 2023
+- Conclave aims to foster collaboration between India and Nordic Baltic Eight countries.
+- NB8 countries known for innovation and technology.
+- Collaboration holds promise given India's emphasis on technology for economic growth.
 
-   - Axis Bank unveils 'NEO for Business,' a transaction banking platform for MSMEs.
+## Successful Implementation of State Educational Achievement Survey (SEAS) 2023 by PARAKH
+- SEAS 2023 marks significant milestone in education sector.
+- Survey conducted to identify areas for improvement in student learning.
+- PARAKH serves as guiding force for student assessment across all recognized school boards.
 
-   - Platform designed for real-time requirements, featuring contemporary UI/UX and bank-grade security.
+## India’s CAG Girish Chandra Murmu elected vice-chair of UN external auditors’ panel
+- Comptroller and Auditor General of India elected as vice-chair of UN Panel of External Auditors.
+- Highlights India's commitment to maintaining high standards of external audit.
+- Panel conducts financial, performance, and compliance audits of UN entities.
 
-   - Offers diverse products and services through a unified digital ecosystem for MSMEs.
+## Max Verstappen wins Las Vegas Grand Prix 2023
+- Max Verstappen emerges victorious, beating Charles Leclerc and Sergio Perez.
+- Verstappen is a Formula One World Champion.
+- Race event marked by action and a notable crash involving Lando Norris.
 
-**11. The Finance Ministry Predicts 6.5% Real GDP Growth For India In FY24:**
+## NIF Book Prize For 2023 To Be Revealed On December 1st
+- Shortlist for NIF Book Prize unveiled, winner to be announced on December 1st.
+- Five outstanding works in contention.
+- Diverse range of topics and authors included in the shortlist.
 
-   - Union Ministry of Finance projects a 6.5% real GDP growth for India in FY24.
+## Malayalam writer P. Valsala passes away at 85
+- Award-winning Malayalam writer P. Valsala dies at 85.
+- Celebrated for critically acclaimed work 'Nellu' and contribution to Malayalam literature.
+- Received Sahitya Akademi Award and Ezhuthachchan Puraskaram.
 
-   - Report celebrates robust economic growth in Q1 FY24, attributing it to improved corporate profitability.
+## The Langlands Program: World's Largest Mathematics Project
+- Dr. Langlands awarded the Abel Prize for visionary program connecting representation theory to number theory.
+- Program aims to bridge the gap between representation theory and number theory.
+- Demonstrates enduring curiosity and ingenuity of mathematicians.
 
-   - Effective measures in controlling inflation and balanced economic risks highlighted.
+## Cyclone 'Michaung' To Hit Bay Of Bengal, The Fourth Storm This Year
+- Bay of Bengal on alert for potential development of cyclonic storm.
+- Fourth storm to hit the Bay of Bengal in 2023.
+- Affected regions include India, Bangladesh, and Myanmar.
 
-**12. Gautam Adani's Ambitious Vision for Dharavi: Transforming Asia's Largest Slum into a Modern City Hub:**
+## Saffron From Kishtwar In Jammu and Kashmir Gets GI Tag
+- Kishtwar saffron receives prestigious Geographical Indication (GI) tag.
+- Saffron holds cultural significance and is utilized in medicines and cooking.
+- Also used in Hindu traditions as a mark on the forehead.
 
-   - Gautam Adani outlines vision to transform Dharavi into a modern city hub.
+## 24-november-2023
+## Revolutionizing Geospatial Mapping: Survey of India and Genesys International’s Strategic Partnership
 
-   - Plans include support for small industries, job creation, and establishment of training and research centers.
+- SoI and Genesys International have formed a partnership to create a 3D digital twin-mapping program in India.
+- The focus of the partnership is to develop digital twins of major cities and towns in India.
+- The partnership aims to use SoI's CORS network to provide real-time high precision positioning data for the creation of accurate 3D digital twins of urban landscapes.
 
-   - Focus on organized marketplace aligned with India's Open Network for Digital Commerce.
+## Dutch election: Far-right’s Wilders aims to be PM after shock win
 
-**13. International Day of Sign Languages 2023:**
+- Geert Wilders of the Freedom Party (PVV) had a significant victory in the recent Dutch elections.
+- Wilders, known for his anti-immigration stance, has aspirations of becoming the next prime minister of the Netherlands.
+- The win serves as a warning to mainstream parties in Europe and sets the stage for the upcoming European Parliament elections.
 
-   - United Nations designates September 23rd as International Day of Sign Languages.
+## UAE Inaugurates World’s Largest Single-Site Solar Power Plant
 
-   - Day emphasizes the crucial role of sign language in upholding human rights for the deaf.
+- The UAE has officially opened the world's largest single-site solar power plant.
+- The 2 GW Al Dhafra Solar Photovoltaic (PV) Independent Power Project will generate enough electricity to power almost 200,000 homes.
+- The project broke records in terms of cost for utility-scale solar projects and aims to displace 2.4 million tonnes of carbon emissions annually.
 
-   - Theme for 2023: "A World Where Deaf People Everywhere Can Sign Anywhere!"
+## Mysterious pneumonia outbreak in China: Here is what we know so far
 
-**14. Quad Foreign Ministers Meet on the Sidelines of UNGA:**
+- Health officials in China are investigating an unidentified illness causing pneumonia, particularly in children.
+- Preliminary assessments suggest the outbreaks may be linked to a resurgence of common respiratory pathogens after coronavirus lockdowns.
+- Pneumonia is characterized by lung inflammation and common symptoms include coughing, shortness of breath, fever, and chest pain.
 
-   - Quad nations' foreign ministers meet on UNGA sidelines, reaffirm commitment to a free Indo-Pacific.
+## Headquarters, Integrated Defence Staff, CSIR tie up for R&D in defence tech
 
-   - Emphasis on UN reform, comprehensive representation, and support for UN principles.
+- The Headquarters, Integrated Defence Staff (HQ IDS) and the Council of Scientific and Industrial Research (CSIR) have signed an MoU for technical collaboration and joint research in defence technology.
+- The partnership aims to enhance scientific understanding of defence-related technologies and pursue joint research and development in dual-use technologies.
+- The collaboration is expected to expedite the indigenisation efforts of the armed forces and promote self-sufficiency in defence capabilities.
 
-   - Discussion on Quad Counterterrorism Working Group's exercises and future plans.
+## Telangana Unveils the World’s First 3D-Printed Temple
 
-**15. Government Unveils AI Chatbot for PM-Kisan Scheme:**
+- Telangana has unveiled the world's first 3D-printed temple in Burugupally, Siddipet district.
+- The temple, constructed through a three-month 3D printing process, spans 4,000 square feet and stands at a height of 35.5 feet.
+- It comprises three parts, each dedicated to a different deity, and was built in collaboration between Apsuja Infratech and Simpliforge Creations.
 
-   - Union Ministry of Agriculture launches AI Chatbot for PM-KISAN Scheme.
+## India’s October crude oil imports rise after four months of declines
 
-   - Chatbot provides timely information on application status, payments, and scheme updates.
+- India's crude oil imports increased by 5.9% in October, following a four-month decline.
+- The rebound in imports indicates a shift in the country's energy consumption trends.
+- The rise in crude oil imports is due to increased demand for fuel during the winter season.
 
-   - Initial phase in English and Hindi, expanding to multiple languages by October/November 2023.
+## Blue Dart Partners with India Post to Provide Parcel Locker Service at Post Offices
 
-**16. The Zagorochoria, Nestled On Mount Pindos In Epirus Added To UNESCO's World Heritage List:**
+- Blue Dart Express has partnered with India Post to introduce digital parcel lockers at selected post offices.
+- The collaboration aims to provide customers with convenient and secure delivery options.
+- The lockers eliminate the need for personal receipts or signing for packages, allowing recipients to collect their shipments at their convenience.
 
-   - Zagorochoria villages on Mount Pindos in Epirus added to UNESCO's World Heritage List.
+## Shaheedi Diwas or Martyrdom Day of ‘Guru Tegh Bahadur’
 
-   - Villages known for traditional architecture, stone bridges, and cultural significance.
+- November 24 is observed as Shaheedi Diwas or Martyrdom Day of Guru Tegh Bahadur Singh.
+- Guru Tegh Bahadur Singh was the 9th Guru of the Sikhs, known for his bravery in a face-off with a Mughal army.
+- The day commemorates Guru Tegh Bahadur Singh's contribution to the Sikh faith and Indian history.
 
-   - Recognition signifies Greece's efforts in preserving cultural heritage.
+## RBI includes PM Vishwakarma under PIDF scheme
 
-**17. TCS Partners with BankID BankAxept to Bolster Norway's Financial Infrastructure:**
+- The Reserve Bank of India (RBI) has extended the Payments Infrastructure Development Fund (PIDF) scheme until December 31, 2025.
+- The scheme aims to stimulate the deployment of payment acceptance infrastructure.
+- It encourages the adoption of emerging modes of payment acceptance, including soundbox devices and Aadhaar-enabled biometric devices.
 
-   - TCS collaborates with BankID BankAxept to strengthen Norway's financial infrastructure.
+## 24-november-2023
+## 11. Union Minister Shri Nitin Gadkari Inaugurates the 8th India Water Impact Summit (IWIS) in New Delhi
 
-   - TCS to establish an operations command centre in Oslo for swift responses.
+- Nitin Gadkari inaugurated the 8th Edition of the Indian Water Impact Summit (IWIS).
+- The summit was organized by the National Mission for Clean Ganga (NMCG) and cGanga.
+- It brought together scientific experts, stakeholders, and government representatives to address water challenges and opportunities in India.
 
-   - Focus on resilience, security, and availability of Norway's national payment and identity systems.
+## 12. TCS Claims Top Spot In Customer Satisfaction Among IT And Cloud Services Providers In Spain
 
-**18. India becomes No 1 ranked team in all formats of Cricket:**
+- TCS achieved the number one position in service quality and commercial competitiveness in Spain.
+- The company's commitment to high-quality services and competitive edge propelled its success.
+- TCS secured the second position in customer satisfaction in Spain, with an overall score of 83%.
 
-   - India achieves No. 1 ranking in Tests, ODIs, and T20Is after win against Australia.
+## 13. Four Indian Women Shine in BBC 100 Women 2023 List
 
-   - Second team in history to achieve top rank in all three formats.
+- BBC unveiled the 11th edition of the BBC 100 Women list for 2023.
+- The list recognizes the achievements and contributions of four Indian women.
+- The Indian women featured in the list are Dia Mirza, Harmanpreet Kaur, Arati Kumar­Rao, and Jetsunma Tenzin Palmo.
 
-   - Rankings update highlights India's dominance across cricket formats.
+## 14. Ishwak Singh Won Best Actor Award At Stars Asian International Film Festival
 
-**19. Sports Minister Cancels Visit to Asian Games Due to China's Denial of Entry to Arunachal Players:**
+- Ishwak Singh won the Best Actor award at the Stars Asian International Film Festival.
+- He received the award for his performance in the film 'Berlin.'
+- 'Berlin' has gained acclaim and has been screened at various film festivals.
 
-   - Union Sports Minister cancels Asian Games visit in protest of China's denial to Arunachal players.
+## Agreements News
 
-   - China accused of discriminatory treatment, India rejects differential treatment based on domicile.
+- DGFT has initiated collaborations with e-commerce players to empower MSMEs and boost e-commerce exports.
+- DGFT signed an MoU with Amazon India to link local producers with global supply chains.
+- Discussions are ongoing with other prominent e-commerce platforms for similar collaborations.
 
-   - Three Wushu players from Arunachal Pradesh face entry denial, raising concerns about their participation.
+## 16. A book Thread By Thread on the life of Shambhu Kumar Kasliwal
 
-**20. Northeast's mithun gets 'food animal' tag:**
+- A book titled 'Thread by Thread' on the life of Shambhu Kumar Kasliwal was released by Kapil Dev.
+- The book is written by Sathya Saran and published by Penguin Random House.
+- It explores the journey of Shambhu Kumar from a trader to an industrialist.
 
-   - FSSAI recognizes mithun as a 'food animal,' opening avenues for commercial use.
+## 17. Anahat Singh Becomes Second Youngest to Win National Squash Championship Title
 
-   - Mithun's cultural significance and ecological importance acknowledged.
+- Anahat Singh, a 15-year-old prodigy, became the second youngest title winner in the Senior National Squash Championships.
+- She won the championship after her opponent retired due to a knee injury.
+- Anahat's victory marked a historic moment in squash history.
 
-   - Recognition expected to have economic implications for farmers and tribal communities
+## 18. Marlon Samuels, Former West Indies Player, Receives 6-year Ban
 
-.
+- Marlon Samuels, a former West Indies batter, received a six-year ban from all forms of cricket.
+- The ban was imposed by the ICC due to his participation in the Abu Dhabi T10 league in 2019.
+- Samuels violated the Emirates Cricket Board's anti-corruption code, leading to the charges.
 
-## 25-september-2023
+## 19. OneWeb India Becomes First Firm To Get IN-SPACe Approval For Satellite Broadband
 
-1\. **India's First Lighthouse Festival in Goa:**
+- OneWeb India has obtained approval from IN-SPACe to launch satellite broadband services in India.
+- It is the first organization to receive such authorization.
+- In addition to general approval, OneWeb India has also secured in-principle approval to establish and operate two gateways.
 
-   - Historic event: India's first lighthouse festival took place in Goa on September 23.
+## 20. India’s first woman Supreme Court judge Justice Fathima Beevi Passes Away
 
-   - Vision for lighthouses: Organized by the Union Ministry of Ports, Shipping, and Waterways, aiming to transform 75 lighthouses into tourist hubs.
+- Justice Fathima Beevi, the first female Supreme Court judge, passed away at the age of 96.
+- She made significant contributions to the legal fraternity and was honored with awards.
+- Justice Beevi's career was marked by various achievements and milestones.
 
-   - Grand inauguration: The festival started at Fort Aguada Lighthouse, inaugurated by Union Minister Sarbananda Sonowal.
+## 21. Bengaluru Set To Host Namma Kambala On November 25 and 26
 
-2\. **India Achieves 75% ODF Plus Status in Villages:**
+- Bengaluru will host the traditional buffalo racing contest, Kambala, on November 25 and 26.
+- It is the first time Kambala will be held in the heart of Bengaluru.
+- The event will take place at the iconic Palace Grounds.
 
-   - Sanitation milestone: 4.4 lakh villages, constituting 75% of total villages, declared 'Open Defecation Free Plus' status.
+## 25-november-2023
+### India to Chair International Sugar Organisation
 
-   - ODF Plus criteria: Villages maintaining ODF status and implementing solid or liquid waste management systems.
+- India will become the chairman of the International Sugar Organisation (ISO) in 2024.
+- India's leadership role reflects its status as the world's largest consumer and second-largest producer of sugar.
+- The focus during India's chairmanship will be on promoting environmentally friendly practices in the global sugar sector.
 
-   - Categorization breakdown: 2,92,497 'ODF Plus Aspiring,' 55,549 'ODF Plus Rising,' and 96,018 'ODF Plus Model' villages.
+### Report: US Granted $677 billion In Aid To 213 Countries From 2001 to 2023
 
-3\. **Inauguration of Swaminarayan Akshardham Temple in US:**
+- The United States provided $677 billion in aid to 213 countries from 2001 to 2023.
+- Afghanistan received a significant amount of aid, totaling $111 billion, due to the aftermath of the 9/11 attacks.
+- Israel and Iraq were among the top beneficiaries of US aid, receiving $65 billion and $64 billion respectively.
 
-   - Historic moment: Second-largest Hindu temple outside India inaugurated in Robbinsville, New Jersey.
+### Afghanistan Closes Its Embassy In India Permanently
 
-   - Impressive design: Measures 255ft x 345ft x 191ft with intricate architecture, second only to Cambodia's Angkor Wat.
+- The Afghanistan embassy in New Delhi permanently closed due to ongoing challenges from the Indian government.
+- The closure is not a result of internal conflict or allegiance switching to the Taliban.
+- The fate of the embassy is now in the hands of the Indian government, including the possibility of handing it over to Taliban diplomats.
 
-   - Spiritual significance: Represents dedication, tradition, and artistry; committed to sustainability.
+### Hornbill Festival 2023 (December 1-10) – A Cultural Extravaganza in Nagaland
 
-4\. **Three New Air Routes for Arunachal Pradesh:**
+- The Hornbill Festival 2023 will take place from December 1 to December 10, showcasing the cultural diversity of Nagaland.
+- The festival, named after the hornbill bird, offers a glimpse into Naga folklore and traditions.
+- In 2022, the festival attracted a significant number of tourists, with 1,026 foreign visitors and 48,413 domestic visitors.
 
-   - Connectivity boost: Union Civil Aviation Minister announces three new air routes operational by October.
+### India and Nepal Convene for the 17th Edition of Joint Military Exercise SURYA KIRAN
 
-   - UDAN-5 scheme: Itanagar connected to Rupsi, Jorhat, and Delhi, benefiting Arunachal Pradesh.
+- The 17th edition of the Joint Military Exercise SURYA KIRAN aims to strengthen the military ties between India and Nepal.
+- The exercise will focus on enhancing interoperability in areas such as jungle warfare and counter-terrorism operations.
+- Activities involving drones, medical training, aviation, and environmental conservation will also be undertaken.
 
-   - Tezu airport upgrade: Enhanced facilities to play a key role in facilitating new air connections.
+### Indian Rupee Hits Record Low at 83.38 Against US Dollar
 
-5\. **Veerangana Durgavati Tiger Reserve in MP:**
+- The Indian rupee closed at a new low of 83.38 against the US dollar.
+- The drop was attributed to increased dollar demand from oil companies.
+- The Reserve Bank of India intervened to stabilize the rupee, but it closed at a new low.
 
-   - Tiger Reserve inauguration: Madhya Pradesh introduces the Veerangana Durgavati Tiger Reserve, 54th in India.
+### Bandhan Bank Board Approves Reappointment of Chandra Shekhar Ghosh as MD & CEO
 
-   - Extensive coverage: Spreads across Sagar, Damoh, and Narsinghpur districts, linked by a green corridor.
+- Chandra Shekhar Ghosh has been reappointed as the Managing Director & Chief Executive Officer of Bandhan Bank.
+- His tenure has been extended for three years.
+- Ghosh brings extensive experience in microfinance, banking, and development to his role.
 
-   - Conservation success: MP retains "tiger state" status with an increased tiger count in the 2022 census.
+### RBI Takes Action Against Abhyudaya Cooperative Bank's Governance Issues
 
-6\. **New Beach Shack Policy in Goa:**
+- The Reserve Bank of India has superseded the board of Abhyudaya Cooperative Bank for 12 months.
+- This action was taken due to observed poor governance standards within the bank.
+- The RBI aims to maintain the integrity and stability of financial institutions in the country.
 
-   - Tourism promotion: Goa government approves "Goa State Shack Policy 2023-2026" for sustainable tourism.
+### RBI Imposes Fine of ₹10.34 Crore on BoB, Citibank, and IOB
 
-   - Seasonal structures: Provision for deck beds, umbrellas, and beach shacks to enhance tourist experience.
+- The Reserve Bank of India imposed penalties totaling ₹10.34 crore on Citibank, Bank of Baroda, and Indian Overseas Bank.
+- The penalties were for non-compliance with various RBI directives.
+- Citibank faced the highest penalty of ₹5 crore.
 
-   - Policy enforcement: Penalties introduced to maintain quality standards, emphasizing cleanliness on beaches.
+### Svatantra Microfin's Strategic Acquisition of Chaitanya India Fin Credit
 
-7\. **Policy for Dignity of Border Roads Workers in India:**
+- Svatantra Microfin is set to acquire Chaitanya India Fin Credit in a deal valued at Rs 1,479 crore.
+- The acquisition will make Svatantra the second-largest microfinance company in India.
+- The combined entity is projected to have assets worth Rs 12,409 crore.
 
-   - Dignifying casual workers: India unveils a policy for Border Roads Organisation workers, extending benefits for preserving and transporting mortal remains.
+## 25-november-2023
+### 11. Mastercard and U GRO Capital Collaborate for MSME Financing
 
-   - Inclusivity: Previously exclusive to GREF personnel, the policy now includes casual laborers recognizing their contributions.
+- Mastercard partners with U GRO Capital, an NBFC specializing in MSME financing.
+- Collaboration aims to provide financial solutions to small businesses in India.
+- Focus on addressing limited access to capital for MSMEs.
 
-8\. **Inauguration of Bharat Drone Shakti-2023 Exhibition:**
+### 12. Warren Buffett's Exit from Paytm: A Rs 507 Crore Loss
 
-   - Defence Minister's initiative: Rajnath Singh inaugurates Bharat Drone Shakti-2023 exhibition and inducts C-295 transport aircraft into the Indian Air Force.
+- Berkshire Hathaway sells its entire 2.46% stake in Paytm.
+- Exit results in a loss of Rs 507 crore for Berkshire Hathaway.
+- Paytm's shares experienced a decline prior to the exit.
 
-   - Airbus partnership: Rs 21,935-crore deal with Airbus for aircraft delivery and manufacturing partnership with Tata Advanced Systems.
+### 13. ADB's $170 Million Boost Transforms Kochi's Water Landscape
 
-9\. **19th Edition of YUDH ABHYAS in Alaska:**
+- ADB approves a $170 million loan for water supply services modernization in Kochi.
+- Initiative aims to enhance urban living standards and fortify climate resilience.
+- Rehabilitation and upgrade of existing water treatment plants, along with the construction of a new plant.
 
-   - Military cooperation: Annual exercise between Indian and US armies in Alaska aims at strengthening military ties.
+### 14. International Day for the Elimination of Violence against Women 2023
 
-   - Tactical drills: Focus on enhancing interoperability, especially for UN peacekeeping operations.
+- November 25 designated as International Day for the Elimination of Violence Against Women.
+- Part of the 16 Days of Activism against Gender-based Violence campaign.
+- Focus on raising awareness and preventing violence against women.
 
-   - Exchange of best practices: Opportunity for sharing combat skills and insights.
+### 15. 'AGNI' Initiative to Promote Innovations by Ayurveda Practitioners
 
-10\. **Apple's Fivefold Production Boost in India:**
+- CCRAS introduces the "Ayurveda Gyan Naipunya Initiative" (AGNI).
+- Initiative encourages Ayurveda practitioners to share innovative practices.
+- Platform for sharing experiences across diverse disease conditions.
 
-    - Manufacturing expansion: Apple plans to increase production in India to $40 billion in 4-5 years.
+### 16. Anish Shah to Assume Presidency of FICCI
 
-    - Market influence: Apple's 59% market share in the ultra-premium smartphone segment in India during Q1 2023.
+- Anish Shah appointed as the President-Elect of FICCI.
+- Holds a Ph.D. and a Post-Graduate Diploma in Management.
+- Brings expertise from a career at GE, Bank of America, Bain & Company, and Citibank.
 
-    - Product diversification: Beyond iPhones, Apple considers manufacturing AirPods in India.
+### 17. India and EU ink Semiconductor Agreement To Boost Supply Chain
 
-11\. **International Day for the Total Elimination of Nuclear Weapons 2023:**
+- India and EU sign an MoU on semiconductors.
+- Focus on establishing a robust supply chain and promoting innovation.
+- Collaboration in research, development, and innovation among universities, research organizations, and businesses.
 
-    - UN observance: September 26 designated as the International Day for the Total Elimination of Nuclear Weapons.
+### 18. Imad Wasim Retires From International Cricket
 
-    - Awareness focus: Educating the public on the benefits of eliminating nuclear weapons and the social costs.
+- Imad Wasim announces retirement from all forms of international cricket.
+- Represented Pakistan in 121 appearances across ODIs and T20Is.
+- Leaves behind a commendable record with 1472 runs and 109 wickets.
 
-    - Historical incident: Anniversary of a 1983 incident that nearly led to a nuclear war due to a Soviet system malfunction.
+### 19. Scientists Uncover Mysterious Cosmic Ray Surpassing Three-Decade Record
 
-12\. **World Rivers Day 2023:**
+- Scientists detect a high-energy particle, named Amaterasu, from empty space.
+- One of the highest-energy cosmic rays ever detected.
+- Nature and source of the particle remain unknown.
 
-    - Global celebration: Observed on September 24, emphasizing the value of rivers and advocating for their conservation.
+### 20. World's Biggest Iceberg On The Move After 30 Years
 
-    - Roots in BC Rivers Day: Traces back to 1980, initiated by Canadian river advocate Mark Angelo.
+- The largest iceberg, A23a, starts moving after 30 years of being stationary.
+- Weighs nearly a trillion metric tonnes and spans 4,000 square km.
+- Strong winds and ocean currents propel it past the northern tip of the Antarctic Peninsula.
 
-    - Collaborative effort: A reminder of rivers' role in sustaining life, fostering cooperation for their protection and restoration.
+## 27-november-2023
+### Anurag Singh Thakur launches Khelo India Para Games 2023 logo and Mascot Ujjwala:
 
-13\. **Antyodaya Diwas 2023:**
+- Shri Anurag Singh Thakur unveiled the logo and mascot for Khelo India Para Games 2023.
+- The mascot, 'Ujjwala,' a sparrow, symbolizes determination and empathy.
+- The games are expected to have the participation of over 1400 athletes from 32 states and union territories.
 
-    - Tribute to Pandit Deendayal Upadhyaya: Annual celebration on September 25 honoring the leader's birth anniversary.
+### President Droupadi Murmu Unveils Dr. B.R. Ambedkar’s Statue At Supreme Court:
 
-    - National holiday: Recognizes Upadhyaya's contributions; declared a national holiday by PM Modi in 2014.
+- President Droupadi Murmu revealed a statue of Dr. B.R. Ambedkar at the Supreme Court on Constitution Day.
+- Constitution Day marks the adoption of the Constitution of India by the Constituent Assembly in 1949.
+- The shift to Constitution Day highlights the nation's commitment to upholding the principles laid out in the Constitution.
 
-    - Uplifting the marginalized: Commemorates Upadhyaya's efforts to uplift the less fortunate in society.
+### India Unveils Biogas Blending Plan to Reduce Natural Gas Imports and Achieve Net Zero Emissions:
 
-14\. **World Pharmacists Day 2023:**
+- The Indian government plans to blend compressed biogas with natural gas to decrease reliance on imports and achieve net zero emissions by 2070.
+- The mandatory blending of compressed biogas with natural gas will commence in April 2025 at a rate of 1%.
+- The blending percentage is set to increase to approximately 5% by 2028 as part of a phased approach.
 
-    - Global recognition: Observed on September 25 with the theme "Pharmacy Strengthening Health Systems."
+### Hardeep Puri Inaugurates Second Floating CNG Station in Varanasi:
 
-    - Appreciating pharmacists: Highlights their contributions to global health and healthcare systems.
+- Minister Hardeep Singh Puri inaugurated Varanasi's second floating CNG station at Ravidas Ghat.
+- The station provides convenience to boatmen, saving them travel time to refuel.
+- Boatmen using CNG can save over Rs. 36,000 per year, leading to significant economic benefits.
 
-    - FIP Congress origin: Established in 2009 to recognize pharmacists' importance in healthcare.
+### Robert Shetkintong Appointed as the Next High Commissioner of India to the Republic of Mozambique:
 
-15\. **Sanjeev Mantri Appointed as MD and CEO of ICICI Lombard:**
+- Robert Shetkintong, the current Ambassador of India to Ethiopia, is appointed as the next High Commissioner to Mozambique.
+- Shetkintong is a seasoned diplomat and has played a crucial role in strengthening bilateral ties between India and Ethiopia.
+- His appointment marks an important transition in his career as a 2001 batch Indian Foreign Service officer.
 
-    - Leadership transition: Sanjeev Mantri appointed as MD & CEO after the resignation of Bhargav Dasgupta.
+### Reassessing India's Bilateral FTAs: A Closer Look at Singapore:
 
-    - Expertise in insurance: Mantri's leadership instrumental in the successful listing of ICICI Lombard.
+- GTRI recommends a comprehensive review of India's bilateral FTAs with Singapore and Thailand.
+- The evaluation should consider the broader ASEAN bloc and regional trade dynamics.
+- Singapore has been in a free trade agreement with India since 2010, and both countries have a comprehensive FTA since 2005.
 
-    - Diverse experience: Mantri brings three decades of experience, previously serving in key positions in other organizations.
+### Malaysia Opens Visa-free Travel for Indian Visitors and Chinese Citizens:
 
-16\. **Inaugural Indian Grand Prix 2023: Marco Bezzecchi Secures Victory:**
+- Malaysia now offers 30 days of visa-free travel to Indian visitors starting from December 1.
+- Visitors from India and China need security clearance for visa exemption.
+- Malaysia has been progressively expanding its visa-free privileges for several countries.
 
-    - Racing triumph: Marco Bezzecchi wins the inaugural Indian Grand Prix at Buddh International Circuit.
+### Mumbai Street to be Named in Memory of Actor Vikram Gokhale:
 
-    - Podium positions: Jorge Martin secures the second position, while Francesco Bagnaia faces a crash.
+- The Maharashtra Government plans to name a street in Andheri West, Mumbai, in honor of the late actor-director Vikram Chandrakant Gokhale.
+- The chosen street is significant as it is near the headquarters of CINTAA and leads to the Kokilaben Dhirubhai Ambani Hospital.
+- This tribute honors the contribution of Vikram Gokhale to the film industry.
 
-    - Championship contention: Bezzecchi's third triumph solidifies his status as a top contender.
+### Uttar Pradesh Declares November 25 as "no non-veg day":
 
-17\. **Indian Team First to Hit 3000 Sixes in ODI Cricket:**
+- The Uttar Pradesh government has declared November 25 as "no non-veg day" in honor of Sadhu TL Vaswani.
+- Slaughterhouses and meat shops will be closed on this day.
+- Sadhu TL Vaswani advocated for vegetarianism and women's education and liberation.
 
-    - Milestone achievement: India surpasses 3000 ODI sixes, becoming the first team to achieve this.
+### Madhya Pradesh: India's Largest Tiger Reserve to be Set Up in Damoh:
 
-    - Record against Australia: India sets a new record with the highest-ever total of 399/6 in ODIs against Australia.
+- The central government has approved the merger of Noradehi Sanctuary with the Durgavati Sanctuary in Damoh, creating India's largest tiger reserve.
+- The reserve will span approximately 2,300 square kilometers.
+- This merger reflects the government's commitment to wildlife conservation and creating substantial habitats for tigers.
 
-    - Dominance in six-hitting: India leads with 3000 sixes, followed by West Indies and Pakistan.
+## 27-november-2023
+### 11. CSJMU in Kanpur gets A++ Grading by NAAC
+- Chhatrapati Shahuji Maharaj University in Kanpur, Uttar Pradesh achieves A++ grading from NAAC
+- University's journey from B grade to A++ demonstrates commitment to academic excellence
+- Leadership of Chancellor Anandiben Patel and Vice Chancellor Professor Vinay Kumar Pathak spearheaded progress initiatives
 
-18\. **India Clinches 5 Medals on Day One of Asian Games 2023:**
+### 12. Odisha Chief Minister Naveen Patnaik Greenlights Massive Investment in 12 Key Projects
+- Odisha Chief Minister approves 12 projects worth Rs 84,918.75 crore
+- Projects expected to generate employment opportunities for 42,281 individuals
+- Projects span multiple districts in Odisha, including Cuttack, Ganjam, Jharsuguda, and Sundargarh
 
-    - Promising start: India secures five medals on the first day, including three silver and two bronze.
+### 13. J&K Approves Four New Industrial Estates in Order to Boost Local Economy
+- Jammu and Kashmir administration approves establishment of four new industrial estates
+- Industrial estates to be developed in locations such as Budhi, Medicity Jammu, Chandgam, and Lelhar
+- Development of these estates involves an investment of Rs 136.65 crore on 1,379 kanals of land
 
-    - Rowing success: Arjun Lal Jat, Arv
+### 14. Indian Coast Guard and Navy to acquire 15 C-295 Aircraft for Maritime Surveillance
+- Indian Coast Guard and Navy to acquire 15 C-295 transport aircraft
+- Navy plans to procure nine planes, while Coast Guard plans to procure six
+- Tata Advanced Systems and Airbus collaborate to manufacture C-295 aircraft in India
 
-## 26-september-2023
+### 15. World Sustainable Transport Day 2023
+- United Nations designates November 26 as World Sustainable Transport Day
+- Focuses on the theme "Sustainable transport, sustainable development"
+- Highlights transport's role in connectivity, trade, economic growth, employment, and greenhouse gas emissions
 
-### 1. India Gets Its First Green Hydrogen-Run Bus
+### 16. National Cadet Corps celebrates 75th Anniversary day
+- National Cadet Corps to celebrate 75th anniversary on November 27, 2023
+- NCC Day commemorates core values of "Unity and Discipline"
+- NCC aims to develop physical, intellectual, and moral dimensions of individuals
 
-- Indian Oil Corporation (IOC) unveils the first green hydrogen-powered bus.
+### 17. Guru Nanak Jayanti 2023
+- Guru Nanak Jayanti observed on November 27, 2023
+- Celebration of the birth anniversary of Guru Nanak Dev, founder of Sikh religion
+- Promotes love, equality, and selfless service to humanity
 
-- Green hydrogen produced through electrolysis of water using renewable energy.
+### 18. NHPC Won Second Prize In The 'Annual Report' Category At The 'PRSI National Awards 2023
+- NHPC Limited receives second prize in the 'Annual Report' category at PRSI National Awards 2023
+- NHPC recognized for its excellence in annual reporting
+- NHPC is a leading hydropower company in India
 
-- India's move towards reducing fossil fuel dependency and promoting eco-friendly transport.
+### 19. REC Receives 'Best Employer in Diversity & Inclusion' award by Assocham
+- REC Limited honored with "Best Employer for Policies in Diversity & Inclusion" Award at Assocham Awards
+- Recognition of REC's commitment to diversity, inclusion, and equal opportunities
+- REC specializes in providing long-term loans and financial products for the Power-Infrastructure sector
 
-### 2. Monsoon's Late Retreat in India: 13th Consecutive Delay
+### 20. Irish author Paul Lynch wins 2023 Booker Prize
+- Irish author Paul Lynch wins 2023 Booker prize for novel "Prophet Song"
+- Novel set in imagined future Ireland and explores themes of oppressive rule and civil war
+- Booker prize is a prestigious literary award
 
-- Southwest monsoon retreats eight days later than the usual date.
+### 21. Shubman Gill Takes the Helm as Gujarat Titans Captain for IPL 2024
+- Shubman Gill named captain of Gujarat Titans for IPL 2024
+- Hardik Pandya traded to Mumbai Indians, creating vacancy for captaincy
+- Gill's impressive performance in previous season contributes to his selection as captain
 
-- Delay impacts agricultural planning, especially in northwest India for Rabi crop season.
+### 22. Anish Bhanwala Becomes First Indian Shooter To Win a Medal In 25m Rapid Fire at ISSF World Cup Final
+- Anish Bhanwala becomes first Indian shooter to win medal in men's 25m Rapid Fire event at ISSF World Cup Final
+- Accomplishment surpasses previous efforts by Vijay Kumar and Gurpreet Singh
+- Bhanwala secures bronze medal in the event held in Doha
 
-- Concerns raised about the implications on crop production due to extended rainy season.
+### 23. Max Verstappen beats Leclerc to victory in Abu Dhabi Grand Prix
+- Max Verstappen wins Abu Dhabi Grand Prix, earning his 19th win of the season and 54th overall
+- Verstappen's victory places him third on the all-time list of Formula One champions
+- Verstappen finishes ahead of Charles Leclerc and George Russell
 
-### 3. Maruti Suzuki Partners With Indian Navy For Northeast Outreach Programme
+### 24. Bengaluru hosts Kambala races
+- Bengaluru hosts its first-ever Kambala event, attracting over 11 lakh visitors
+- Races feature quarter and semi-finals, with LED screen replays for audience
+- Buffalo with over 200 medals honored at the event
 
-- Maruti Suzuki collaborates with Indian Navy for 'Khamree Mo Sikkim' outreach programme.
+## 28-november-2023
+### 1. Center Renames Ayushman Bharat Health and Wellness Centers to Ayushman Arogya Mandir
+- Union Government rebrands Ayushman Bharat Health and Wellness Centres as Ayushman Arogya Mandir.
+- The rebranding aims to enhance the identity and outreach of the primary healthcare facilities.
+- Deadline for completing the rebranding process nationwide is set for the end of 2023.
 
-- Expedition covering 6,500 kilometers launched from Indian Navy base in Lonavala.
+### 2. New Zealand Abandons Landmark Smoking Ban for Generation to Fund Tax Cuts
+- New Zealand government abandons groundbreaking law to ban smoking for future generations.
+- Decision driven by the intention to finance tax cuts.
+- Concerns raised by public health officials about potential consequences and risks, especially for Māori communities.
 
-- Aims to create awareness about career opportunities in the Navy among Northeastern youth.
+### 3. Indian-Origin Ex-MP Dave Sharma wins Australian Senate Seat
+- Dave Sharma wins New South Wales Liberal Senate race, replacing retired former foreign minister.
+- Sharma previously made history as the first Indian-origin lawmaker in Australian Parliament.
+- His victory brings a wealth of diplomatic and foreign policy expertise to the Senate.
 
-### 4. Concerns Raised Over Chinese Research Vessel's Visit to Sri Lanka
+### 4. UK Detects First Human Case Of H1N2 Pig Virus
+- UK Health Security Agency discloses the first human case of H1N2 virus, or the pig virus.
+- Affected individual experienced mild illness and fully recovered, raising questions about pig-to-human transmission.
+- Raises awareness of zoonotic transmission risks and genetic material from various sources.
 
-- US expresses concerns about Chinese research vessel's visit to Sri Lanka.
+### 5. NATPOLREX-IX: Indian Coast Guard’s Pollution Response Exercise
+- 9th National Level Pollution Response Exercise conducted by Indian Coast Guard on November 25, 2023.
+- Aimed to assess readiness and coordination of various agencies in responding to marine oil spills.
+- Participation from central and coastal state governments, ports, and oil handling agencies.
 
-- Shi Yan 6 to undertake 80-day scientific research expedition in the Indian Ocean.
+### 6. RBI extends payments infrastructure scheme by 2 years till Dec 2025, expands scope
+- Reserve Bank of India extends Payments Infrastructure Development Fund scheme until December 31, 2025.
+- Aimed at promoting digital transactions at grassroots level and includes expanded beneficiaries.
+- Encourages deployment of emerging modes of payment acceptance such as soundbox devices and Aadhaar-enabled biometric devices.
 
-- China defends the visit, emphasizing it is part of a geophysical research expedition.
+### 7. S&P Global Ratings Revises India’s Growth Projections
+- S&P Global Ratings upgrades India's GDP growth projection for FY 2024 to 6.4% from previous estimate of 6%.
+- Resilience of domestic economic forces counterbalances challenges from food inflation and weakened export performance.
+- FY 2025 GDP growth projection revised downward to 6.4% from earlier forecast of 6.9%.
 
-### 5. Nepal-China Sign 12 Agreements: A Closer Look at the Visit's Outcome
+### 8. India’s Engineering Exports Experience Divergent Trends Across Global Markets in October
+- Positive growth observed in key markets such as the US, Saudi Arabia, and the UAE for India's engineering exports in October.
+- Engineering exports to the US surge by 2.2%, reaching $1.39 billion.
+- Shipments to the UAE experience a growth of 2.9%, totaling $348.6 million.
 
-- Nepal's PM Dahal concludes week-long visit to China.
+### 9. HDFC Securities Launches Mobile Trading App HDFC SKY on AWS Cloud
+- HDFC Securities launches mobile trading app, HDFC SKY, on Amazon Web Services (AWS) cloud.
+- Expected cost reduction of up to 50% by leveraging AWS cloud services.
+- Ensures secure and low-latency trading experience for tech-savvy retail investors.
 
-- Agreements focus on bilateral cooperation, not addressing BRI projects and cross-border energy trade.
+### 10. IndiGo Unveils AI-Powered Chat Assistant “6Eskai” After Air India
+- IndiGo launches AI-powered chat assistant named "6Eskai" to cater to customer inquiries.
+- Enhances customer service in the aviation industry.
+- Powered by Microsoft's GPT-4 technology, showcasing the adoption of AI in the sector.
 
-- Emphasis on strengthening economic, trade, and people-to-people cooperation.
+## 28-november-2023
+### 11. SEBI Plans To Introduce Same Day Trade Settlement By March 2024
 
-### 6. India Allows Export Of 75,000 Tons Of Non-Basmati White Rice To The UAE
+- SEBI Chief Madhabi Puri announced plans to implement same-day settlement of trades by March 2024.
+- SEBI is actively working on a roadmap for same-day settlement and an optional parallel system for instantaneous settlement.
+- The aim is to achieve same-day settlement by the end of March 2024, which is a significant improvement from the existing T+0 settlement cycle.
 
-- India permits export of 75,000 tons of non-basmati white rice to the UAE.
+### 12. Sebi reduces minimum issue size for social stock exchange to Rs 50 lakh
 
-- National Cooperatives Exports Limited (NCEL) to facilitate the export.
+- SEBI has decreased the minimum issue size for public issuance of Zero Coupon Zero Principal Instruments (ZCZP) from Rs 1 crore to Rs 50 lakh.
+- This reduction aims to make fundraising more accessible for Not for Profit Organisations (NPOs) on the social stock exchange.
+- The move fosters a conducive environment for social impact initiatives by enabling NPOs to enhance their fundraising capabilities.
 
-- Reflects a shift in India's export policies while prioritizing domestic and international demands.
+### 13. Col Sunita BS Appointed First Female Commanding Officer at Armed Forces Transfusion Centre
 
-### 7. India's First C-295 Aircraft Formally Introduced Into IAF
+- Colonel Sunita BS became the first woman to assume the role of Commanding Officer at the Armed Forces Transfusion Centre (AFTC) in Delhi Cantt.
+- Col Sunita holds a Post Graduate degree (MD & DNB) in Pathology from the Post Graduate Institute of Medical Sciences Rohtak.
+- Before her appointment at AFTC, she served as the Commanding Officer at a strategically important Field Hospital in Arunachal Pradesh.
 
-- Defence Minister Rajnath Singh formally inducts the first C-295 aircraft into the IAF.
+### 14. Rajat Kumar Jain Appointed As Fino Payments Bank Chairman
 
-- C-295, manufactured by Airbus, enhances IAF's versatility in various missions.
+- Rajat Kumar Jain has been appointed as the Part-time Chairman of Fino Payments Bank.
+- Jain is an alumnus of IIT Delhi and IIM Ahmedabad with over three decades of strategic leadership experience.
+- His extensive knowledge is expected to play a pivotal role in shaping Fino Payments Bank's future trajectory.
 
-- Impressive payload capacity, speed, and adaptability contribute to enhanced operational capabilities.
+### 15. HDFC Bank appoints former NABARD chairman Harsh Kumar Bhanwala as director
 
-### 8. S&P Global Ratings Retains India's Growth Forecast at 6% for Current Fiscal
+- Harsh Kumar Bhanwala has been appointed as the Additional Independent Director of HDFC Bank.
+- He has held various roles in the banking sector, including Chairman & Managing Director of India Infrastructure Finance Company and Managing Director of the Delhi State Cooperative Bank.
+- V Srinivasa Rangan has also been appointed as the new Executive Director (whole-time Director) of HDFC Bank.
 
-- S&P Global Ratings reaffirms India's growth forecast at 6% for the current fiscal year.
+### 16. Ministry Of Power Honored With Medal For Excellence At IITF 2023
 
-- Factors include global economic challenges, subnormal monsoons, and delayed effects of interest rate hikes.
+- The Ministry of Power, Government of India, was awarded the Special Appreciation Medal for Excellence in Display at the India International Trade Fair (IITF) 2023.
+- The Ministry received this accolade for the remarkable Power Pavilion it set up at the trade fair, inaugurated by Union Minister for Power and New & Renewable Energy, Shri R. K. Singh.
+- The Special Appreciation Medal was received by Shri Ajay Agarwal, Director at the Ministry of Power, and Shri Harjit Singh, Chief General Manager (Corporate Communications) at NTPC.
 
-- Positive outlook with projections of 6.9% growth in fiscal years 2024-25 and 2025-26.
+### 17. 'Pranab, My Father: A Daughter Remembers' by Sharmishtha Mukherjee
 
-### 9. Indian Banks Attracting Increasing Global Investment: S&P Global Report
+- The book, titled 'Pranab, My Father: A Daughter Remembers' authored by Sharmishtha Mukherjee is being brought out by Rupa Publications.
+- The book reflects on the father-daughter relationship between Pranab Mukherjee and Sharmishtha.
+- It highlights Mukherjee's journey from an unprepossessing village in West Bengal to his roller-coaster career.
 
-- S&P Global Market Intelligence reports increased global investment appeal in Indian banks.
+### 18. Vidya Pillai Clinches 6-Red Snooker World Title
 
-- Foreign institutional investors (FIIs) show growing interest, with total holdings reaching ₹8.36 trillion.
+- Cueist Vidya Pillai won the IBSF 6-Red Snooker World Championship title in Doha, Qatar.
+- She dominated her opponents throughout the championship, including a standout victory against compatriot Anupama Ramachandran in the final.
+- In 2017, she became the first Indian woman to reach the finals of the WLBSA World Women's Snooker Championship.
 
-- Top choices for FIIs include ICICI Bank Ltd., HDFC Bank Ltd., and Kotak Mahindra Bank Ltd.
+### 19. Italy defeat Australia to win Davis Cup for first time since 1976
 
-### 10. RBI Imposes Monetary Penalty On State Bank Of India, Indian Bank, Punjab & Sind Bank
+- Italy became Davis Cup champions for the first time since 1976 by defeating Australia 2-0.
+- Matteo Arnaldi secured the victory in the second singles rubber by beating Alexei Popyrin, following a tense opening clash.
+- The final was held in Malaga, Spain, and Italy reached the final after defeating Novak Djokovic's Serbia.
 
-- RBI imposes penalties on SBI, Indian Bank, and Punjab & Sind Bank for non-compliance.
+### 20. Odisha to Host Ultimate Kho Kho Season 2 from December 24, 2023
 
-- Penalties relate to violations of regulatory norms and banking directives.
+- Odisha will host the second edition of Ultimate Kho Kho (UKK) from December 24, 2023, to January 13, 2024.
+- The Jawaharlal Nehru Indoor Stadium in Cuttack, Odisha, will be the venue for this high-octane sporting event.
+- The competition will feature India's top 145 players, including 33 young talents aged between 16 to 18.
 
-- Emphasizes the importance of adherence to banking regulations and RBI directives.
+### 21. C.K. Gopinathan, a Director On The Board Of Dhanlaxmi Bank Passed Away
 
-### 11. Amazon To Invest Up To $4 Billion In AI Startup Anthropic
+- Mr. C.K. Gopinathan, a director on the board of Dhanlaxmi Bank and a significant shareholder, passed away.
+- Gopinathan played a crucial role in the bank's strategic decisions and brought extensive knowledge and insights to the table.
+- He was also involved in other ventures, serving as a Director of C.K.G Supermarket Limited and as the Managing Director at C.K.G Securities and Investments Limited.
 
-- Amazon announces up to $4 billion investment in AI startup Anthropic.
+### 22. Merriam-Webster: Word Of The Year For 2023 is 'authentic'
 
-- Collaboration focuses on advancing both companies' AI capabilities using AWS chips.
+- 'Authentic' was chosen as Merriam-Webster's word of the year for 2023 based on search trends.
+- The term often revolves around identity and has influenced discussions on cuisine, self, voice, and more.
+- Merriam-Webster is the oldest dictionary publisher in the United States and maintains a citation file with over 16 million entries.
 
-- Anthropic aims to create AI applications prioritizing safety and reliability.
+### 23. Indian Immunologicals Unveils Measles and Rubella Vaccine for Children
 
-### 12. World Tourism Day 2023
+- Indian Immunologicals Limited launched Mabella, a live-attenuated MR vaccine, in Udhagamandalam (Ooty), Tamil Nadu.
+- Mabella is developed through a partnership with the Polyvac Institute of Vietnam and aims to combat measles and rubella.
+- The launch of the vaccine addresses the need to control these infectious diseases, which cause significant child mortality.
 
-- World Tourism Day observed globally on September 27, 2023.
+### 24. Angkor Wat Becomes the 8th wonder of the world
 
-- Initiated by the United Nations World Tourism Organisation (UNWTO) to promote tourism.
+- Angkor Wat in Cambodia has been named the 8th wonder of the world, surpassing Italy's Pompeii.
+- It is the largest religious structure and monument in the world, showcasing architectural brilliance and cultural significance.
+- Originally dedicated to the Hindu deity Vishnu, it later became a major Buddhist temple.
 
-- Theme for 2023: "Tourism and green investment" highlighting the need for sustainable development.
+### 25. Barda Wildlife Sanctuary is set to become the second home for Asiatic lions
 
-### 13. World Environmental Health Day 2023
+- The Barda Wildlife Sanctuary (BWLS) in Gujarat is proposed to become the second home for Asiatic lions.
+- The Gujarat Forest Department presented the proposal as part of "Project Lion @ 2047" launched by the Indian government to conserve and protect the Asiatic lion population.
+- The project aims to address the threats faced by the Asiatic lion population, which is currently found only in the Gir National Park and Sanctuary.
 
-- World Environmental Health Day on September 26 highlights the relationship between humans and the environment.
+## 29-november-2023
+# All 41 Workers Evacuated In Uttarakhand Tunnel After 17 days
 
-- Objectives include fostering healthy communities and promoting human health.
+- 41 workers rescued from collapsed Silkyara-Barkot tunnel in Uttarakhand, India
+- Rescue operation involved Indian Army, NDRF, and local authorities
+- Tunnel is part of Char Dham project for all-weather connectivity to Hindu shrines
 
-- Theme for 2023 emphasizes global environmental public health and collective responsibility.
+# Govt To Launch First-Ever Auction Of Critical Mineral Blocks Today
 
-### 14. Moody's Concerns About India's Aadhaar Biometric System
+- Ministry of Mines to initiate first tranche auction of critical and strategic minerals
+- Auction involves twenty blocks located strategically across the nation
+- Aim is to boost economy, enhance national security, and support clean energy transition
 
-- Moody's raises concerns about security and privacy vulnerabilities in India's Aadhaar program.
+# Bengaluru To Get India’s Largest Circular Railway, Spanning 287 kilometers
 
-- Doubts about reliability of biometric technologies, especially in humid climates.
+- Groundbreaking 287-km circular railway announced for Bengaluru
+- Circular railway to link key towns, potentially becoming India’s largest suburban railway
+- Expected completion within the next five years
 
-- Report emphasizes potential misuse of digital ID systems and addresses effectiveness of biometric authentication.
+# 4th Edition of ASEAN India Grassroots Innovation Forum (AIGIF) Launched
 
-### 15. Katrina Kaif named as Uniqlo India's brand ambassador
+- AIGIF held in Langkawi, Malaysia, showcasing collaboration between India and ASEAN Member States
+- A platform for showcasing social innovations and strengthening grassroots innovation ecosystems
+- 17 student and grassroots innovators from India participated
 
-- Uniqlo partners with Bollywood actress Katrina Kaif as its first ambassador in India.
+# Indonesia’s Anak Krakatau Volcano Erupts
 
-- Collaboration part of Uniqlo's strategy to expand in the Indian market.
+- Anak Krakatau volcano in Indonesia erupted, releasing a 1 km high ash cloud
+- Heightened volcanic activity has been observed since April last year
+- Eruption lasted 130 seconds, with ash observed to be gray to black in color
 
-- One-year campaign focuses on promoting Fall-Winter 2023 collection through various media channels.
+# Uttar Pradesh Greenlights India’s First Telecom Center of Excellence in Saharanpur
 
-### 16. Waheeda Rehman to Receive Dadasaheb Phalke Lifetime Achievement Award
+- Uttar Pradesh approves establishment of India’s inaugural Telecom Center of Excellence
+- Center aims to develop cutting-edge technology in the telecom sector
+- Construction cost estimated at Rs 30 crore, located at the IIT Roorkee campus in Saharanpur
 
-- Veteran actor Waheeda Rehman honored with Dadasaheb Phalke Lifetime Achievement Award.
+# Amritsar to Host Military Literature Festival Next Year
 
-- Recognition for her contributions to Indian cinema spanning over five decades.
+- Second district-level edition of Military Literature Festival scheduled for Amritsar
+- Emphasis on Punjab and Punjabiyat, exploring military history of the region
+- Inauguration ceremony to take place on December 2 in Chandigarh
 
-- Significant acknowledgment aligns with recent legislative focus on women's achievements.
+# Garuda Aerospace Secures DGCA’s Second Type Certificate
 
-### 17. India Women's Cricket Team Wins Gold Medal By Defeating Sri Lanka
+- Chennai-based Garuda Aerospace receives second type certificate for medium category drones
+- Certification reinforces adherence to DGCA regulatory framework
+- Opens up new opportunities and instills stakeholder confidence
 
-- India's women's cricket team wins gold in the Asian Games 2023 debut.
+# India-Sri Lanka Joint Military Exercise Culminates at Southern Command in Pune
 
-- Impressive batting performance sets up a competitive target for Sri Lanka.
+- Mitrashakti 2023 joint military exercise between Indian Army and Sri Lankan Army concludes
+- Exercise aimed at deeper understanding of operational strategies and tactics
+- Knowledge exchange expected to enhance cooperation in future deployments
 
-- Triumph marks a significant milestone after choosing not to participate in previous editions.
+# Rajnath Singh Unveils Crest Of India Guided Missile Destroyer ‘INS Imphal’
 
-### 18. Asian Games 2023, India wins gold after 41 years in Horse Riding
+- Defence Minister Rajnath Singh unveils crest of INS Imphal, Indian Navy's third stealth guided missile destroyer
+- Designed by Indian Navy's Warship Design Bureau, built by Mazagon Dock Shipbuilders Limited
+- Crest features Kangla Palace and 'Kangla-Sa', paying homage to Manipur's military history and identity
 
-- Indian equestrian team clinches gold in dressage at Asian Games 2023.
+## 29-november-2023
+## 11.18 Largest States to Spend 18-20% More on Capex: Crisil
 
-- Historic victory after a 41-year wait; previous gold in 1982.
+- India's 18 largest states expect to see an 18-20% increase in capital expenditure for FY 2023-24.
+- Factors contributing to this growth include robust goods and services tax collections, stable central government devolution, and interest-free loans to states.
+- States have budgeted for a ~43% increase in capital outlays compared to fiscal 2023 levels.
 
-- India's presence in equestrian events steadily growing with 15 total medals.
+## 12.PLIs and FTAs to Give Fillip to Manmade Fibre Textile Exports
 
-### 19. Chandrayaan-3's Vikram, Rover Pragyan gives No Signals
+- India's manmade fibre textile industry is projected to experience a 75% increase in exports by 2030.
+- This growth is attributed to the Production Linked Incentive (PLI) scheme and favorable free trade agreements with UAE and Australia.
+- The industry is shifting towards manmade fibres due to limitations in the growth of natural fibres.
 
-- ISRO faces setback in Chandrayaan-3 mission; Vikram and Pragyan give no signals.
+## 13.China slows, India grows: S&P Global Ratings Forecasts India’s Robust Growth, Predicts Shift in Asia-Pacific Dynamics
 
-- Lunar night poses extreme challenges with plummeting temperatures.
+- S&P Global Ratings predicts that India's GDP growth will outpace China's, with a forecasted 7% growth for India by 2026.
+- India's GDP is expected to expand at 6.4% in the current fiscal year, with a surge to 6.9% in 2025 and 7% in 2026.
+- S&P envisions a shift in the Asia-Pacific's growth engine from China to South and Southeast Asia, with Vietnam, the Philippines, and Indonesia expected to achieve significant growth rates.
 
-- Mission designed for one lunar daylight period; concerns about equipment in frigid conditions.
+## 14.RBI Added 19 More To Its Unauthorized Forex Trading Platforms
 
-### 20. The Next Pandemic: Disease X Looms as a Potential Global Threat
+- The Reserve Bank of India (RBI) has updated its 'Alert List' of unauthorized forex trading platforms, adding 19 more entities.
+- The update brings the total number of entities on the list to 75.
+- The Alert List aims to curb illegal forex trading activities and protect consumers from potential financial risks.
 
-- Health experts warn about potential global pandemic "Disease X."
+## 15.TEC Plans to Expand in India & Middle East
 
-- Concerns about it surpassing the lethality of COVID-19, claiming over 50 million lives.
+- The Executive Centre (TEC) is strategically focusing on its fastest-growing markets, India and the Middle East, with plans to add approximately 500,000 sq ft.
+- TEC has already invested nearly 200 crore in Dubai and Abu Dhabi and aims to reach close to 1.7-1.8 million sq ft in India and approximately 1.5 million sq ft in the UAE.
+- The company plans to add 300,000-400,000 sq ft in India and at least 100,000 sq ft in the Middle East by 2024.
 
-- UK scientists initiate vaccine development efforts targeting Disease X.
+## 16.India Inc Looking to Recruit Talent with 'Green' Skills
 
-## 27-september-2023
-## 1. Taliban Seeks Economic Support and Recognition from India Ahead of Moscow Format Meeting
-- Taliban calls on India for economic support and recognition
-- China's increased engagement with the Taliban prompts this development
-- The Taliban desires positive traditional relations with India
+- 82% of Indian business leaders express a strong intent to hire professionals with expertise in green and sustainability technologies.
+- 4 out of 5 Indian companies are actively seeking individuals with a background in sustainability.
+- There is a demand for skills in sustainability technology, reflecting a shift towards eco-friendly practices in corporate India.
 
-## 2. 13th Indo-Pacific Armies Chiefs Conference in New Delhi: Key Highlights
-- Conference held in New Delhi from September 26 to 27, 2023
-- Army chiefs from 30 Indo-Pacific nations discuss security cooperation and collective strategies
-- Focus on military diplomacy in mitigating crises in the region
+## 17.Virgin Atlantic Flies World's 1st 100% Sustainable Aviation Fuel Flight From London To US
 
-## 3. Afghani Currency Has Emerged As The Best Performing Currency In The Current Quarter
-- Afghan currency (Afghani) becomes the best-performing currency of the September quarter
-- Factors include dollar inflow through humanitarian aid and currency control measures by the Taliban
-- Afghanistan's natural resources and inclusion in China's Belt and Road Initiative enhance prospects for increased foreign investment
+- A Virgin Atlantic passenger jet completed a London-to-New York journey fueled entirely by sustainable aviation fuel (SAF).
+- The flight represents a step towards reducing emissions in the aviation industry.
+- Virgin Atlantic's Boeing 787 became the first commercial airliner to achieve this feat, highlighting the industry's push for cleaner alternatives.
 
-## 4. India Maintains Unchanged Borrowing Plan and Introduces 50-Year Bond
-- Indian government keeps borrowing plan unchanged for H2FY24
-- Introduces a 50-year bond to raise Rs 30,000 crore
-- Aims to achieve a fiscal deficit target of 5.9% for the current fiscal year
+## 18.Bharat Biotech, University of Sydney Sign MoU for Vaccine Research
 
-## 5. RBI Deputy Governor M. Rajeshwar Rao Gets One-Year Term Extension
-- M. Rajeshwar Rao's term as RBI Deputy Governor extended by one year
-- Initial assignment included overseeing financial regulation within the central bank
-- Rao's term extension highlights his role in promoting transparency and fairness in the banking industry
+- Bharat Biotech and the University of Sydney Infectious Diseases Institute have signed a Memorandum of Understanding (MoU) to collaborate on vaccine research.
+- The collaboration aims to advance the science of vaccines and biotherapeutics by leveraging the strengths of both entities.
+- The partnership seeks to develop innovative approaches to address infectious diseases and epidemics.
 
-## 6. RBI Cancels Licence Of The Kapol Co-operative Bank Over Inadequate Capital
-- The RBI cancels the license of Mumbai-based cooperative bank The Kapol Co-operative Bank Limited
-- Concerns over inadequate capital and earning prospects lead to the cancellation
-- Depositors entitled to receive a deposit insurance claim amount from DICGC
+## 19.Tata Auto Comp Sells Pune Land Parcel for ₹134 cr
 
-## 7. RBI Approved Poonawalla Fincorp To Issue Credit Cards With IndusInd Bank
-- RBI grants approval for Poonawalla Fincorp's collaboration with IndusInd Bank to issue co-branded credit cards
-- Primarily targets customers with favorable credit histories
-- Application and approval process will be fully digital
+- Tata AutoComp Systems has sold a land parcel spanning over 13.26 acres in Pune for ₹134 crore.
+- The real estate developer, Titania Industrial Development, completed the acquisition.
+- Tata AutoComp Systems has applied for a change in zoning to residential for the property.
 
-## 
+## 20.International Day of Solidarity with the Palestinian People 2023
 
-## 28-september-2023
-### PM Attends 20th Anniversary Celebration Of Vibrant Gujarat Global Summit Event
+- November 29th is the International Day of Solidarity with the Palestinian People, symbolizing a collective commitment to champion the rights and aspirations of the Palestinian people.
+- Turkey remains committed to the International Day of Solidarity with the Palestinian people through diplomatic efforts, financial support, and humanitarian aid.
+- Turkey actively addresses the pressing needs in Gaza and advocates for a just resolution to the Israel-Palestine conflict.
 
-- Prime Minister Narendra Modi attends the 20th anniversary celebration of the Vibrant Gujarat Global Summit.
-- The event takes place at Science City in Ahmedabad, Gujarat.
-- The Vibrant Gujarat Global Summit has grown from
+## 21.Odisha CM Launches 'AMA Bank' for Gram Panchayat Banking
 
-## 29-september-2023
+- The Chief Minister of Odisha launched the "AMA Bank" scheme, aiming to provide banking services through CSP Plus banking outlets in all unbanked Gram Panchayats.
+- The scheme bridges the gap in financial services accessibility, particularly in rural areas.
+- Doorstep banking services will be provided to senior citizens, differently-abled individuals, and pregnant women.
 
-1\. PM To Launch 'Sankalp Saptaah' On 30th September
-----------------------------------------------------
+## 22.UP CM Launches Hot Cooked Meal Scheme in Anganwadi Centers
 
--   Prime Minister Narendra Modi to launch 'Sankalp Saptaah' on September 30, 2023.
--   A week-long initiative aimed at enhancing governance at the block level.
--   Inaugural event to witness participation of 3,000 representatives and virtual engagement of two lakh individuals.
+- Chief Minister Yogi Adityanath launched the 'Hot Cooked Meal Scheme' in Uttar Pradesh, providing nutritious meals to children aged 3 to 6 years at Anganwadis.
+- The scheme offers 70 grams of food grains per beneficiary per day in the form of hot-cooked meals.
+- Adityanath laid the foundation stone for 3,401 Anganwadi centers, aiming to strengthen early childhood education and nutrition in the state.
 
-2\. India's Power Demand Surges to Five-Year High in September: CRISIL Report
------------------------------------------------------------------------------
+## 23.Vijayawada Railway Station Bags IGBC's 'Platinum' Rating
 
--   India's power demand in September hits a five-year high at 140-142 billion units.
--   Two consecutive months of all-time high peak power demand, reflecting the need for reliable power generation.
--   CRISIL report highlights factors driving the surge and challenges faced by the power sector.
+- The Vijayawada Railway Station has been awarded the platinum rating by the Indian Green Building Council (IGBC)
 
-3\. What is the Five Eyes Intelligence Alliance?
-------------------------------------------------
+## 30-november-2023
+## 1. MNCs Granted Approval for Deploying Advanced Train Collision Avoidance System on Indian Railways
 
--   The Five Eyes Intelligence Alliance comprises the US, UK, Canada, Australia, and New Zealand.
--   Originated as a post-war intelligence-sharing agreement in 1946 during the Cold War.
--   Played a pivotal role in shaping global intelligence and security strategies.
+- Siemens AG and Kyosan Electric Manufacturing Co granted approval for deploying Kavach on Indian Railways.
+- Initiative expands from previous Indian companies to multinational corporations.
+- Deployment of Kavach system to increase to 5,000 km per annum by 2025-26.
 
-4\. Record-Breaking US Visa Applications by Indians in 2023
------------------------------------------------------------
+## 2. Union WCD Minister Launches ‘Anganwadi Protocol for Divyang Children’
 
--   US Mission in India processes over one million non-immigrant visa applications in 2023.
--   Indians constitute over 10% of all visa applicants globally, reflecting strong interest.
--   Significant numbers in student and employment visa categories, showcasing economic ties.
+- Smt. Smriti Zubin Irani launches Anganwadi Protocol for Divyang Children.
+- Program aims to strengthen well-being of Divyang children.
+- Over 4.37 crore children receiving support for meals and ECCE.
 
-5\. Taiwan Unveils 'Haikun', Its First Domestically Built Submarine
--------------------------------------------------------------------
+## 3. Modi Govt Plans 7 New Bills For Winter Session
 
--   Taiwan unveils Haikun, its first domestically-built submarine, to enhance defense capabilities.
--   Represents a $1.54 billion investment to deter potential threats from China.
--   Aims to operate a fleet of 10 submarines with support from the US and the UK.
+- Winter Session of Parliament to introduce 7 new Bills.
+- Bills cover topics like Central Tribal University and women's quota.
+- Session will also address 11 pending bills.
 
-6\. Country's First Cartography Museum Inaugurated In Mussorie
---------------------------------------------------------------
+## 4. Nepal Becomes First South Asian Nation To Register Same-Sex Marriage
 
--   Inauguration of George Everest Cartography Museum in Mussoorie on World Tourism Day.
--   Located in Park Estate, residence of Sir George Everest, known for calculating Mount Everest's height.
--   Helipad named after mathematician Radhanath Sikdar, who first measured Everest's height.
+- Nepal becomes first South Asian country to register same-sex marriage.
+- Constitution of Nepal prohibits discrimination based on sexual orientation.
+- Supreme Court's interim order legalizes same-sex marriage.
 
-7\. Bihar to Establish Second Tiger Reserve in Kaimur District
---------------------------------------------------------------
+## 5. Nitin Gadkari Inaugurates ‘Classic Imperial’ Luxury Cruise In Kerala
 
--   Bihar to establish its second tiger reserve in Kaimur district.
--   Complements existing Valmiki Tiger Reserve and signifies proactive tiger conservation efforts.
--   Bihar's tiger population grows to 54, reflecting positive conservation trends.
+- Nitin Gadkari inaugurates luxury cruise vessel 'Classic Imperial'.
+- Vessel built in Kerala and can accommodate 150 people.
+- Vessel constructed with strict safety standards.
 
-8\. Russia to boost its defence spending by 70% in 2024
--------------------------------------------------------
+## 6. MAHASAGAR, Indian Navy’s Initiative Between Maritime Heads
 
--   Russia plans a nearly 70% increase in defense spending in 2024.
--   Allocated funds surpass those for critical social policies, reaching 6% of GDP.
--   Financial shift supports extensive offensive operations in Ukraine.
+- Indian Navy holds MAHASAGAR virtual interaction.
+- Aimed at promoting security and growth in Indian Ocean Region.
+- Heads of navies and maritime agencies from multiple countries participate.
 
-9\. RBI Imposed Monetary Penalties On Yet Another Three Co-operative Banks
---------------------------------------------------------------------------
+## 7. OECD Sees India Growth a Bit Under the Weather
 
--   RBI imposes monetary penalties on Saraswat, Bassein Catholic, and Rajkot Nagarik Sahakari banks.
--   Penalties for deficiencies in regulatory compliance and non-compliance with RBI directions.
--   Reflects RBI's commitment to maintaining regulatory standards in co-operative banks.
+- OECD revises growth projections for India.
+- Indian economy expected to grow at 6.3% in FY24.
+- Adverse weather events and global economic outlook affect growth.
 
-10\. Outlook on Indian Bank Credit Growth: Insights from Crisil
----------------------------------------------------------------
+## 8. U.S. Pension Fund’s Index Switch Could Infuse Nearly $4 Billion into Indian Equities
 
--   Crisil projects a decline in India's bank credit growth for FY24.
--   Anticipated slower growth in wholesale credit, steady retail credit expansion, and stable agriculture credit.
--   Expected GDP growth in FY25 is 6.9%.
+- U.S. pension fund's index switch to benefit Indian equity markets.
+- Transition from MSCI EAFE index to MSCI ACWI IMI ex USA ex China ex Hong index.
+- Expected influx of $3.6 billion into Indian equities.
 
-11\. International Translation Day 2023
----------------------------------------
+## 9. Women’s Labor Force Participation Reaches Record High of 24% in Q2FY24, Unemployment Trends Shift
 
--   International Translation Day celebrated on September 30 to honor language professionals.
--   Inaugurated by the International Federation of Translators in 1991.
--   Commemorates St. Jerome, the patron saint of translators.
+- Women's labor force participation reaches record high of 24%.
+- Overall unemployment rate remains steady at 6.6%.
+- Women's unemployment rate dips below 9% for the first time in five years.
 
-12\. Remission Of Duties And Taxes On Exported Products (RoDTEP) Scheme extended till 30th June 2024
-----------------------------------------------------------------------------------------------------
+## 10. Adani Power to Co-fire Green Ammonia at Its Mundra Power Plant
 
--   Central Government extends RoDTEP scheme support for exports till June 2024.
--   Aims to help exporters navigate uncertain international trade conditions.
--   Scheme reimburses duties, taxes, and levies incurred during manufacturing and distribution.
+- Adani Power announces green ammonia combustion pilot project.
+- Aims to co-fire green ammonia with conventional coal.
+- Green ammonia derived from green hydrogen serves as carbon-neutral feedstock.
 
-13\. TCS Tops Kantar BrandZ Top Most Valuable Indian Brands Report 2023
------------------------------------------------------------------------
+## 30-november-2023
+## 11.Day of Remembrance for all Victims of Chemical Warfare, 30 November
 
--   TCS retains top position in Kantar BrandZ Top 75 Most Valuable Indian Brands Report 2023.
--   Report based on opinions of 127,634 respondents evaluating 1,500 brands.
--   HDFC Bank, Infosys, Airtel, and State Bank of India also secure notable positions.
+- The Day of Remembrance for All Victims of Chemical Warfare is observed on November 30 each year.
+- The day serves as a reminder of the devastating toll of chemical warfare on troops and civilians.
+- Its primary objective is to honor and mourn the lives lost due to chemical warfare and raise global awareness about the ban on chemical weapons.
 
-14\. Google & HP Join Hands To Make Chromebooks In India
---------------------------------------------------------
+## 12.2 day Seminar On Santha Kavi Bhima Bhoi & Mahima Cult Legacy Launhed In Bhubaneswar
 
--   HP partners with Google to manufacture Chromebooks in India starting October 2.
--   Aims to provide affordable computing devices for Indian students.
--   Supports the "Make in India" initiative and focuses on the digital education ecosystem.
+- Union Minister Dharmendra Pradhan inaugurated the two-day seminar on Santha Kavi Bhima Bhoi and the legacy of Mahima Cult in Bhubaneswar.
+- The seminar aims to highlight the literary contributions of Santha Kavi Bhima Bhoi and Santha Balaram Das's Laxmi Puran.
+- The Mahima Cult focuses on simplicity, equality, and devotion to the formless Divine.
 
-15\. Banmali Agarwal Appointed Chairman of Tata Advanced Systems
-----------------------------------------------------------------
+## 13.COP28: A Comprehensive Guide to Key Information
 
--   Banmali Agarwal becomes Chairman of Tata Advanced Systems Limited.
--   Assumes the role with a wealth of experience, contributing to Tata Group's defense sector.
--   TASL plays a pivotal role in shaping Tata Group's defense-related endeavors.
+- COP28 is the 28th Conference of the Parties (COP) to the UNFCCC, where global leaders discuss and take action on climate change.
+- It facilitates the exchange of best practices and innovations across sectors crucial to decarbonization efforts.
+- COP28 will take place in Dubai from November 30 to December 12, 2023, with an expected attendance of around 70,000 participants.
 
-16\. Asian Games 2023, Palak Gulia wins gold in women's 10m air pistol
-----------------------------------------------------------------------
+## 14.India Takes Center Stage on QUAD’s Climate Initiatives at COP28
 
--   Indian shooter Palak Gulia wins gold in women's 10m air pistol at Asian Games 2023.
--   Sets a new record with 242.1 points, showcasing poise and composure.
--   Esha Singh secures silver, contributing to India's success in shooting events.
+- India, as the QUAD presidency for 2023, aligns its climate efforts with the alliance's goals.
+- The QUAD nations collaborate on climate adaptation, resilience initiatives, and sustainable lifestyle promotion.
+- The India Pavilion at COP28 hosts significant events under the QUAD umbrella, highlighting the alliance's commitment to climate action.
 
-17\. Swapnil Kusale, Aishwarya Pratap and Akhil Sheoran wins 7th gold for India
--------------------------------------------------------------------------------
+## 15.Viksit Bharat Sankalp Yatra Launched in SWGH
 
--   Indian men's shooting trio secures gold in 50m Rifle 3 Positions Team event.
--   Breaks the world record with an extraordinary score of 1769 points.
--   Indian women's shooting team clinches silver in 10m air pistol team event.
+- The Viksit Bharat Sankalp Yatra aims to inform and empower citizens about flagship schemes introduced by the Central Government.
+- Its core objective is to raise awareness and facilitate the delivery of welfare scheme benefits to the vulnerable population.
+- The campaign focuses on reaching out to citizens, disseminating information, learning from the people, and enrolling beneficiaries.
 
-18\. Nepal Shatters Records with Historic Performance in Asian Games 2023 T20I Match
-------------------------------------------------------------------------------------
+## 16.Cabinet Approves Scheme For Providing Drones To Women Self Help Groups
 
--   Nepal cricket team becomes the first to cross the 300-run mark in T20Is.
--   Achieves a remarkable total of 314/3, rewriting T20 International cricket records.
--   Kushal Malla smashes the fastest-ever T20I century in 34 balls.
+- The cabinet approves a scheme to provide drones to Women Self Help Groups (SHGs) to transform the lives of women engaged in agriculture.
+- Around 15,000 Women SHGs will be selected to receive drones for providing rental services to farmers for agricultural purposes.
+- The scheme provides Central Financial Assistance at 80% of the cost of drones and related accessories/ancillary charges.
 
-19\. International scientists make refined map of world's '8th continent' Zealandia
------------------------------------------------------------------------------------
+## 17.Cabinet Approves Pradhan Mantri Janjati Adivasi Nyaya Maha Abhiyan
 
--   International team creates a detailed map of Zealandia, the submerged eighth continent.
--   Zealandia's geological history dates back 83 million years when it separated from Gondwana.
--   Only 6% of Zealandia is above sea level, including New Zealand and neighboring islands.
+- The cabinet approves the PM-JANMAN initiative to address the challenges faced by Particularly Vulnerable Tribal Groups (PVTGs).
+- The PM-JANMAN implements 11 critical interventions across nine ministries, including the Ministry of Tribal Affairs.
+- The Ministry of Ayush establishes Ayush Wellness Centres for PVTGs to provide traditional Ayush healthcare facilities.
 
-20\. Actor Michael Gambon, Who Played Professor Dumbledore In Harry Potter Passed Away
---------------------------------------------------------------------------------------
+## 18.Government Extends PMGKAY Scheme for 5 More Years, to Cost 11.8 Lakh Crore
 
--   Michael Gambon, renowned for playing Professor Dumbledore, passes away at 82.
--   Notable for diverse roles in films, including the Harry Potter series.
--   Breakthrough in 1980 with a performance in Bertolt Brecht's "Life of Galileo."
+- The Pradhan Mantri Garib Kalyan Anna Yojana (PMGKAY) scheme is extended for five years to provide free foodgrains to 81.35 crore poor citizens.
+- The extension will be effective from January 1, 2024, and the scheme will cost approximately ₹11.80 lakh crore.
+- The initiative was initially introduced in 2020 as a pandemic relief measure.
 
-21\. Co-Founder Of Asian Paints, Ashwin Dani passed away At 79
---------------------------------------------------------------
+## 19.Abdullahi Mire Wins 2023 UNHCR Nansen Refugee Award
 
--   Ashwin Dani, co-founder of Asian Paints, passes away at 79.
--   Contributions to Asian Paints and the global paint industry leave an indelible mark.
--   Introduced innovations, including the first computerized color mixing program in India.
+- Abdullahi Mire, a Somali refugee, is named the 2023 UNHCR Nansen Refugee Award Global Laureate for his work championing the right to education for displaced children.
+- Mire has put over 100,000 books in the hands of displaced children and youth in Kenya's Dadaab refugee camps.
+- The award ceremony will take place in Geneva, Switzerland, on December 13, 2023.
 
-## 30-september-2023
-## Dr Dinesh Dasa takes oath of Office and Secrecy as Member, UPSC
+## 20.Mizoram Governor Appoints Air Force Officer as India’s First Woman Aide De Camp
 
-- Dr. Dinesh Dasa, an eminent scholar, took the oath of office and secrecy as a Member of UPSC.
-- The ceremony was administered by UPSC Chairman Dr. Manoj Soni.
-- Dr. Dasa has a rich background in forestry and public service and served as Chairman of the Gujarat Public Service Commission.
+- Squadron Leader Manisha Padhi, a distinguished officer from the Indian Air Force, is appointed as India's first Woman Aide-De-Camp (ADC).
+- Padhi brings a wealth of experience to her new role, having served in various capacities in the Indian Air Force.
+- Her appointment reflects her dedication to her profession and ability to excel in diverse and challenging environments.
 
-## Marico’s Saugata Gupta named as ASCI Chairman
+## 21.Leadership Transition at RMAI: Puneet Vidyarthi Appointed President for 2023-2025 Term
 
-- Saugata Gupta, Managing Director and CEO of Marico Ltd, has been appointed Chairman of ASCI.
-- Partha Sinha was elected vice chairman, and Sudhanshu Vats was appointed honorary treasurer.
-- Gupta has been associated with ASCI for several years, including as a special invitee on the Board of Governors.
+- Puneet Vidyarthi is appointed as the President of the Rural Marketing Association of India (RMAI) for the term 2023-2025.
+- Vidyarthi brings a strategic and innovative perspective to his new role, with experience in marketing and digital innovations.
+- He succeeds Biswabaran Chakrabarti, who served as the incumbent President since 2019.
 
-## K.N. Shanth Kumar Elected Chairman of Press Trust of India (PTI) Board
+## 22.Hockey Punjab Wins 13th Hockey India Senior Men National Championship 2023
 
-- K.N. Shanth Kumar, a seasoned media professional, has been elected Chairman of PTI's Board of Directors.
-- Mr. Shanth Kumar takes over from Aveek Sarkar, who served as Chairman for two consecutive terms.
-- This shift in leadership is expected to bring fresh perspectives and ideas to India's largest private news agency.
+- Hockey Punjab wins the gold medal at the 13th Hockey India Senior Men National Championship 2023 after defeating Hockey Haryana in the final match.
+- Led by captain Harmanpreet Singh, Hockey Punjab claims its fourth title in the tournament's history.
+- The Hockey Unit of Tamil Nadu secures the bronze medal by defeating Hockey Karnataka.
 
-## Asian Games 2023, Rohan Bopanna and Rutuja Bhosale wins gold in Tennis
+## 23.Railways To Upgrade ‘Kavach’ To LTE: Ashwini Vaishnaw
 
-- Rohan Bopanna and Rutuja Bhosale clinched the mixed doubles gold medal in tennis at the Asian Games 2023.
-- They defeated Chinese Taipei's Yu-hsiou Hsu and Hao-ching Chan in a thrilling match.
-- This victory added to India's two-medal show in tennis at the Asian Games.
+- The Ministry of Railways plans to upgrade the indigenous anti-collision system, Kavach, to 4G/5G (LTE-based) technology.
+- Kavach is currently deployed across more than 1,465 route kilometers and is set to be implemented over longer ranges.
+- Tender release for the next-generation Kavach is scheduled for May-June next year.
 
-## International Day of Older Persons 2023: Date, Theme, History and Significance
+## 24.Henry Kissinger, Nobel Peace Prize winner, passed away
 
-- The International Day of Older Persons is observed on October 1st every year.
-- It recognizes the contributions of senior citizens and addresses the challenges they face.
-- The theme for the 33rd commemoration in 2023 is "Fulfilling the Promises of the Universal Declaration of Human Rights for Older Persons: Across Generations."
-
-## World Habitat Day 2023, Date, Theme, History and Significance
-
-- World Habitat Day is observed on the first Monday of October each year.
-- The theme for World Habitat Day 2023 is "Resilient Urban Economies: Cities as Drivers of Growth and Recovery."
-- It focuses on the access to adequate shelter and the challenges faced by urban economies.
-
-## International Day of Non-Violence 2023, Date, Theme, History and Significance
-
-- The International Day of Non-Violence is celebrated on October 2nd each year, marking Mahatma Gandhi's birthday.
-- It promotes peaceful conflict resolution and the development of skills for non-violence.
-- The Non-Violence Project Foundation plays a pivotal role in advancing this cause.
-
-## Eurozone Inflation Hits Two-Year Low
-
-- Inflation in the Eurozone dropped to its lowest level in almost two years.
-- Consumer prices rose at an annual rate of 4.3 percent in September.
-- Inflation remains above the European Central Bank's target of two percent.
-
-## ADB’s Capital Reforms to Unlock $100 Billion for Asia and Pacific
-
-- The Asian Development Bank has endorsed capital management reforms, unlocking a $100 billion fund.
-- These reforms aim to address crises and climate challenges in the Asia and Pacific region.
-- The funds will be available over the next ten years.
-
-## India’s Core Sector Records Robust Growth in August, Highest in 14 Months
-
-- India's core sector witnessed impressive growth in August, reaching a 14-month high of 12.1%.
-- The favorable base effect and other factors contributed to this growth.
-- It reflects positive economic performance in key sectors.
-
-## India’s Fiscal Deficit Reaches 36% of FY Target in August
-
-- India's fiscal deficit for the first five months of the 2023-24 financial year reached 36% of the full-year target.
-- The fiscal deficit represents the gap between government expenditure and revenue.
-- As of the end of August, the fiscal deficit amounted to Rs 6.42 lakh crore.
-
-## Government Increases Windfall Tax on Crude Petroleum
-
-- The Indian government has announced an increase in the special additional excise duty on domestically produced crude petroleum.
-- Levies on diesel and Aviation Turbine Fuel (ATF) have been reduced.
-- These changes aim to modify tax policies related to the petroleum industry.
-
-## Delhi CM Arvind Kejriwal Unveils 15-Point Winter Action Plan to Combat Air Pollution
-
-- Delhi Chief Minister Arvind Kejriwal has unveiled a comprehensive 15-point winter action plan to address air pollution.
-- The plan aims to improve air quality metrics, including reductions in PM 2.5 and PM 10 levels.
-- This initiative is crucial for cleaner air during the festive season in the national capital.
-
-## Ruixiang Zhang Awarded 2023 SASTRA Ramanujan Prize in Mathematics
-
-- Mathematician Ruixiang Zhang, Assistant Professor at the University of California, Berkeley, has been awarded the 2023 SASTRA Ramanujan Prize.
-- The prize recognizes his significant contributions to mathematics.
-- The award ceremony will take place during an international conference in Number Theory at SASTRA University in Kumbakonam.
+- Henry Kissinger, former United States Secretary of State, passed away at the age of 100.
+- He played a pivotal role in shaping US foreign policy during the 1970s, including opening relations with China and ending the Vietnam War.
+- Kissinger was born in Germany in 1923 and served as a consultant and professor in addition to his government role.
 
