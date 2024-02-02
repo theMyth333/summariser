@@ -45,11 +45,11 @@ function fetchData(localDate) {
       })
       const content = ulContent.join(os.EOL)
       
-      fs.writeFileSync(`temp/original-${localDate}.md`, content, 'utf-8')
+      fs.writeFileSync(`original/temp/original-${localDate}.md`, content, 'utf-8')
 
       summarise(content)
         .then((data) => {
-            fs.writeFileSync(`summarised/${localDate}.md`, `## ${localDate}${os.EOL}${data}`, 'utf-8')
+            fs.writeFileSync(`summarised/summarised/${localDate}.md`, `## ${localDate}${os.EOL}${data}`, 'utf-8')
         })
         .catch((error) => console.log(error.message))
 
@@ -90,7 +90,7 @@ function dateRangeLoop(startDate, endDate) {
   }, 21000)
 }
 
-const startDate = '2023-10-3'
-const endDate = '4-october-2023'
+const startDate = '2023-12-1'
+const endDate = '31-december-2023'
 
 dateRangeLoop(startDate, endDate)

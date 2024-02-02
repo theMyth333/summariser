@@ -2,8 +2,8 @@ import * as fs from 'fs'
 import * as path from 'path'
 import markdownpdf from 'markdown-pdf'
 
-const inputFolderPath = './summarised-november';
-const outputFile = 'november.pdf';
+const inputFolderPath = './summarised/summarised-january';
+const outputFile = 'january.pdf';
 
 
 

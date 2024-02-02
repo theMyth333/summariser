@@ -26,6 +26,14 @@ async function summarise(content) {
 }
 
 function fetchData(localDate) {
+
+  // from january url has day as '01' instead of '1'
+  const arr = localDate.split('-')
+if (arr[0].length == 1){
+    arr[0] = 0 + arr[0]
+    localDate = arr.join('-')
+}
+
   console.log(localDate)
   axios
     .get(`https://www.bankersadda.com/current-affairs-${localDate}/`)
@@ -57,19 +65,19 @@ function fetchData(localDate) {
       const content1 = ulContent1.join(os.EOL)
       const content2 = ulContent2.join(os.EOL)
       
-      fs.writeFileSync(`temp/original-${localDate}.md`, `${content1}${os.EOL}${content2}`, 'utf-8')
+      fs.writeFileSync(`original/temp/original-${localDate}.md`, `${content1}${os.EOL}${content2}`, 'utf-8')
 
       // first half
       summarise(content1)
         .then((data) => {
-            fs.writeFileSync(`summarised/${localDate}-1.md`, `## ${localDate}${os.EOL}${data}`, 'utf-8')
+            fs.writeFileSync(`summarised/summarised/${localDate}-1.md`, `## ${localDate}${os.EOL}${data}`, 'utf-8')
         })
         .catch((error) => console.log(error.message))
       
       // second half
       summarise(content2)
         .then((data) => {
-            fs.writeFileSync(`summarised/${localDate}-2.md`, `## ${localDate}${os.EOL}${data}`, 'utf-8')
+            fs.writeFileSync(`summarised/summarised/${localDate}-2.md`, `## ${localDate}${os.EOL}${data}`, 'utf-8')
         })
         .catch((error) => console.log(error.message))
 
@@ -110,7 +118,7 @@ function dateRangeLoop(startDate, endDate) {
   }, 61000)
 }
 
-const startDate = '2023-11-01'
-const endDate = '30-november-2023'
+const startDate = '2024-01-01'
+const endDate = '31-january-2024'
 
 dateRangeLoop(startDate, endDate)
